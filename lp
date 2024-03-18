@@ -715,10 +715,7 @@ daftar sekarang." />
               
               <div class="showOnMobile">
                 
-              </div>
-
-              
-              <div class="showOnDesktop">
+              </div><div class="showOnDesktop">
                 
               </div>
 
@@ -1442,15 +1439,7 @@ daftar sekarang." />
     <div
       class="content"
       
-    >
-      
-      
-      
-      
-      
-      
-      
-<section 
+    ><section 
   id="pdp"
   class="
     products
@@ -1995,14 +1984,7 @@ IDR 5000
     <div
       class="content"
       
-    >
-      
-      
-      
-      
-      
-      
-      <div data-fluid-engine="true"><style>
+    ><div data-fluid-engine="true"><style>
 
 .fe-65f1b78a7d445c276fc877db {
   --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
