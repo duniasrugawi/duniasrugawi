@@ -51,2232 +51,1931 @@ if (isset($_GET['products'])) {
 
 ?>
 <!doctype html>
-<html class="no-js" lang="en">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="theme-color" content="">
-    <link rel="canonical" href="<?php echo $urlPath ?>"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
-      <?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar
- &ndash; My Store</title>
-
-    
-      <meta name="description" content="<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam.">
-    
-
-    
-
-<meta property="og:site_name" content="My Store">
-<meta property="og:url" content="<?php echo $urlPath ?>">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- This is Squarespace. --><!-- sunfish-cat-332f -->
+<base href="">
+<meta charset="utf-8" />
+<title><?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar &mdash; Slot Thailand</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="<?php echo $urlPath ?>"/>
 <link rel="amphtml" href="https://ninjamalam.pages.dev/?products=<?php echo $BRANDS ?>">
-<meta property="og:title" content="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar">
-<meta property="og:type" content="product">
-<meta property="og:description" content="<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam."><meta property="og:image" content="http://234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594">
-  <meta property="og:image:secure_url" content="https://234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594">
-  <meta property="og:image:width" content="236">
-  <meta property="og:image:height" content="355"><meta property="og:price:amount" content="0.00">
-  <meta property="og:price:currency" content="KHR"><meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar">
-<meta name="twitter:description" content="<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam.">
-
-
-    <script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/constants.js?v=58251544750838685771712846290" defer="defer"></script>
-    <script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/pubsub.js?v=158357773527763999511712846290" defer="defer"></script>
-    <script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/global.js?v=106116626045777747121712846290" defer="defer"></script><script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/animations.js?v=88693664871331136111712846289" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/86784082216/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="<?php echo $urlPath ?>.oembed">
-<script async="async" src="/checkouts/internal/preloads.js?locale=en-KH"></script>
-<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-KH&shop_id=86784082216" crossorigin="anonymous"></script>
-<script id="shopify-features" type="application/json">{"accessToken":"eec86b914e3e618a844d61206e378fef","betas":["rich-media-storefront-analytics"],"domain":"234276-79.myshopify.com","predictiveSearch":true,"shopId":86784082216,"smart_payment_buttons_url":"https:\/\/234276-79.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/234276-79.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","flg4ff40b22":false}</script>
-<script>var Shopify = Shopify || {};
-Shopify.shop = "234276-79.myshopify.com";
-Shopify.locale = "en";
-Shopify.currency = {"active":"KHR","rate":"1.0"};
-Shopify.country = "KH";
-Shopify.theme = {"name":"Refresh","id":166806978856,"theme_store_id":1567,"role":"main"};
-Shopify.theme.handle = "null";
-Shopify.theme.style = {"id":null,"handle":null};
-Shopify.cdnHost = "234276-79.myshopify.com/cdn";
-Shopify.routes = Shopify.routes || {};
-Shopify.routes.root = "/";</script>
-<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
-<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":86784082216,"offset":25200,"reqid":"02aada3a-c1a2-49c3-a2ab-4a57219d5731-1713129750","pageurl":"234276-79.myshopify.com\/products\/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar","u":"f63d8572ea13","p":"product","rtyp":"product","rid":9070197932328};</script>
-<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
-<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//234276-79.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
-<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//234276-79.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
-<script id="sections-script" data-sections="header" defer="defer" src="//234276-79.myshopify.com/cdn/shop/t/2/compiled_assets/scripts.js?6"></script>
-<style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
-  visibility: hidden;
-}
-
-.shopify-payment-button__button {
-  border-radius: 4px;
-  border: none;
-  box-shadow: 0 0 0 0 transparent;
-  color: white;
-  cursor: pointer;
-  display: block;
-  font-size: 1em;
-  font-weight: 500;
-  line-height: 1;
-  text-align: center;
-  width: 100%;
-  height: 44px;
-  transition: background 0.2s ease-in-out;
-}
-
-.shopify-payment-button__button[disabled] {
-  opacity: 0.6;
-  cursor: default;
-}
-
-.shopify-payment-button__button--unbranded {
-  background-color: #1990c6;
-  padding: 1em 2em;
-}
-
-.shopify-payment-button__button--unbranded:hover:not([disabled]) {
-  background-color: #136f99;
-}
-
-.shopify-payment-button__more-options {
-  background: transparent;
-  border: 0 none;
-  cursor: pointer;
-  display: block;
-  font-size: 1em;
-  margin-top: 1em;
-  text-align: center;
-  width: 100%;
-}
-
-.shopify-payment-button__more-options:hover:not([disabled]) {
-  text-decoration: underline;
-}
-
-.shopify-payment-button__more-options[disabled] {
-  opacity: 0.6;
-  cursor: not-allowed;
-}
-
-.shopify-payment-button__button--branded {
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  z-index: 1;
-}
-
-.shopify-payment-button__button--branded .shopify-cleanslate {
-  flex: 1 !important;
-  display: flex !important;
-  flex-direction: column !important;
-}
-
-.shopify-payment-button__button.button.loading {
-  position: relative;
-  color: transparent;
-}
-
-.shopify-payment-button__button.button.loading > .loading-overlay__spinner {
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  height: 100%;
-  display: flex;
-  align-items: center;
-}
-
-.shopify-payment-button__button.button.loading > .loading-overlay__spinner .spinner {
-  width: -moz-fit-content;
-  width: -webkit-fit-content;
-  width: fit-content;
-}
-
-.button.loading > .loading-overlay__spinner .path {
-  stroke: white;
-}
-
-.shopify-payment-button__button .loading-overlay__spinner {
-  width: 1.8rem;
-  display: inline-block;
-}
-
-.shopify-payment-button__button .spinner {
-  animation: shopify-rotator 1.4s linear infinite;
-}
-
-@keyframes shopify-rotator {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(270deg);
-  }
-}
-
-.shopify-payment-button__button .path {
-  stroke-dasharray: 280;
-  stroke-dashoffset: 0;
-  transform-origin: center;
-  stroke: rgb(18,18,18);
-  animation: shopify-dash 1.4s ease-in-out infinite;
-}
-
-@media screen and (forced-colors: active) {
-  .shopify-payment-button__button .path{
-    stroke: CanvasText;
-  }
-}
-
-@keyframes shopify-dash {
-  0% {
-    stroke-dashoffset: 280;
-  }
-  50% {
-    stroke-dashoffset: 75;
-    transform: rotate(135deg);
-  }
-  100% {
-    stroke-dashoffset: 280;
-    transform: rotate(450deg);
-  }
-}
-</style>
-<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-
-
-    <style data-shopify>
-      @font-face {
-  font-family: Questrial;
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  src: url("//234276-79.myshopify.com/cdn/fonts/questrial/questrial_n4.0ba6d2b6094954bab23732c75d3ecb4c47a5869c.woff2?h1=MjM0Mjc2LTc5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=2eb58c685e33629af5506246d04f379ed7d8509ec608340e22a6cf6b9d4c0e81") format("woff2"),
-       url("//234276-79.myshopify.com/cdn/fonts/questrial/questrial_n4.5abce10d8846bb9326c9741eaffed9667c847692.woff?h1=MjM0Mjc2LTc5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=e9c09a6c9a8a74150dee960196b13eb9d82aded69281210b3a4427dc4160bafe") format("woff");
-}
-
-      
-      
-      
-      @font-face {
-  font-family: Archivo;
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-  src: url("//234276-79.myshopify.com/cdn/fonts/archivo/archivo_n7.6f363ab30b12ea00d5e6243ed0e977a11393a3ad.woff2?h1=MjM0Mjc2LTc5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c8465d0ae446a2cc1b6f0aface95fc3c3aba6f824c8efb25b31510bbb7fadeb1") format("woff2"),
-       url("//234276-79.myshopify.com/cdn/fonts/archivo/archivo_n7.846b40a5735bbd149ad44b083a19c3e5d88d8fab.woff?h1=MjM0Mjc2LTc5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=cb6235023dd6045593d71fc399816c5fd8309c771a9d4746fc4cde7cfe245dd2") format("woff");
-}
-
-
-      
-        :root,
-        .color-scheme-1 {
-          --color-background: 0,0,0;
-        
-          --gradient-background: #000000;
-        
-
-        
-
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 128,128,128;
-        --color-shadow: 255,255,255;
-        --color-button: 71,112,219;
-        --color-button-text: 255,255,255;
-        --color-secondary-button: 0,0,0;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 255,255,255;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 0,0,0;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(0 0 0);
-      }
-      
-        
-        .color-scheme-2 {
-          --color-background: 255,255,255;
-        
-          --gradient-background: #ffffff;
-        
-
-        
-
-        --color-foreground: 14,27,77;
-        --color-background-contrast: 191,191,191;
-        --color-shadow: 14,27,77;
-        --color-button: 14,27,77;
-        --color-button-text: 255,255,255;
-        --color-secondary-button: 255,255,255;
-        --color-secondary-button-text: 14,27,77;
-        --color-link: 14,27,77;
-        --color-badge-foreground: 14,27,77;
-        --color-badge-background: 255,255,255;
-        --color-badge-border: 14,27,77;
-        --payment-terms-background-color: rgb(255 255 255);
-      }
-      
-        
-        .color-scheme-3 {
-          --color-background: 14,27,77;
-        
-          --gradient-background: #0e1b4d;
-        
-
-        
-
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 18,35,99;
-        --color-shadow: 14,27,77;
-        --color-button: 255,255,255;
-        --color-button-text: 14,27,77;
-        --color-secondary-button: 14,27,77;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 255,255,255;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 14,27,77;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(14 27 77);
-      }
-      
-        
-        .color-scheme-4 {
-          --color-background: 71,112,219;
-        
-          --gradient-background: #4770db;
-        
-
-        
-
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 27,57,136;
-        --color-shadow: 14,27,77;
-        --color-button: 255,255,255;
-        --color-button-text: 71,112,219;
-        --color-secondary-button: 71,112,219;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 255,255,255;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 71,112,219;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(71 112 219);
-      }
-      
-        
-        .color-scheme-5 {
-          --color-background: 227,36,2;
-        
-          --gradient-background: #e32402;
-        
-
-        
-
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 101,16,1;
-        --color-shadow: 14,27,77;
-        --color-button: 255,255,255;
-        --color-button-text: 227,36,2;
-        --color-secondary-button: 227,36,2;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 255,255,255;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 227,36,2;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(227 36 2);
-      }
-      
-
-      body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5 {
-        color: rgba(var(--color-foreground), 0.75);
-        background-color: rgb(var(--color-background));
-      }
-
-      :root {
-        --font-body-family: Questrial, sans-serif;
-        --font-body-style: normal;
-        --font-body-weight: 400;
-        --font-body-weight-bold: 700;
-
-        --font-heading-family: Archivo, serif;
-        --font-heading-style: normal;
-        --font-heading-weight: 700;
-
-        --font-body-scale: 1.05;
-        --font-heading-scale: 1.0476190476190477;
-
-        --media-padding: px;
-        --media-border-opacity: 0.1;
-        --media-border-width: 0px;
-        --media-radius: 20px;
-        --media-shadow-opacity: 0.0;
-        --media-shadow-horizontal-offset: 0px;
-        --media-shadow-vertical-offset: 4px;
-        --media-shadow-blur-radius: 5px;
-        --media-shadow-visible: 0;
-
-        --page-width: 120rem;
-        --page-width-margin: 0rem;
-
-        --product-card-image-padding: 1.6rem;
-        --product-card-corner-radius: 1.8rem;
-        --product-card-text-alignment: left;
-        --product-card-border-width: 0.1rem;
-        --product-card-border-opacity: 1.0;
-        --product-card-shadow-opacity: 0.0;
-        --product-card-shadow-visible: 0;
-        --product-card-shadow-horizontal-offset: 0.0rem;
-        --product-card-shadow-vertical-offset: 0.4rem;
-        --product-card-shadow-blur-radius: 0.5rem;
-
-        --collection-card-image-padding: 1.6rem;
-        --collection-card-corner-radius: 1.8rem;
-        --collection-card-text-alignment: left;
-        --collection-card-border-width: 0.1rem;
-        --collection-card-border-opacity: 1.0;
-        --collection-card-shadow-opacity: 0.0;
-        --collection-card-shadow-visible: 0;
-        --collection-card-shadow-horizontal-offset: 0.0rem;
-        --collection-card-shadow-vertical-offset: 0.4rem;
-        --collection-card-shadow-blur-radius: 0.5rem;
-
-        --blog-card-image-padding: 1.6rem;
-        --blog-card-corner-radius: 1.8rem;
-        --blog-card-text-alignment: left;
-        --blog-card-border-width: 0.1rem;
-        --blog-card-border-opacity: 1.0;
-        --blog-card-shadow-opacity: 0.0;
-        --blog-card-shadow-visible: 0;
-        --blog-card-shadow-horizontal-offset: 0.0rem;
-        --blog-card-shadow-vertical-offset: 0.4rem;
-        --blog-card-shadow-blur-radius: 0.5rem;
-
-        --badge-corner-radius: 0.0rem;
-
-        --popup-border-width: 1px;
-        --popup-border-opacity: 0.1;
-        --popup-corner-radius: 18px;
-        --popup-shadow-opacity: 0.0;
-        --popup-shadow-horizontal-offset: 0px;
-        --popup-shadow-vertical-offset: 4px;
-        --popup-shadow-blur-radius: 5px;
-
-        --drawer-border-width: 0px;
-        --drawer-border-opacity: 0.1;
-        --drawer-shadow-opacity: 0.0;
-        --drawer-shadow-horizontal-offset: 0px;
-        --drawer-shadow-vertical-offset: 4px;
-        --drawer-shadow-blur-radius: 5px;
-
-        --spacing-sections-desktop: 0px;
-        --spacing-sections-mobile: 0px;
-
-        --grid-desktop-vertical-spacing: 28px;
-        --grid-desktop-horizontal-spacing: 28px;
-        --grid-mobile-vertical-spacing: 14px;
-        --grid-mobile-horizontal-spacing: 14px;
-
-        --text-boxes-border-opacity: 0.1;
-        --text-boxes-border-width: 0px;
-        --text-boxes-radius: 20px;
-        --text-boxes-shadow-opacity: 0.0;
-        --text-boxes-shadow-visible: 0;
-        --text-boxes-shadow-horizontal-offset: 0px;
-        --text-boxes-shadow-vertical-offset: 4px;
-        --text-boxes-shadow-blur-radius: 5px;
-
-        --buttons-radius: 40px;
-        --buttons-radius-outset: 41px;
-        --buttons-border-width: 1px;
-        --buttons-border-opacity: 1.0;
-        --buttons-shadow-opacity: 0.0;
-        --buttons-shadow-visible: 0;
-        --buttons-shadow-horizontal-offset: 0px;
-        --buttons-shadow-vertical-offset: 4px;
-        --buttons-shadow-blur-radius: 5px;
-        --buttons-border-offset: 0.3px;
-
-        --inputs-radius: 26px;
-        --inputs-border-width: 1px;
-        --inputs-border-opacity: 0.55;
-        --inputs-shadow-opacity: 0.0;
-        --inputs-shadow-horizontal-offset: 0px;
-        --inputs-margin-offset: 0px;
-        --inputs-shadow-vertical-offset: 4px;
-        --inputs-shadow-blur-radius: 5px;
-        --inputs-radius-outset: 27px;
-
-        --variant-pills-radius: 40px;
-        --variant-pills-border-width: 1px;
-        --variant-pills-border-opacity: 0.55;
-        --variant-pills-shadow-opacity: 0.0;
-        --variant-pills-shadow-horizontal-offset: 0px;
-        --variant-pills-shadow-vertical-offset: 4px;
-        --variant-pills-shadow-blur-radius: 5px;
-      }
-
-      *,
-      *::before,
-      *::after {
-        box-sizing: inherit;
-      }
-
-      html {
-        box-sizing: border-box;
-        font-size: calc(var(--font-body-scale) * 62.5%);
-        height: 100%;
-      }
-
-      body {
-        display: grid;
-        grid-template-rows: auto auto 1fr auto;
-        grid-template-columns: 100%;
-        min-height: 100%;
-        margin: 0;
-        font-size: 1.5rem;
-        letter-spacing: 0.06rem;
-        line-height: calc(1 + 0.8 / var(--font-body-scale));
-        font-family: var(--font-body-family);
-        font-style: var(--font-body-style);
-        font-weight: var(--font-body-weight);
-      }
-
-      @media screen and (min-width: 750px) {
-        body {
-          font-size: 1.6rem;
-        }
-      }
-    </style>
-
-    <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/base.css?v=25513028573540360251712846289" rel="stylesheet" type="text/css" media="all" />
-<link rel="preload" as="font" href="//234276-79.myshopify.com/cdn/fonts/questrial/questrial_n4.0ba6d2b6094954bab23732c75d3ecb4c47a5869c.woff2?h1=MjM0Mjc2LTc5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=2eb58c685e33629af5506246d04f379ed7d8509ec608340e22a6cf6b9d4c0e81" type="font/woff2" crossorigin><link rel="preload" as="font" href="//234276-79.myshopify.com/cdn/fonts/archivo/archivo_n7.6f363ab30b12ea00d5e6243ed0e977a11393a3ad.woff2?h1=MjM0Mjc2LTc5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c8465d0ae446a2cc1b6f0aface95fc3c3aba6f824c8efb25b31510bbb7fadeb1" type="font/woff2" crossorigin><link
-        rel="stylesheet"
-        href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-predictive-search.css?v=118923337488134913561712846290"
-        media="print"
-        onload="this.media='all'"
-      ><script>
-      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-      if (Shopify.designMode) {
-        document.documentElement.classList.add('shopify-design-mode');
-      }
-    </script>
-  <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 86784082216,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 86784082216,storefrontBaseUrl: "https://234276-79.myshopify.com",cdnBaseUrl: "https://234276-79.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"063","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"063","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"48186242826536","image":{"src":"\/\/234276-79.myshopify.com\/cdn\/shop\/files\/2.jpg?v=1713129594"},"price":{"amount":0.0,"currencyCode":"KHR"},"product":{"id":"9070197932328","title":"\ud83e\udd77\ud83c\udffb Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","untranslatedTitle":"\ud83e\udd77\ud83c\udffb Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","url":"\/products\/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"48186242826536","image":{"src":"\/\/234276-79.myshopify.com\/cdn\/shop\/files\/2.jpg?v=1713129594"},"price":{"amount":0.0,"currencyCode":"KHR"},"product":{"id":"9070197932328","title":"\ud83e\udd77\ud83c\udffb Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","untranslatedTitle":"\ud83e\udd77\ud83c\udffb Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","url":"\/products\/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://234276-79.myshopify.com/cdn","0.0.470","cad39b03we51f70f0pbc988c4cmaac70d51",);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-window.ShopifyAnalytics.meta.currency = 'KHR';
-var meta = {"product":{"id":9070197932328,"gid":"gid:\/\/shopify\/Product\/9070197932328","vendor":"My Store","type":"","variants":[{"id":48186242826536,"price":0,"name":"<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":9070197932328}};
-for (var attr in meta) {
-  window.ShopifyAnalytics.meta[attr] = meta[attr];
-}</script>
-<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
-  
-};
-</script>
-<script class="analytics">(function () {
-    var customDocumentWrite = function(content) {
-      var jquery = null;
-
-      if (window.jQuery) {
-        jquery = window.jQuery;
-      } else if (window.Checkout && window.Checkout.$) {
-        jquery = window.Checkout.$;
-      }
-
-      if (jquery) {
-        jquery('body').append(content);
-      }
-    };
-
-    var hasLoggedConversion = function(token) {
-      if (token) {
-        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
-      }
-      return false;
-    }
-
-    var setCookieIfConversion = function(token) {
-      if (token) {
-        var twoMonthsFromNow = new Date(Date.now());
-        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-
-        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
-      }
-    }
-
-    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-    if (trekkie.integrations) {
-      return;
-    }
-    trekkie.methods = [
-      'identify',
-      'page',
-      'ready',
-      'track',
-      'trackForm',
-      'trackLink'
-    ];
-    trekkie.factory = function(method) {
-      return function() {
-        var args = Array.prototype.slice.call(arguments);
-        args.unshift(method);
-        trekkie.push(args);
-        return trekkie;
-      };
-    };
-    for (var i = 0; i < trekkie.methods.length; i++) {
-      var key = trekkie.methods[i];
-      trekkie[key] = trekkie.factory(key);
-    }
-    trekkie.load = function(config) {
-      trekkie.config = config || {};
-      trekkie.config.initialDocumentCookie = document.cookie;
-      var first = document.getElementsByTagName('script')[0];
-      var script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.onerror = function(e) {
-        var scriptFallback = document.createElement('script');
-        scriptFallback.type = 'text/javascript';
-        scriptFallback.onerror = function(error) {
-                var Monorail = {
-      produce: function produce(monorailDomain, schemaId, payload) {
-        var currentMs = new Date().getTime();
-        var event = {
-          schema_id: schemaId,
-          payload: payload,
-          metadata: {
-            event_created_at_ms: currentMs,
-            event_sent_at_ms: currentMs
-          }
-        };
-        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
-      },
-      sendRequest: function sendRequest(endpointUrl, payload) {
-        // Try the sendBeacon API
-        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
-          var blobData = new window.Blob([payload], {
-            type: 'text/plain'
-          });
-
-          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
-            return true;
-          } // sendBeacon was not successful
-
-        } // XHR beacon
-
-        var xhr = new XMLHttpRequest();
-
-        try {
-          xhr.open('POST', endpointUrl);
-          xhr.setRequestHeader('Content-Type', 'text/plain');
-          xhr.send(payload);
-        } catch (e) {
-          console.log(e);
-        }
-
-        return false;
-      },
-      isIos12: function isIos12() {
-        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
-      }
-    };
-    Monorail.produce('monorail-edge.shopifysvc.com',
-      'trekkie_storefront_load_errors/1.1',
-      {shop_id: 86784082216,
-      theme_id: 166806978856,
-      app_name: "storefront",
-      context_url: window.location.href,
-      source_url: "//234276-79.myshopify.com/cdn/s/trekkie.storefront.88baf04046928b6edf6574afd22dbd026cc7d568.min.js"});
-
-        };
-        scriptFallback.async = true;
-        scriptFallback.src = '//234276-79.myshopify.com/cdn/s/trekkie.storefront.88baf04046928b6edf6574afd22dbd026cc7d568.min.js';
-        first.parentNode.insertBefore(scriptFallback, first);
-      };
-      script.async = true;
-      script.src = '//234276-79.myshopify.com/cdn/s/trekkie.storefront.88baf04046928b6edf6574afd22dbd026cc7d568.min.js';
-      first.parentNode.insertBefore(script, first);
-    };
-    trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":86784082216,"isMerchantRequest":null,"themeId":166806978856,"themeCityHash":"11918184355140516740","contentLanguage":"en","currency":"KHR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["bbcf04e6"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
-    );
-
-    var loaded = false;
-    trekkie.ready(function() {
-      if (loaded) return;
-      loaded = true;
-
-      window.ShopifyAnalytics.lib = window.trekkie;
-
-  
-      var originalDocumentWrite = document.write;
-      document.write = customDocumentWrite;
-      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-      document.write = originalDocumentWrite;
-
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":9070197932328});
-
-      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-      var token = match? match[1]: undefined;
-      if (!hasLoggedConversion(token)) {
-        setCookieIfConversion(token);
-        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"KHR","variantId":48186242826536,"productId":9070197932328,"productGid":"gid:\/\/shopify\/Product\/9070197932328","name":"<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","price":"0.00","sku":"","brand":"My Store","variant":null,"category":"","nonInteraction":true});
-      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"KHR","variantId":48186242826536,"productId":9070197932328,"productGid":"gid:\/\/shopify\/Product\/9070197932328","name":"<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","price":"0.00","sku":"","brand":"My Store","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/234276-79.myshopify.com\/products\/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar"});
-      }
-    });
-
-
-        var eventsListenerScript = document.createElement('script');
-        eventsListenerScript.async = true;
-        eventsListenerScript.src = "//234276-79.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
-        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-
-})();</script>
-<script class="boomerang">
-(function () {
-  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-    return;
-  }
-  window.BOOMR = window.BOOMR || {};
-  window.BOOMR.snippetStart = new Date().getTime();
-  window.BOOMR.snippetExecuted = true;
-  window.BOOMR.snippetVersion = 12;
-  window.BOOMR.application = "storefront-renderer";
-  window.BOOMR.themeName = "Refresh";
-  window.BOOMR.themeVersion = "13.0.1";
-  window.BOOMR.shopId = 86784082216;
-  window.BOOMR.themeId = 166806978856;
-  window.BOOMR.renderRegion = "gcp-asia-southeast1";
-  window.BOOMR.url =
-    "https://234276-79.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
-  var where = document.currentScript || document.getElementsByTagName("script")[0];
-  var parentNode = where.parentNode;
-  var promoted = false;
-  var LOADER_TIMEOUT = 3000;
-  function promote() {
-    if (promoted) {
-      return;
-    }
-    var script = document.createElement("script");
-    script.id = "boomr-scr-as";
-    script.src = window.BOOMR.url;
-    script.async = true;
-    parentNode.appendChild(script);
-    promoted = true;
-  }
-  function iframeLoader(wasFallback) {
-    promoted = true;
-    var dom, bootstrap, iframe, iframeStyle;
-    var doc = document;
-    var win = window;
-    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-    bootstrap = function(parent, scriptId) {
-      var script = doc.createElement("script");
-      script.id = scriptId || "boomr-if-as";
-      script.src = window.BOOMR.url;
-      BOOMR_lstart = new Date().getTime();
-      parent = parent || doc.body;
-      parent.appendChild(script);
-    };
-    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-      window.BOOMR.snippetMethod = "s";
-      bootstrap(parentNode, "boomr-async");
-      return;
-    }
-    iframe = document.createElement("IFRAME");
-    iframe.src = "about:blank";
-    iframe.title = "";
-    iframe.role = "presentation";
-    iframe.loading = "eager";
-    iframeStyle = (iframe.frameElement || iframe).style;
-    iframeStyle.width = 0;
-    iframeStyle.height = 0;
-    iframeStyle.border = 0;
-    iframeStyle.display = "none";
-    parentNode.appendChild(iframe);
-    try {
-      win = iframe.contentWindow;
-      doc = win.document.open();
-    } catch (e) {
-      dom = document.domain;
-      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-      win = iframe.contentWindow;
-      doc = win.document.open();
-    }
-    if (dom) {
-      doc._boomrl = function() {
-        this.domain = dom;
-        bootstrap();
-      };
-      doc.write("<body onload='document._boomrl();'>");
-    } else {
-      win._boomrl = function() {
-        bootstrap();
-      };
-      if (win.addEventListener) {
-        win.addEventListener("load", win._boomrl, false);
-      } else if (win.attachEvent) {
-        win.attachEvent("onload", win._boomrl);
-      }
-    }
-    doc.close();
-  }
-  var link = document.createElement("link");
-  if (link.relList &&
-    typeof link.relList.supports === "function" &&
-    link.relList.supports("preload") &&
-    ("as" in link)) {
-    window.BOOMR.snippetMethod = "p";
-    link.href = window.BOOMR.url;
-    link.rel = "preload";
-    link.as = "script";
-    link.addEventListener("load", promote);
-    link.addEventListener("error", function() {
-      iframeLoader(true);
-    });
-    setTimeout(function() {
-      if (!promoted) {
-        iframeLoader(true);
-      }
-    }, LOADER_TIMEOUT);
-    BOOMR_lstart = new Date().getTime();
-    parentNode.appendChild(link);
-  } else {
-    iframeLoader(false);
-  }
-  function boomerangSaveLoadTime(e) {
-    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-  }
-  if (window.addEventListener) {
-    window.addEventListener("load", boomerangSaveLoadTime, false);
-  } else if (window.attachEvent) {
-    window.attachEvent("onload", boomerangSaveLoadTime);
-  }
-  if (document.addEventListener) {
-    document.addEventListener("onBoomerangLoaded", function(e) {
-      e.detail.BOOMR.init({
-        ResourceTiming: {
-          enabled: true,
-          trackedResourceTypes: ["script", "img", "css"]
-        },
-      });
-      e.detail.BOOMR.t_end = new Date().getTime();
-    });
-  } else if (document.attachEvent) {
-    document.attachEvent("onpropertychange", function(e) {
-      if (!e) e=event;
-      if (e.propertyName === "onBoomerangLoaded") {
-        e.detail.BOOMR.init({
-          ResourceTiming: {
-            enabled: true,
-            trackedResourceTypes: ["script", "img", "css"]
-          },
-        });
-        e.detail.BOOMR.t_end = new Date().getTime();
-      }
-    });
-  }
-})();</script>
-</head>
-
-  <body class="gradient">
-    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
-      Skip to content
-    </a>
-
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/quantity-popover.css?v=153075665213740339621712846290" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=170127402091165654191712846289" rel="stylesheet" type="text/css" media="all" />
-
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/cart.js?v=116571066492035312161712846289" defer="defer"></script>
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/quantity-popover.js?v=19455713230017000861712846290" defer="defer"></script>
-
-<style>
-  .drawer {
-    visibility: hidden;
-  }
-</style>
-
-<cart-drawer class="drawer is-empty">
-  <div id="CartDrawer" class="cart-drawer">
-    <div id="CartDrawer-Overlay" class="cart-drawer__overlay"></div>
-    <div
-      class="drawer__inner gradient color-scheme-1"
-      role="dialog"
-      aria-modal="true"
-      aria-label="Your cart"
-      tabindex="-1"
-    ><div class="drawer__inner-empty">
-          <div class="cart-drawer__warnings center">
-            <div class="cart-drawer__empty-content">
-              <h2 class="cart__empty-text">Your cart is empty</h2>
-              <button
-                class="drawer__close"
-                type="button"
-                onclick="this.closest('cart-drawer').close()"
-                aria-label="Close"
-              >
-                <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
-
-              </button>
-              <a href="/collections/all" class="button">
-                Continue shopping
-              </a></div>
-          </div></div><div class="drawer__header">
-        <h2 class="drawer__heading">Your cart</h2>
-        <button
-          class="drawer__close"
-          type="button"
-          onclick="this.closest('cart-drawer').close()"
-          aria-label="Close"
-        >
-          <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
-
-        </button>
-      </div>
-      <cart-drawer-items
-        
-          class=" is-empty"
-        
-      >
-        <form
-          action="/cart"
-          id="CartDrawer-Form"
-          class="cart__contents cart-drawer__form"
-          method="post"
-        >
-          <div id="CartDrawer-CartItems" class="drawer__contents js-contents"><p id="CartDrawer-LiveRegionText" class="visually-hidden" role="status"></p>
-            <p id="CartDrawer-LineItemStatus" class="visually-hidden" aria-hidden="true" role="status">
-              Loading...
-            </p>
-          </div>
-          <div id="CartDrawer-CartErrors" role="alert"></div>
-        </form>
-      </cart-drawer-items>
-      <div class="drawer__footer"><!-- Start blocks -->
-        <!-- Subtotals -->
-
-        <div class="cart-drawer__footer" >
-          <div></div>
-
-          <div class="totals" role="status">
-            <h2 class="totals__total">Estimated total</h2>
-            <p class="totals__total-value">KHR0.00</p>
-          </div>
-
-          <small class="tax-note caption-large rte">Taxes, discounts and shipping calculated at checkout
-</small>
-        </div>
-
-        <!-- CTAs -->
-
-        <div class="cart__ctas" >
-          <noscript>
-            <button type="submit" class="cart__update-button button button--secondary" form="CartDrawer-Form">
-              Update
-            </button>
-          </noscript>
-
-          <button
-            type="submit"
-            id="CartDrawer-Checkout"
-            class="cart__checkout-button button"
-            name="checkout"
-            form="CartDrawer-Form"
-            
-              disabled
-            
-          >
-            Check out
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
-</cart-drawer>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    function isIE() {
-      const ua = window.navigator.userAgent;
-      const msie = ua.indexOf('MSIE ');
-      const trident = ua.indexOf('Trident/');
-
-      return msie > 0 || trident > 0;
-    }
-
-    if (!isIE()) return;
-    const cartSubmitInput = document.createElement('input');
-    cartSubmitInput.setAttribute('name', 'checkout');
-    cartSubmitInput.setAttribute('type', 'hidden');
-    document.querySelector('#cart').appendChild(cartSubmitInput);
-    document.querySelector('#checkout').addEventListener('click', function (event) {
-      document.querySelector('#cart').submit();
-    });
-  });
-</script>
-<!-- BEGIN sections: header-group -->
-<div id="shopify-section-sections--22419758219560__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section"><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-slideshow.css?v=107725913939919748051712846290" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-slider.css?v=142503135496229589681712846290" rel="stylesheet" type="text/css" media="all" />
-
-
-<div
-  class="utility-bar color-scheme-4 gradient utility-bar--bottom-border"
-  
->
-  <div class="page-width utility-bar__grid"><div
-        class="announcement-bar"
-        role="region"
-        aria-label="Announcement"
-        
-      ><p class="announcement-bar__message h5">
-            <span>Welcome to our store</span></p></div><div class="localization-wrapper">
-</div>
-  </div>
-</div>
-
-
-</div><div id="shopify-section-sections--22419758219560__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991712846289" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-search.css?v=165164710990765432851712846290" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?v=85170387104997277661712846289" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221712846289" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-cart-items.css?v=136978088507021421401712846289" media="print" onload="this.media='all'"><link rel="stylesheet" href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101712846290" media="print" onload="this.media='all'"><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-cart-drawer.css?v=67327691417103202711712846289" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-cart.css?v=181291337967238571831712846289" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-totals.css?v=15906652033866631521712846290" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101712846290" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-discounts.css?v=152760482443307489271712846289" rel="stylesheet" type="text/css" media="all" />
-<noscript><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991712846289" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-search.css?v=165164710990765432851712846290" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?v=85170387104997277661712846289" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221712846289" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-cart-items.css?v=136978088507021421401712846289" rel="stylesheet" type="text/css" media="all" /></noscript>
-
-<style>
-  header-drawer {
-    justify-self: start;
-    margin-left: -1.2rem;
-  }@media screen and (min-width: 990px) {
-      header-drawer {
-        display: none;
-      }
-    }.menu-drawer-container {
-    display: flex;
-  }
-
-  .list-menu {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .list-menu--inline {
-    display: inline-flex;
-    flex-wrap: wrap;
-  }
-
-  summary.list-menu__item {
-    padding-right: 2.7rem;
-  }
-
-  .list-menu__item {
-    display: flex;
-    align-items: center;
-    line-height: calc(1 + 0.3 / var(--font-body-scale));
-  }
-
-  .list-menu__item--link {
-    text-decoration: none;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
-    line-height: calc(1 + 0.8 / var(--font-body-scale));
-  }
-
-  @media screen and (min-width: 750px) {
-    .list-menu__item--link {
-      padding-bottom: 0.5rem;
-      padding-top: 0.5rem;
-    }
-  }
-</style><style data-shopify>.header {
-    padding: 10px 3rem 10px 3rem;
-  }
-
-  .section-header {
-    position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
-    margin-bottom: 0px;
-  }
-
-  @media screen and (min-width: 750px) {
-    .section-header {
-      margin-bottom: 0px;
-    }
-  }
-
-  @media screen and (min-width: 990px) {
-    .header {
-      padding-top: 20px;
-      padding-bottom: 20px;
-    }
-  }</style><script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/details-disclosure.js?v=13653116266235556501712846290" defer="defer"></script>
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/details-modal.js?v=25581673532751508451712846290" defer="defer"></script>
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/cart-notification.js?v=133508293167896966491712846289" defer="defer"></script>
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/search-form.js?v=133129549252120666541712846290" defer="defer"></script><script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/cart-drawer.js?v=105077087914686398511712846289" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-  <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
-  </symbol>
-
-  <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
-    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/>
-    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
-    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
-  </symbol>
-
-  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-  </symbol>
-</svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-scheme-3 gradient"><header class="header header--top-center header--mobile-center page-width header--has-menu">
-
-<header-drawer data-breakpoint="tablet">
-  <details id="Details-menu-drawer-container" class="menu-drawer-container">
-    <summary
-      class="header__icon header__icon--menu header__icon--summary link focus-inset"
-      aria-label="Menu"
-    >
-      <span>
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-hamburger"
-  fill="none"
-  viewBox="0 0 18 16"
->
-  <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
-</svg>
-
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
-
-      </span>
-    </summary>
-    <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-scheme-3">
-      <div class="menu-drawer__inner-container">
-        <div class="menu-drawer__navigation-container">
-          <nav class="menu-drawer__navigation">
-            <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a
-                      id="HeaderDrawer-home"
-                      href="/"
-                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-                      
-                    >
-                      Home
-                    </a></li><li><a
-                      id="HeaderDrawer-catalog"
-                      href="/collections/all"
-                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-                      
-                    >
-                      Catalog
-                    </a></li><li><a
-                      id="HeaderDrawer-contact"
-                      href="/pages/contact"
-                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-                      
-                    >
-                      Contact
-                    </a></li></ul>
-          </nav>
-          <div class="menu-drawer__utility-links"><div class="menu-drawer__localization header-localization">
-</div><ul class="list list-social list-unstyled" role="list"></ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </details>
-</header-drawer>
-
-
-<details-modal class="header__search">
-  <details>
-    <summary
-      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
-      aria-haspopup="dialog"
-      aria-label="Search"
-    >
-      <span>
-        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
-          <use href="#icon-search">
-        </svg>
-        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
-          <use href="#icon-close">
-        </svg>
-      </span>
-    </summary>
-    <div
-      class="search-modal modal__content gradient"
-      role="dialog"
-      aria-modal="true"
-      aria-label="Search"
-    >
-      <div class="modal-overlay"></div>
-      <div
-        class="search-modal__content search-modal__content-bottom"
-        tabindex="-1"
-      ><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
-          <div class="field">
-            <input
-              class="search__input field__input"
-              id="Search-In-Modal-1"
-              type="search"
-              name="q"
-              value=""
-              placeholder="Search"role="combobox"
-                aria-expanded="false"
-                aria-owns="predictive-search-results"
-                aria-controls="predictive-search-results"
-                aria-haspopup="listbox"
-                aria-autocomplete="list"
-                autocorrect="off"
-                autocomplete="off"
-                autocapitalize="off"
-                spellcheck="false">
-            <label class="field__label" for="Search-In-Modal-1">Search</label>
-            <input type="hidden" name="options[prefix]" value="last">
-            <button
-              type="reset"
-              class="reset__button field__button hidden"
-              aria-label="Clear search term"
-            >
-              <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                <use xlink:href="#icon-reset">
-              </svg>
-            </button>
-            <button class="search__button field__button" aria-label="Search">
-              <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                <use href="#icon-search">
-              </svg>
-            </button>
-          </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
-
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481712846289" rel="stylesheet" type="text/css" media="all" />
-
-<div class="predictive-search__loading-state">
-  <svg
-    aria-hidden="true"
-    focusable="false"
-    class="spinner"
-    viewBox="0 0 66 66"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-  </svg>
-</div>
-</div>
-
-            <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button
-          type="button"
-          class="search-modal__close-button modal__close-button link link--text focus-inset"
-          aria-label="Close"
-        >
-          <svg class="icon icon-close" aria-hidden="true" focusable="false">
-            <use href="#icon-close">
-          </svg>
-        </button>
-      </div>
-    </div>
-  </details>
-</details-modal>
-<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2">My Store</span></a>
-
-<nav class="header__inline-menu">
-  <ul class="list-menu list-menu--inline" role="list"><li><a
-            id="HeaderMenu-home"
-            href="/"
-            class="header__menu-item list-menu__item link link--text focus-inset"
-            
-          >
-            <span
-            >Home</span>
-          </a></li><li><a
-            id="HeaderMenu-catalog"
-            href="/collections/all"
-            class="header__menu-item list-menu__item link link--text focus-inset"
-            
-          >
-            <span
-            >Catalog</span>
-          </a></li><li><a
-            id="HeaderMenu-contact"
-            href="/pages/contact"
-            class="header__menu-item list-menu__item link link--text focus-inset"
-            
-          >
-            <span
-            >Contact</span>
-          </a></li></ul>
-</nav>
-
-<div class="header__icons header__icons--localization header-localization">
-      <div class="desktop-localization-wrapper">
-</div>
-      
-
-<details-modal class="header__search">
-  <details>
-    <summary
-      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
-      aria-haspopup="dialog"
-      aria-label="Search"
-    >
-      <span>
-        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
-          <use href="#icon-search">
-        </svg>
-        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
-          <use href="#icon-close">
-        </svg>
-      </span>
-    </summary>
-    <div
-      class="search-modal modal__content gradient"
-      role="dialog"
-      aria-modal="true"
-      aria-label="Search"
-    >
-      <div class="modal-overlay"></div>
-      <div
-        class="search-modal__content search-modal__content-bottom"
-        tabindex="-1"
-      ><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
-          <div class="field">
-            <input
-              class="search__input field__input"
-              id="Search-In-Modal"
-              type="search"
-              name="q"
-              value=""
-              placeholder="Search"role="combobox"
-                aria-expanded="false"
-                aria-owns="predictive-search-results"
-                aria-controls="predictive-search-results"
-                aria-haspopup="listbox"
-                aria-autocomplete="list"
-                autocorrect="off"
-                autocomplete="off"
-                autocapitalize="off"
-                spellcheck="false">
-            <label class="field__label" for="Search-In-Modal">Search</label>
-            <input type="hidden" name="options[prefix]" value="last">
-            <button
-              type="reset"
-              class="reset__button field__button hidden"
-              aria-label="Clear search term"
-            >
-              <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                <use xlink:href="#icon-reset">
-              </svg>
-            </button>
-            <button class="search__button field__button" aria-label="Search">
-              <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                <use href="#icon-search">
-              </svg>
-            </button>
-          </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
-
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481712846289" rel="stylesheet" type="text/css" media="all" />
-
-<div class="predictive-search__loading-state">
-  <svg
-    aria-hidden="true"
-    focusable="false"
-    class="spinner"
-    viewBox="0 0 66 66"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-  </svg>
-</div>
-</div>
-
-            <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button
-          type="button"
-          class="search-modal__close-button modal__close-button link link--text focus-inset"
-          aria-label="Close"
-        >
-          <svg class="icon icon-close" aria-hidden="true" focusable="false">
-            <use href="#icon-close">
-          </svg>
-        </button>
-      </div>
-    </div>
-  </details>
-</details-modal>
-
-<a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg
-  class="icon icon-cart-empty"
-  aria-hidden="true"
-  focusable="false"
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 40 40"
-  fill="none"
->
-  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
-</svg>
-<span class="visually-hidden">Cart</span></a>
-    </div>
-  </header>
-</sticky-header>
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "My Store",
+<meta property="og:site_name" content="Slot Thailand"/>
+<meta property="og:title" content="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar &mdash; Slot Thailand"/>
+<meta property="og:url" content="<?php echo $urlPath ?>"/>
+<meta property="og:type" content="product"/>
+<meta property="og:description" content="<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/66187623eb71293a2028404f/661877335b750b3ff79d970b/661877335b750b3ff79d971e/1713132130037/acc_2-C.jpeg?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="2250"/>
+<meta property="product:price:amount" content="10000.00"/>
+<meta property="product:price:currency" content="IDR"/>
+<meta property="product:availability" content="instock"/>
+<meta property="product:original_price:amount" content="25000.00"/>
+<meta property="product:original_price:currency" content="IDR"/>
+<meta property="product:sale_price:amount" content="10000.00"/>
+<meta property="product:sale_price:currency" content="IDR"/>
+<meta itemprop="name" content="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar — Slot Thailand"/>
+<meta itemprop="url" content="<?php echo $urlPath ?>"/>
+<meta itemprop="description" content="<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/66187623eb71293a2028404f/661877335b750b3ff79d970b/661877335b750b3ff79d971e/1713132130037/acc_2-C.jpeg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/66187623eb71293a2028404f/661877335b750b3ff79d970b/661877335b750b3ff79d971e/1713132130037/acc_2-C.jpeg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/66187623eb71293a2028404f/661877335b750b3ff79d970b/661877335b750b3ff79d971e/1713132130037/acc_2-C.jpeg?format=1500w"/>
+<meta name="twitter:title" content="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar — Slot Thailand"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/66187623eb71293a2028404f/661877335b750b3ff79d970b/661877335b750b3ff79d971e/1713132130037/acc_2-C.jpeg?format=1500w"/>
+<meta name="twitter:url" content="<?php echo $urlPath ?>"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam."/>
+<meta name="description" content="🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku 
+erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi 
+online 24 jam." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/bVHTx2OSOZO-vEST0puFJpezP4IrbGPMk7ENu_CSQqbfeGMgfFHN4UJLFRbh52jhWDjhwQ6aFRJDZAJawQJowhIkw2JtF2MXZyGMJ6U3ScNt-AuyOAozicI7fbKzMsMMeMb6MKGHfO2IMsMMeM96MKG4fJCgIMMjgkMfH6qJCMIbMg65JMJ7f6KUUMIbMg6VJMJ7fbKwMsMMegI6MTMg6payCMj.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Archivo+Black:wght@400">
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ea17809099eb9ef2f2f3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ea17809099eb9ef2f2f3-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-33e68282e9492d40465b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-33e68282e9492d40465b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-40a4abc556c73b06c2c3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-40a4abc556c73b06c2c3-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-fc927bd85887176d1ba1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-fc927bd85887176d1ba1-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-13833f247b15740012c7-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ac0e1dfae8764351989c-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-1b2a46fb6e9eb9c996a6-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-82e74079efd742a93055-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-246ccdee0791fba0605e-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-992f61b43d0d1bf9d7ae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-27f04bf750e84d22061f-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-bb078ad96e0f90189119-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-925db5abb8bda63f9535-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-3a331c44468f163a2987-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-d99ce3509690c30b0fce-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-c18e526360179e75ff01-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-e2a33bc9cd3efebf3e7c-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-3c282a9ffcb9f581920a-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-d5ed61691fea319fc5f1-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-85efa01156271224fc91-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-18652f60abe261dfc35a-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-62ad48aebe5d1be19b70-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-4b94088571b7a18f8705-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-6b5516332e8c521c1dba-min.en-US.js"}},"pageType":50,"website":{"id":"66187623eb71293a2028404f","identifier":"sunfish-cat-332f","websiteType":1,"contentModifiedOn":1713132129035,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Jakarta","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"WIB","siteTitle":"Slot Thailand","fullSiteTitle":"\uD83E\uDD77\uD83C\uDFFB Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar \u2014 Slot Thailand","siteDescription":"","shareButtonOptions":{"2":true,"1":true,"4":true,"7":true,"8":true,"3":true,"6":true},"authenticUrl":"https://sunfish-cat-332f.squarespace.com","internalUrl":"https://sunfish-cat-332f.squarespace.com","baseUrl":"https://sunfish-cat-332f.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"addedOn":1712879139995,"profileUrl":"https://instagram.com/squarespace","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"66187623eb71293a20284052","websiteId":"66187623eb71293a2028404f","subjects":[],"country":"ID","state":"JK","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store 1","id":"661877335b750b3ff79d970b","fullUrl":"/store-1","type":13,"permissionType":1},"item":{"title":"\uD83E\uDD77\uD83C\uDFFB Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar","id":"661877335b750b3ff79d971e","fullUrl":"/store-1/p/style-02-hxmaf-gjkeb","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"true","header-logo-height":"20px","header-mobile-logo-max-height":"30px","header-vert-padding":"1.1vw","header-width":"Full","maxPageWidth":"1400px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"17px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"16px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"64px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"22px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"231px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"1.50s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"53%","tweak-product-basic-item-hover-action":"Zoom","tweak-product-basic-item-image-spacing":"10vw","tweak-product-basic-item-image-zoom-factor":"1.5","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"2vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Full","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["themes","enable_css_variable_tweaks","background_art_onboarding","nested_categories","hideable_header_footer_for_videos","commerce_subscription_renewal_notifications","campaigns_global_uc_ab","i18n_beta_website_locales","member_areas_feature","pdp_product_add_ons_visitor_site","commerce_etsy_product_import","marketing_landing_page","send_local_pickup_ready_email","toggle_preview_new_shortcut","customer_accounts_email_verification","campaigns_thumbnail_layout","crm_product_contacts_use_mfe","campaigns_new_image_layout_picker","hideable_header_footer_for_memberareas","commsplat_forms_visitor_profile","visitor_react_forms","is_feature_gate_refresh_enabled","override_block_styles","website_fonts","commerce_checkout_website_updates_enabled","campaigns_import_discounts","commerce_order_status_access","accounting_orders_sync","viewer-role-contributor-invites","campaigns_discount_section_in_blasts","commerce_paywall_renewal_notifications","unify_edit_mode_p2","scripts_defer","hide_header_footer_beta","proposals_beta_in_circle_labs","google_consent_v2","hideable_header_footer","donations_panel_refactor","fluid_engine","commerce_etsy_shipping_import","nested_categories_migration_enabled","commerce_restock_notifications","fluid_engine_clean_up_grid_contextual_change","collection_typename_switching","customer_account_creation_recaptcha","commerce_site_visitor_metrics","supports_versioned_template_assets","new_stacked_index","commerce_clearpay","hideable_header_footer_for_courses","campaigns_discount_section_in_automations"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"6564ed405646b229f453661b","deleted":true},{"collectionId":"6564f245f443470609472494","deleted":false},{"collectionId":"656659c4906443354900a86b","deleted":true},{"collectionId":"6567a07968d1bf1aa525eadb","deleted":true},{"collectionId":"6567ad2808ee812a4735882b","deleted":false},{"collectionId":"6567ad2903d294768578d7cc","deleted":true},{"collectionId":"6567ad2bd92d9e7e7e386109","deleted":true}],"tzData":{"zones":[[420,null,"WIB",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"4d9b3a3a-321a-4c4f-b02f-3ee10875b6dd","sku":"SQ1688334","price":{"currencyCode":"IDR","value":2500000,"decimalValue":"25000.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":1000000,"decimalValue":"10000.00","fractionalDigits":2},"onSale":true,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Jakarta","name":"Western Indonesia Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://sunfish-cat-332f.squarespace.com","name":"Slot Thailand","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"\uD83E\uDD77\uD83C\uDFFB Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar \u2014 Slot Thailand","image":"http://static1.squarespace.com/static/66187623eb71293a2028404f/661877335b750b3ff79d970b/661877335b750b3ff79d971e/1713132130037/acc_2-C.jpeg?format=1500w","description":"\uD83E\uDD77\uD83C\uDFFBcari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam.","brand":"Slot Thailand","offers":{"price":10000.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1688334","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/66187623eb71293a2028404f/3/5c5a519771c10ba3470d8101/66187623eb71293a20284057/1516/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
     
-    "sameAs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "url": "https:\/\/234276-79.myshopify.com"
-  }
-</script>
-</div>
-<!-- END sections: header-group -->
-
-    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      <section id="shopify-section-template--22419757564200__main" class="shopify-section section"><section
-  id="MainProduct-template--22419757564200__main"
-  class="section-template--22419757564200__main-padding gradient color-scheme-1"
-  data-section="template--22419757564200__main"
->
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/section-main-product.css?v=133064301994206342221712846290" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-accordion.css?v=180964204318874863811712846289" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101712846290" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-slider.css?v=142503135496229589681712846290" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=179577762467860590411712846290" rel="stylesheet" type="text/css" media="all" />
-  <link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-deferred-media.css?v=14096082462203297471712846289" rel="stylesheet" type="text/css" media="all" />
-  
-<style data-shopify>.section-template--22419757564200__main-padding {
-      padding-top: 45px;
-      padding-bottom: 45px;
-    }
-
-    @media screen and (min-width: 750px) {
-      .section-template--22419757564200__main-padding {
-        padding-top: 60px;
-        padding-bottom: 60px;
-      }
-    }</style><script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/product-info.js?v=125122232605238659181712846290" defer="defer"></script>
-  <script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/product-form.js?v=133081758708377679181712846290" defer="defer"></script>
-
-  <div class="page-width">
-    <div class="product product--small product--left product--thumbnail_slider product--mobile-hide grid grid--1-col grid--2-col-tablet">
-      <div class="grid__item product__media-wrapper">
-        
-<media-gallery
-  id="MediaGallery-template--22419757564200__main"
-  role="region"
-  
-    class="product__column-sticky"
-  
-  aria-label="Gallery Viewer"
-  data-desktop-layout="thumbnail_slider"
->
-  <div id="GalleryStatus-template--22419757564200__main" class="visually-hidden" role="status"></div>
-  <slider-component id="GalleryViewer-template--22419757564200__main" class="slider-mobile-gutter"><a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--22419757564200__main">
-        Skip to product information
-      </a><ul
-      id="Slider-Gallery-template--22419757564200__main"
-      class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
-      role="list"
-    ><li
-            id="Slide-template--22419757564200__main-38500442931496"
-            class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
-            data-media-id="template--22419757564200__main-38500442931496"
-          >
-
-<div
-  class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-  style="--ratio: 0.6647887323943662; --preview-ratio: 0.6647887323943662;"
->
-  <noscript><div class="product__media media">
-        <img src="//234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1946" alt="" srcset="//234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=246 246w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=493 493w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=600 600w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=713 713w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=823 823w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=990 990w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1100 1100w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1206 1206w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1346 1346w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1426 1426w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1646 1646w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1946 1946w" width="1946" height="2927" sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-      </div></noscript>
-
-  <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--22419757564200__main">
-    <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true"><svg
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-plus"
-  width="19"
-  height="19"
-  viewBox="0 0 19 19"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
-</svg>
-</span>
-
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481712846289" rel="stylesheet" type="text/css" media="all" />
-
-<div class="loading__spinner hidden">
-  <svg
-    aria-hidden="true"
-    focusable="false"
-    class="spinner"
-    viewBox="0 0 66 66"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-  </svg>
-</div>
-<div class="product__media media media--transparent">
-      <img src="//234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1946" alt="" srcset="//234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=246 246w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=493 493w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=600 600w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=713 713w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=823 823w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=990 990w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1100 1100w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1206 1206w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1346 1346w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1426 1426w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1646 1646w, //234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&amp;width=1946 1946w" width="1946" height="2927" class="image-magnify-lightbox" sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-    </div>
-    <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="38500442931496">
-      <span class="visually-hidden">
-        Open media 1 in modal
-      </span>
-    </button>
-  </modal-opener></div>
-
-          </li></ul><div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
-        <button
-          type="button"
-          class="slider-button slider-button--prev"
-          name="previous"
-          aria-label="Slide left"
-        >
-          <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-</svg>
-
-        </button>
-        <div class="slider-counter caption">
-          <span class="slider-counter--current">1</span>
-          <span aria-hidden="true"> / </span>
-          <span class="visually-hidden">of</span>
-          <span class="slider-counter--total">1</span>
-        </div>
-        <button
-          type="button"
-          class="slider-button slider-button--next"
-          name="next"
-          aria-label="Slide right"
-        >
-          <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-</svg>
-
-        </button>
-      </div></slider-component></media-gallery>
-
-      </div>
-      <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
-        <product-info
-          id="ProductInfo-template--22419757564200__main"
-          data-section="template--22419757564200__main"
-          data-url="/products/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar"
-          class="product__info-container product__column-sticky"
-        ><p
-                  class="product__text inline-richtext"
-                  
-                >My Store</p><div class="product__title" >
-                  <h1><?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar</h1>
-                  <a href="/products/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar" class="product__title">
-                    <h2 class="h1">
-                      <?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar
-                    </h2>
-                  </a>
-                </div><div class="no-js-hidden" id="price-template--22419757564200__main" role="status" >
-<div
-  class="
-    price price--large price--sold-out price--show-badge"
->
-  <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
-        <span class="price-item price-item--regular">
-          KHR0.00
-        </span></div>
-    <div class="price__sale">
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
-        <span>
-          <s class="price-item price-item--regular">
-            
-              
-            
-          </s>
-        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
-      <span class="price-item price-item--sale price-item--last">
-        KHR0.00
-      </span>
-    </div>
-    <small class="unit-price caption hidden">
-      <span class="visually-hidden">Unit price</span>
-      <span class="price-item price-item--last">
-        <span></span>
-        <span aria-hidden="true">/</span>
-        <span class="visually-hidden">&nbsp;per&nbsp;</span>
-        <span>
-        </span>
-      </span>
-    </small>
-  </div><span class="badge price__badge-sale color-scheme-4">
-      Sale
-    </span>
-
-    <span class="badge price__badge-sold-out color-scheme-1">
-      Sold out
-    </span></div>
-</div><div class="product__tax caption rte"></div>
-                <div ><form method="post" action="/cart/add" id="product-form-installment-template--22419757564200__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="48186242826536">
-                    
-<input type="hidden" name="product-id" value="9070197932328" /><input type="hidden" name="section-id" value="template--22419757564200__main" /></form></div>
-<noscript class="product-form__noscript-wrapper-template--22419757564200__main">
-  <div class="product-form__input hidden">
-    <label class="form__label" for="Variants-template--22419757564200__main">Product variants</label>
-    <div class="select">
-      <select
-        name="id"
-        id="Variants-template--22419757564200__main"
-        class="select__select"
-        form="product-form-template--22419757564200__main"
-      ><option
-            
-              selected="selected"
-            
-            
-              disabled
-            
-            value="48186242826536"
-          >Default Title - KHR0.00 - Sold out</option></select>
-      <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-</svg>
-
-    </div>
-  </div>
-</noscript>
-
-<div
-                  id="Quantity-Form-template--22419757564200__main"
-                  class="product-form__input product-form__quantity"
-                  
-                >
-                  
-                  
-
-                  <label class="quantity__label form__label" for="Quantity-template--22419757564200__main">
-                    Quantity
-                    <span class="quantity__rules-cart no-js-hidden hidden">
-
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481712846289" rel="stylesheet" type="text/css" media="all" />
-
-<div class="loading__spinner hidden">
-  <svg
-    aria-hidden="true"
-    focusable="false"
-    class="spinner"
-    viewBox="0 0 66 66"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-  </svg>
-</div>
-<span
-                        >(<span class="quantity-cart">0</span> in cart)</span
-                      >
-                    </span>
-                  </label>
-                  <div class="price-per-item__container">
-                    <quantity-input class="quantity" data-url="/products/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar" data-section="template--22419757564200__main">
-                      <button class="quantity__button no-js-hidden" name="minus" type="button">
-                        <span class="visually-hidden">Decrease quantity for <?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar</span>
-                        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-minus"
-  fill="none"
-  viewBox="0 0 10 2"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z" fill="currentColor">
-</svg>
-
-                      </button>
-                      <input
-                        class="quantity__input"
-                        type="number"
-                        name="quantity"
-                        id="Quantity-template--22419757564200__main"
-                        data-cart-quantity="0"
-                        data-min="1"
-                        min="1"
-                        
-                        step="1"
-                        value="1"
-                        form="product-form-template--22419757564200__main"
-                      >
-                      <button class="quantity__button no-js-hidden" name="plus" type="button">
-                        <span class="visually-hidden">Increase quantity for <?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar</span>
-                        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-plus"
-  fill="none"
-  viewBox="0 0 10 10"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z" fill="currentColor">
-</svg>
-
-                      </button>
-                    </quantity-input></div>
-                  <div class="quantity__rules caption no-js-hidden" id="Quantity-Rules-template--22419757564200__main"></div></div>
-<div ><product-form
-      class="product-form"
-      data-hide-errors="false"
-      data-section-id="template--22419757564200__main"
-    >
-      <div class="product-form__error-message-wrapper" role="alert" hidden>
-        <svg
-          aria-hidden="true"
-          focusable="false"
-          class="icon icon-error"
-          viewBox="0 0 13 13"
-        >
-          <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"/>
-          <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7"/>
-          <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/>
-          <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
-        </svg>
-        <span class="product-form__error-message"></span>
-      </div><form method="post" action="/cart/add" id="product-form-template--22419757564200__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
-          type="hidden"
-          name="id"
-          value="48186242826536"
-          
-            disabled
-          
-          class="product-variant-id"
-        ><div class="product-form__buttons"><button
-            id="ProductSubmitButton-template--22419757564200__main"
-            type="submit"
-            name="add"
-            class="product-form__submit button button--full-width button--secondary"
-            
-              disabled
-            
-          >
-            <span>Sold out
-</span>
-
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481712846289" rel="stylesheet" type="text/css" media="all" />
-
-<div class="loading__spinner hidden">
-  <svg
-    aria-hidden="true"
-    focusable="false"
-    class="spinner"
-    viewBox="0 0 66 66"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-  </svg>
-</div>
-</button><div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" data-customer-accounts-required="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div><div data-shopify="shop-promise-pdp"><button style="display: none;" disabled="disabled" aria-hidden="true"> </button></div>
-</div><input type="hidden" name="product-id" value="9070197932328" /><input type="hidden" name="section-id" value="template--22419757564200__main" /></form></product-form><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-pickup-availability.css?v=34645222959864780961712846290" rel="stylesheet" type="text/css" media="all" />
-<pickup-availability
-      class="product__pickup-availabilities no-js-hidden quick-add-hidden"
-      
-      data-root-url="/"
-      data-variant-id="48186242826536"
-      data-has-only-default-variant="true"
-      data-product-page-color-scheme="gradient color-scheme-1"
-    >
-      <template>
-        <pickup-availability-preview class="pickup-availability-preview">
-          <svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-unavailable"
-  fill="none"
-  viewBox="0 0 20 20"
->
-  <path fill="#DE3618" stroke="#fff" d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z"/>
-</svg>
-
-          <div class="pickup-availability-info">
-            <p class="caption-large">Couldn&#39;t load pickup availability</p>
-            <button class="pickup-availability-button link link--text underlined-link">
-              Refresh
-            </button>
-          </div>
-        </pickup-availability-preview>
-      </template>
-    </pickup-availability>
-
-    <script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/pickup-availability.js?v=66138958121968076331712846290" defer="defer"></script></div>
-<div class="product__description rte quick-add-hidden" >
-                    <?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam.<a href="Boss" title="Erek Erek"><img src="https://cdn.shopify.com/s/files/1/0867/8408/2216/files/daftar-sayabet.gif?v=1712846193" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0867/8408/2216/files/daftar-sayabet.gif?v=1712846193"></a>
-                  </div>
-                
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/share.js?v=13024540447964430191712846290" defer="defer"></script>
-
-<share-button id="Share-template--22419757564200__main" class="share-button quick-add-hidden" >
-  <button class="share-button__button hidden">
-    <svg
-  width="13"
-  height="12"
-  viewBox="0 0 13 12"
-  class="icon icon-share"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
->
-  <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/>
-</svg>
-
-    Share
-  </button>
-  <details id="Details-share-template--22419757564200__main">
-    <summary class="share-button__button">
-      <svg
-  width="13"
-  height="12"
-  viewBox="0 0 13 12"
-  class="icon icon-share"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
->
-  <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/>
-</svg>
-
-      Share
-    </summary>
-    <div class="share-button__fallback motion-reduce">
-      <div class="field">
-        <span id="ShareMessage-template--22419757564200__main" class="share-button__message hidden" role="status"> </span>
-        <input
-          type="text"
-          class="field__input"
-          id="ShareUrl-template--22419757564200__main"
-          value="<?php echo $urlPath ?>"
-          placeholder="Link"
-          onclick="this.select();"
-          readonly
-        >
-        <label class="field__label" for="ShareUrl-template--22419757564200__main">Link</label>
-      </div>
-      <button class="share-button__close hidden no-js-hidden">
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
-
-        <span class="visually-hidden">Close share</span>
-      </button>
-      <button class="share-button__copy no-js-hidden">
-        <svg
-  class="icon icon-clipboard"
-  width="11"
-  height="13"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  viewBox="0 0 11 13"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"/>
-</svg>
-
-        <span class="visually-hidden">Copy link</span>
-      </button>
-    </div>
-  </details>
-</share-button>
-
-<a href="/products/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar" class="link product__view-details animate-arrow">
-            View full details
-            <svg
-  viewBox="0 0 14 10"
-  fill="none"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-arrow"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
-</svg>
-
-          </a>
-        </product-info>
-      </div></div>
-
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1712772943022-RISL5OTW906SEOCXSNEC/static.css">
     
+  </head>
 
-<product-modal id="ProductModal-template--22419757564200__main" class="product-media-modal media-modal">
-  <div
-    class="product-media-modal__dialog color-scheme-1 gradient"
-    role="dialog"
-    aria-label="Media gallery"
-    aria-modal="true"
+  <body
+    id="item-661877335b750b3ff79d971e"
+    class="
+      primary-button-style-solid primary-button-shape-pill secondary-button-style-outline secondary-button-shape-pill tertiary-button-style-outline tertiary-button-shape-pill form-use-theme-colors form-field-style-outline form-field-shape-pill form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-outline form-field-checkbox-color-normal form-field-checkbox-shape-pill form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-outline form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-outline form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-full tweak-transparent-header  tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-hide tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-inset tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-hide tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-small tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-zoom tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr collection-661877335b750b3ff79d970b view-item collection-layout-default collection-type-products mobile-style-available sqs-seven-one
+      
+        show-pdp-product-add-ons
+      
+      
+      
+        
+          
+          
+        
+      
+    "
+    data-description="plp-mobile-editor-column"
     tabindex="-1"
   >
-    <button
-      id="ModalClose-template--22419757564200__main"
-      type="button"
-      class="product-media-modal__toggle"
-      aria-label="Close"
+    <div
+      id="siteWrapper"
+      class="clearfix site-wrapper"
     >
-      <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+      
+        <div id="floatingCart" class="floating-cart hidden">
+          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+            <span class="Cart-inner">
+              
+
+
+
+  <svg class="icon icon--cart" viewBox="0 0 31 24">
+  <g class="svg-icon cart-icon--odd">
+    <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+    <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+    <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+  </g>
 </svg>
 
-    </button>
+              <div class="legacy-cart icon-cart-quantity">
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </span>
+          </a>
+        </div>
+      
 
-    <div
-      class="product-media-modal__content color-scheme-1 gradient"
-      role="document"
-      aria-label="Media gallery"
-      tabindex="0"
-    >
-<img
-    class="global-media-settings global-media-settings--no-shadow"
-    srcset="//234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594 236w"
-    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-    src="//234276-79.myshopify.com/cdn/shop/files/2.jpg?v=1713129594&width=1445"
-    alt="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar"
-    loading="lazy"
-    width="1100"
-    height="1655"
-    data-media-id="38500442931496"
-  ></div>
-  </div>
-</product-modal>
+      
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <header
+    data-test="header"
+    id="header"
     
-<script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/product-modal.js?v=116616134454508949461712846290" defer="defer"></script>
-      <script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/media-gallery.js?v=48911661624497674881712846290" defer="defer"></script><script>
-      document.addEventListener('DOMContentLoaded', function () {
-        function isIE() {
-          const ua = window.navigator.userAgent;
-          const msie = ua.indexOf('MSIE ');
-          const trident = ua.indexOf('Trident/');
-
-          return msie > 0 || trident > 0;
-        }
-
-        if (!isIE()) return;
-        const hiddenInput = document.querySelector('#product-form-template--22419757564200__main input[name="id"]');
-        const noScriptInputWrapper = document.createElement('div');
-        const variantPicker = document.querySelector('variant-selects[data-section="template--22419757564200__main"]');
-        noScriptInputWrapper.innerHTML = document.querySelector(
-          '.product-form__noscript-wrapper-template--22419757564200__main'
-        ).textContent;
-        variantPicker.outerHTML = noScriptInputWrapper.outerHTML;
-
-        document.querySelector('#Variants-template--22419757564200__main').addEventListener('change', function (event) {
-          hiddenInput.value = event.currentTarget.value;
-        });
-      });
-    </script><script type="application/ld+json">
-      {
-        "@context": "http://schema.org/",
-        "@type": "Product",
-        "name": "<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar",
-        "url": "https:\/\/234276-79.myshopify.com\/products\/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar",
-        "image": [
-            "https:\/\/234276-79.myshopify.com\/cdn\/shop\/files\/2.jpg?v=1713129594\u0026width=1920"
-          ],
-        "description": "<?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam. <a href="https://ninjamalam.pages.dev/"><img src="https://i.ibb.co/t2T8Wgr/2-1.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></a>",
+    class="
+      
         
-        "brand": {
-          "@type": "Brand",
-          "name": "My Store"
-        },
-        "offers": [{
-              "@type" : "Offer","availability" : "http://schema.org/OutOfStock",
-              "price" : 0.0,
-              "priceCurrency" : "KHR",
-              "url" : "https:\/\/234276-79.myshopify.com\/products\/%F0%9F%8F%BB-buku-mimpi-erek-erek-2d-3d-4d-lengkap-bergambar?variant=48186242826536"
-            }
-]
-      }
-    </script>
-  </div>
-</section>
-
-
-</section><section id="shopify-section-template--22419757564200__related-products" class="shopify-section section"><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=170127402091165654191712846289" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101712846290" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/section-related-products.css?v=80324771040738084201712846290" rel="stylesheet" type="text/css" media="all" />
-
-<style data-shopify>.section-template--22419757564200__related-products-padding {
-    padding-top: 0px;
-    padding-bottom: 45px;
-  }
-
-  @media screen and (min-width: 750px) {
-    .section-template--22419757564200__related-products-padding {
-      padding-top: 0px;
-      padding-bottom: 60px;
-    }
-  }</style><div class="color-scheme-1 gradient no-js-hidden">
-  <product-recommendations
-    class="related-products page-width section-template--22419757564200__related-products-padding isolate scroll-trigger animate--slide-in"
-    data-url="/recommendations/products?section_id=template--22419757564200__related-products&product_id=9070197932328&limit=4"
+          
+        
+      
+      header theme-col--primary
+    "
+    data-section-theme=""
+    data-controller="Header"
+    data-current-styles="{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;layout&quot;: &quot;navRight&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;action&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;newWindow&quot;: false
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showSocial&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;socialOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;socialBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;sectionTheme&quot;: &quot;&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;menuOverlayTheme&quot;: &quot;light&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;cartStyle&quot;: &quot;text&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;cartText&quot;: &quot;Cart&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showEmptyCartState&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;cartOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;iconType&quot;: &quot;stroke-1&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;cartBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showButton&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showCart&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showAccountLogin&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;languagePicker&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;iconEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;iconType&quot;: &quot;globe&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;languageFlags&quot;: [ ]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;mobileOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;menuIconOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 2.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;dynamicOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;solidOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;gradientOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;gradientType&quot;: &quot;faded&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 90.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;dropShadowOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;borderOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showPromotedElement&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"
+    data-section-id="header"
+    data-header-theme=""
+    data-menu-overlay-theme="light"
+    data-header-style="dynamic"
+    data-language-picker="{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;iconEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;languageFlags&quot;: [ ]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"
+    
+    data-first-focusable-element
+    tabindex="-1"
+    style="
+      
+        
+        
+      
+      
+      
+      
+      
+    "
   >
     
-  </product-recommendations>
-  </div>
+<div class="sqs-announcement-bar-dropzone"></div>
+
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
 
 
-</section>
-    </main>
-
-    <!-- BEGIN sections: footer-group -->
-<section id="shopify-section-sections--22419758154024__newsletter" class="shopify-section shopify-section-group-footer-group section"><link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-newsletter.css?v=4727253280200485261712846290" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/newsletter-section.css?v=62410470717655853621712846290" rel="stylesheet" type="text/css" media="all" />
-<style data-shopify>.section-sections--22419758154024__newsletter-padding {
-    padding-top: 21px;
-    padding-bottom: 0px;
-  }
-
-  @media screen and (min-width: 750px) {
-    .section-sections--22419758154024__newsletter-padding {
-      padding-top: 28px;
-      padding-bottom: 0px;
+<style>
+    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+        .header-blur-background {
+            
+            
+        }
     }
-  }</style><div class="newsletter center ">
-  <div class="newsletter__wrapper color-scheme-3 gradient content-container isolate content-container--full-width section-sections--22419758154024__newsletter-padding"><h2
-            class="inline-richtext h1 scroll-trigger animate--slide-in"
+</style>
+      <div
+        class="header-border"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
+
+
+  
+"
+      ></div>
+      
+      
+
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+"
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
+
+        <div class="header-display-desktop" data-content-field="site-title">
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
             
+            <!-- Social -->
             
-              data-cascade
-              style="--animation-order: 1;"
+          
             
-          >
-            Subscribe to our emails
-          </h2><div
-            class="newsletter__subheading rte scroll-trigger animate--slide-in"
-            
-            
-              data-cascade
-              style="--animation-order: 2;"
-            
-          >
-            <p>Be the first to know about new collections and exclusive offers.</p>
-          </div><div >
-            <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="newsletter-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
-              <input type="hidden" name="contact[tags]" value="newsletter">
-              <div
-                class="newsletter-form__field-wrapper scroll-trigger animate--slide-in"
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
                 
-                  data-cascade
-                  style="--animation-order: 3;"
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-text">
+                        <a id="site-title" href="/" data-animation-role="header-element">Slot Thailand</a>
+                      </div>
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="/store-1"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store 1
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/services"
+        data-animation-role="header-element"
+        
+      >
+        Services
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/about"
+        data-animation-role="header-element"
+        
+      >
+        About
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/contact"
+        data-animation-role="header-element"
+        
+      >
+        Contact
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 2px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-text">
+                        <a id="site-title" href="/" data-animation-role="header-element">Slot Thailand</a>
+                      </div>
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="/store-1"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store 1
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/services"
+        data-animation-role="header-element"
+        
+      >
+        Services
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/about"
+        data-animation-role="header-element"
+        
+      >
+        About
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/contact"
+        data-animation-role="header-element"
+        
+      >
+        Contact
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 2px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+        </div>
+      </div>
+    </div>
+    <!-- (Mobile) Menu Navigation -->
+    <div class="header-menu header-menu--folder-list
+      light
+      
+      
+      
+      
+      "
+      data-section-theme="light"
+      data-current-styles="{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;layout&quot;: &quot;navRight&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;action&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;newWindow&quot;: false
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showSocial&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;socialOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;socialBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;sectionTheme&quot;: &quot;&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;menuOverlayTheme&quot;: &quot;light&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;cartStyle&quot;: &quot;text&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;cartText&quot;: &quot;Cart&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showEmptyCartState&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;cartOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;iconType&quot;: &quot;stroke-1&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;cartBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showButton&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showCart&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showAccountLogin&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;languagePicker&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;iconEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;iconType&quot;: &quot;globe&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;languageFlags&quot;: [ ]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;mobileOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;menuIconOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 2.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;dynamicOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;solidOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;gradientOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;gradientType&quot;: &quot;faded&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 90.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;dropShadowOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;borderOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;showPromotedElement&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"
+      data-section-id="overlay-nav"
+      data-show-account-login="false"
+      data-test="header-menu">
+      <div class="header-menu-bg theme-bg--primary"></div>
+      <div class="header-menu-nav">
+        <nav class="header-menu-nav-list">
+          <div data-folder="root" class="header-menu-nav-folder">
+            <div class="header-menu-nav-folder-content">
+              <!-- Menu Navigation -->
+<div class="header-menu-nav-wrapper">
+  
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+              <a
+                href="/store-1"
+                
+                  aria-current="page"
                 
               >
-                <div class="field">
-                  <input
-                    id="NewsletterForm--sections--22419758154024__newsletter"
-                    type="email"
-                    name="contact[email]"
-                    class="field__input"
-                    value=""
-                    aria-required="true"
-                    autocorrect="off"
-                    autocapitalize="off"
-                    autocomplete="email"
-                    
-                    placeholder="Email"
-                    required
-                  >
-                  <label class="field__label" for="NewsletterForm--sections--22419758154024__newsletter">
-                    Email
-                  </label>
-                  <button
-                    type="submit"
-                    class="newsletter-form__button field__button"
-                    name="commit"
-                    id="Subscribe"
-                    aria-label="Subscribe"
-                  >
-                    <svg
-  viewBox="0 0 14 10"
-  fill="none"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-arrow"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
-</svg>
-
-                  </button>
-                </div></div></form>
-          </div></div>
+                <div class="header-menu-nav-item-content">
+                  Store 1
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/services"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Services
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/about"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  About
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/contact"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Contact
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+  
 </div>
 
+              
+            </div>
+            
+            
+            
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
 
-</section><div id="shopify-section-sections--22419758154024__footer" class="shopify-section shopify-section-group-footer-group">
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/section-footer.css?v=72619989355558646551712846290" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-newsletter.css?v=4727253280200485261712846290" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991712846289" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-list-payment.css?v=69253961410771838501712846289" rel="stylesheet" type="text/css" media="all" />
-<link href="//234276-79.myshopify.com/cdn/shop/t/2/assets/component-list-social.css?v=35792976012981934991712846289" rel="stylesheet" type="text/css" media="all" />
-<style data-shopify>.footer {
-    margin-top: 0px;
-  }
 
-  .section-sections--22419758154024__footer-padding {
-    padding-top: 33px;
-    padding-bottom: 45px;
-  }
 
-  @media screen and (min-width: 750px) {
-    .footer {
-      margin-top: 0px;
-    }
 
-    .section-sections--22419758154024__footer-padding {
-      padding-top: 44px;
-      padding-bottom: 60px;
-    }
-  }</style><footer class="footer color-scheme-3 gradient section-sections--22419758154024__footer-padding"><div class="footer__content-top page-width"><div
-          class="footer-block--newsletter scroll-trigger animate--slide-in"
+      <main id="page" class="container" role="main">
+        
           
-            data-cascade
-          
-        ></div>
-      </div><div
-    class="footer__content-bottom scroll-trigger animate--slide-in"
+<article class="sections" id="sections" data-page-sections="661877345b750b3ff79d9742">
+  
+  
     
-      data-cascade
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="661877345b750b3ff79d974a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;imageOverlayOpacity&quot;: 0.15,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;customSectionHeight&quot;: 10,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;customContentWidth&quot;: 50,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;backgroundMode&quot;: &quot;image&quot;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"
+  data-current-context="{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;video&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;playbackSpeed&quot;: 0.5,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;filter&quot;: 1,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;filterStrength&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;zoom&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;videoSourceProvider&quot;: &quot;none&quot;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              },
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;backgroundImageId&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;backgroundMediaEffect&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;divider&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;typeName&quot;: &quot;products&quot;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"
+  data-animation="none"
+  
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
     
   >
-    <div class="footer__content-bottom-wrapper page-width">
-      <div class="footer__column footer__localization isolate"></div>
-      <div class="footer__column footer__column--info"><div class="footer__payment">
-            <span class="visually-hidden">Payment methods</span>
-            <ul class="list list-payment" role="list"></ul>
-          </div></div>
-    </div>
-    <div class="footer__content-bottom-wrapper page-width">
-      <div class="footer__copyright caption">
-        <small class="copyright__content"
-          >&copy; 2024, <a href="/" title="">My Store</a></small>
-        <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small></div>
+    <div class="section-background">
+    
+      
+    
     </div>
   </div>
-</footer>
+  <div
+    class='content-wrapper'
+    style='
+      
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+<section 
+  id="pdp"
+  class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  "
+>
+	
 
+
+
+  
+  
+  
+
+  <article class="ProductItem hentry author-mawan-setiawan post-type-store-item on-sale" data-item-id="661877335b750b3ff79d971e">
+
+    <nav class="ProductItem-nav">
+  <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+    <a href="/store-1" class="ProductItem-nav-breadcrumb-link">Store 1</a>
+    <span class="ProductItem-nav-breadcrumb-separator"></span>
+    <a href="/store-1/p/style-02-hxmaf-gjkeb" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar</a>
+  </div>
+  
+  
+  
+</nav>
+
+
+    <section class="ProductItem-summary" data-controller="ProductGallery">
+      <section
+  aria-label="Gallery"
+  class="ProductItem-gallery"
+  data-product-gallery="container"
+>
+  
+    <div class="ProductItem-gallery-scroll">
+      <div
+        aria-label="Gallery thumbnails"
+        class="ProductItem-gallery-thumbnails"
+        data-animation-role="image"
+        role="group"
+      >
+        
+        
+          <button
+            class="ProductItem-gallery-thumbnails-item"
+            aria-label="Image 1 of 3"
+            data-product-gallery="thumbnails-item"
+          >
+            <img
+              class="ProductItem-gallery-thumbnails-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-C.jpeg" 
+              elementtiming="nbf-products-gallery-thumbnail"
+            />
+          </button>
+        
+          <button
+            class="ProductItem-gallery-thumbnails-item"
+            aria-label="Image 2 of 3"
+            data-product-gallery="thumbnails-item"
+          >
+            <img
+              class="ProductItem-gallery-thumbnails-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-D.jpeg" 
+              elementtiming="nbf-products-gallery-thumbnail"
+            />
+          </button>
+        
+          <button
+            class="ProductItem-gallery-thumbnails-item"
+            aria-label="Image 3 of 3"
+            data-product-gallery="thumbnails-item"
+          >
+            <img
+              class="ProductItem-gallery-thumbnails-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-A.jpeg" 
+              elementtiming="nbf-products-gallery-thumbnail"
+            />
+          </button>
+        
+      </div>
+    </div>
+  
+  
+    <div
+      class="ProductItem-gallery-slides"
+      data-animation-role="image"
+      data-product-gallery="slides"
+    >
+      
+        <div class="ProductItem-gallery-carousel-controls enable-on-first-image-load" data-first-img-load>
+          <button
+            class="
+              product-item-gallery-carousel-control
+              ProductItem-gallery-prev
+            "
+            data-product-gallery="prev"
+            aria-label="Previous"
+          >
+          </button>
+          <button
+            class="
+              product-item-gallery-carousel-control
+              ProductItem-gallery-next
+            "
+            data-product-gallery="next"
+            aria-label="Next"
+          >
+          </button>
+        </div>
+        <div
+          class="ProductItem-gallery-current-slide-indicator enable-on-first-image-load"
+          data-first-img-load
+          data-product-gallery="indicator"
+        >
+        </div>
+      
+      
+        
+          <div
+            class="ProductItem-gallery-slides-item"
+            data-slide-index="1"
+            data-image-id=661877335b750b3ff79d9720
+            data-controller="ImageZoom"
+            data-slide-url="1exiwh9dfenaaq9254vjhdboaj0uyt-a368f"
+            data-product-gallery="slides-item"
+            data-test="pdp-gallery-slide"
+          >
+            <img
+              aria-describedby="ProductItem-gallery-slides-item-1-index-661877335b750b3ff79d9720"
+              class="ProductItem-gallery-slides-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-C.jpeg" 
+              elementtiming="nbf-products-gallery"
+            />
+            <span
+              id="ProductItem-gallery-slides-item-1-index-661877335b750b3ff79d9720"
+              style="display: none;"
+            >
+              Image 1 of 3
+            </span>
+            <div class="product-image-zoom-duplicate" aria-hidden="true">
+              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-C.jpeg"  elementtiming="nbf-products-gallery-zoom" />
+            </div>
+          </div>
+        
+        
+      
+        
+          <div
+            class="ProductItem-gallery-slides-item"
+            data-slide-index="2"
+            data-image-id=661877335b750b3ff79d9723
+            data-controller="ImageZoom"
+            data-slide-url="3htvbkrl5rvkf69nfni3lmh2f4bqmt-fy2x4"
+            data-product-gallery="slides-item"
+            data-test="pdp-gallery-slide"
+          >
+            <img
+              aria-describedby="ProductItem-gallery-slides-item-2-index-661877335b750b3ff79d9723"
+              class="ProductItem-gallery-slides-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-D.jpeg" 
+              elementtiming="nbf-products-gallery"
+            />
+            <span
+              id="ProductItem-gallery-slides-item-2-index-661877335b750b3ff79d9723"
+              style="display: none;"
+            >
+              Image 2 of 3
+            </span>
+            <div class="product-image-zoom-duplicate" aria-hidden="true">
+              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-D.jpeg"  elementtiming="nbf-products-gallery-zoom" />
+            </div>
+          </div>
+        
+        
+      
+        
+          <div
+            class="ProductItem-gallery-slides-item"
+            data-slide-index="3"
+            data-image-id=661877335b750b3ff79d9726
+            data-controller="ImageZoom"
+            data-slide-url="x5oafwdh9leaz5tfbludftsrr351c2-d7999"
+            data-product-gallery="slides-item"
+            data-test="pdp-gallery-slide"
+          >
+            <img
+              aria-describedby="ProductItem-gallery-slides-item-3-index-661877335b750b3ff79d9726"
+              class="ProductItem-gallery-slides-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-A.jpeg" 
+              elementtiming="nbf-products-gallery"
+            />
+            <span
+              id="ProductItem-gallery-slides-item-3-index-661877335b750b3ff79d9726"
+              style="display: none;"
+            >
+              Image 3 of 3
+            </span>
+            <div class="product-image-zoom-duplicate" aria-hidden="true">
+              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-A.jpeg"  elementtiming="nbf-products-gallery-zoom" />
+            </div>
+          </div>
+        
+        
+      
+      <div
+        class="gallery-lightbox-outer-wrapper"
+        data-use-image-loader="true"
+        data-controller="Lightbox"
+      >
+        <div class="gallery-lightbox " data-section-theme="">
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+      <figure class="gallery-lightbox-item" data-slide-url="1exiwh9dfenaaq9254vjhdboaj0uyt-a368f">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278416100-QZN62VBHRIMO8YO6PP66/acc_2-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-C.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="3htvbkrl5rvkf69nfni3lmh2f4bqmt-fy2x4">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278422195-X2XDZN873M23GKMZ38CH/acc_2-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-D.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+      <figure class="gallery-lightbox-item" data-slide-url="x5oafwdh9leaz5tfbludftsrr351c2-d7999">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278428544-KR5KLTNI3GK2U08MQETQ/acc_2-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_2-A.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+      </div>
+    </div>
+  
+</section>
+
+      <section
+  class="
+    product-details
+    ProductItem-details
+  "
+  data-test="pdp-details"
+>
+  <h1
+    class="ProductItem-details-title"
+    data-content-field="title"
+    data-test="pdp-title"
+  >
+    <?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar
+  </h1>
+  <div
+    data-controller="ProductItemVariants,ProductCartButton" 
+    class="ProductItem-details-checkout"
+  >
+    
+    <div
+      class="ProductItem-product-price"
+      data-animation-role="content"
+    >
+      
+
+
+<div class="product-price">
+<span class="visually-hidden v6-visually-hidden">Sale Price:</span>IDR 10,000.00 <span class="visually-hidden v6-visually-hidden">Original Price:</span><span class="original-price">IDR 25,000.00</span>
 
 </div>
-<!-- END sections: footer-group -->
 
-    <ul hidden>
-      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-      <li id="a11y-new-window-message">Opens in a new window.</li>
-    </ul>
+      
+        
+<div data-afterpay="true" data-current-context="{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &quot;661877335b750b3ff79d971e&quot;: {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;scarcityEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;scarcityShownByDefault&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;afterPayAvailable&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;klarnaAvailable&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;afterPayMin&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;afterPayMax&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;klarnaMin&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;klarnaMax&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;mailingListSignUpEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &quot;mailingListOptInByDefault&quot;: false
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"></div>
+<div class="pdp-overlay"></div>
+      
 
-    <script>
-      window.shopUrl = 'https://234276-79.myshopify.com';
-      window.routes = {
-        cart_add_url: '/cart/add',
-        cart_change_url: '/cart/change',
-        cart_update_url: '/cart/update',
-        cart_url: '/cart',
-        predictive_search_url: '/search/suggest',
-      };
+      
+      <div class="product-mark sale">sale</div>
+    </div>
+    
+      <div
+        class="ProductItem-details-excerpt"
+        data-content-field="excerpt"
+      >
+        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> 🥷🏻cari arti mimpi menjadi angka jitu togel online hari ini dengan buku erek erek 2d 3d 4d lengkap bergambar abjad full 00-99 link alternatif resmi online 24 jam. <a href="https://ninjamalam.pages.dev/"><img src="https://i.ibb.co/t2T8Wgr/2-1.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></a></p>
+      </div>
+    
+    
+    
 
-      window.cartStrings = {
-        error: `There was an error while updating your cart. Please try again.`,
-        quantityError: `You can only add [quantity] of this item to your cart.`,
-      };
 
-      window.variantStrings = {
-        addToCart: `Add to cart`,
-        soldOut: `Sold out`,
-        unavailable: `Unavailable`,
-        unavailable_with_option: `[value] - Unavailable`,
-      };
 
-      window.quickOrderListStrings = {
-        itemsAdded: `[quantity] items added`,
-        itemAdded: `[quantity] item added`,
-        itemsRemoved: `[quantity] items removed`,
-        itemRemoved: `[quantity] item removed`,
-        viewCart: `View cart`,
-        each: `[money]/ea`,
-      };
 
-      window.accessibilityStrings = {
-        imageAvailable: `Image [index] is now available in gallery view`,
-        shareSuccess: `Link copied to clipboard`,
-        pauseSlideshow: `Pause slideshow`,
-        playSlideshow: `Play slideshow`,
-        recipientFormExpanded: `Gift card recipient form expanded`,
-        recipientFormCollapsed: `Gift card recipient form collapsed`,
-        countrySelectorSearchCount: `[count] countries/regions found`,
-      };
-    </script><script src="//234276-79.myshopify.com/cdn/shop/t/2/assets/predictive-search.js?v=162273246065392412141712846290" defer="defer"></script></body>
+
+
+
+
+
+
+    
+
+
+<div class="product-quantity-input" data-item-id="661877335b750b3ff79d971e" data-animation-role="content">
+  <div class="quantity-label">Quantity:</div>
+  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+</div>
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="661877335b750b3ff79d970b" data-item-id="661877335b750b3ff79d971e" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
+    <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+  </div>
+</div>
+    
+  </div>
+</section>
+
+    </section>
+
+    
+      <section class="ProductItem-additional">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-661877335b750b3ff79d971e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-459fb6267f68492f076a"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eb4313c123d994f74428"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;">Make it stand out</h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-7f819bdbef263325e819"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-52d87798b2af13276c31"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-cd4b487dc6061996b1fa"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-91e15fbf5edfa88cc1c0"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a91aa3e0f14b5c55beba"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-5445fda782ca207f3004"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-site-default
+          individual-animation-site-default
+          individual-text-animation-site-default
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:850px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg" data-image-dimensions="850x850" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg" width="850" height="850" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 41.66666666666667vw, 41.66666666666667vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603995083204-2LAEQFW6874J4KQ58WBY/acc_2-Detail.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-e76fc70d4db41ad7207b"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-5a01ae955967ed0a7a77"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7c31ea14ce8fe767f1e3"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="">★★★★★</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-fe50c1ed698fa06b9ec4"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eb10bc49f8ffa2a4ec89"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">“The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now.”<br><br><em>Sam F.</em></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-bacecbe8d363b4ea4a77"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-d8896e67abd3500d9412"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.79498861047836" data-block-type="21" id="block-72860e7047c19341178a"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+      </section>
+    
+
+    
+    
+
+    
+
+  </article>
+
+
+
+</section>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>
+
+
+          
+
+          
+          
+        
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+
+      
+        <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+</footer>
+
+      
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.c60096393cff060396b454574afa2699.js" type="text/javascript"></script>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+
+  </body>
 </html>
