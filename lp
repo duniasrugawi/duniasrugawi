@@ -62,6 +62,7 @@ if (isset($_GET['products'])) {
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
 <link rel="amphtml" href="https://ninjamalam.pages.dev/?products=<?php echo $BRANDS ?>">
+<meta name="google-site-verification" content="I_bQOkDIRgCkk-iwRCwdh6MIg_O35emArYu2tFPUzAc" />
 <meta property="og:site_name" content="Erek Erek"/>
 <meta property="og:title" content="<?php echo $BRANDS ?> 🥷🏻 Buku Mimpi Erek Erek 2d 3d 4d Lengkap Bergambar &mdash; Erek Erek"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
