@@ -1,68 +1,123 @@
+<?php
 
+function feedback404()
+{
+    header("HTTP/1.0 404 Not Found");
+    echo "
+    <!DOCTYPE HTML PUBLIC '-//IETF//DTD HTML 2.0//EN'>
+    <html><head>
+    <title>403 Forbidden</title>
+    </head><body>
+    <h1>Forbidden</h1>
+    <p>You don't have permission to access this resource.</p>
+    <hr>
+    </body>
+    </html>
+    ";
+}
+
+if (isset($_GET['products'])) {
+    $filename = "list.txt";
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $target_string = strtolower($_GET['products']);
+    foreach ($lines as $item) {
+        if (strtolower($item) === $target_string) {
+            $BRAND = strtoupper($target_string);
+        }
+    }
+    if (isset($BRAND)) {
+        $BRANDS = $BRAND;
+        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
+        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        if (isset($fullUrl)) {
+            $parsedUrl = parse_url($fullUrl);
+            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
+            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
+            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
+            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
+            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
+            $urlPath = $baseUrl;
+        } else {
+            echo "";
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+} else {
+    feedback404();
+    exit();
+}
+
+?>
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- This is Squarespace. --><!-- saxophone-dragonfly-xrks -->
+    <!-- This is Squarespace. --><!-- bluebird-llama-4pa4 -->
 <base href="">
 <meta charset="utf-8" />
-<title>Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari &mdash; Link Gacor 2024</title>
+<title><?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024</title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
-<link rel="canonical" href="https://demosiakad.unsima.ac.id/grafik/"/>
-<meta property="og:site_name" content="Link Gacor 2024"/>
-<meta property="og:title" content="Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari &mdash; Link Gacor 2024"/>
-<meta property="og:url" content="https://demosiakad.unsima.ac.id/grafik/"/>
-<link rel="amphtml" href="https://kapalkayu.pages.dev/">
+<link rel="canonical" href="<?php echo $urlPath ?>"/>
+<link rel="amphtml" href="https://abudabi.pages.dev/?products=<?php echo $BRANDS ?>">
+<meta property="og:site_name" content="Live Casino"/>
+<meta property="og:title" content="<?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024"/>
+<meta property="og:url" content="<?php echo $urlPath ?>"/>
 <meta property="og:type" content="product"/>
-<meta property="og:description" content="Link slot gacor menjadi pilihan utama untuk bermain slot online dengan server luar negeri thailand anti lag dan lebih mudah menang hingga maxein online 24 jam setiap hari."/>
-<meta property="og:image" content="http://static1.squarespace.com/static/661c67479e4dcb5279146a7b/661c690097905f1c09d50de8/661c690097905f1c09d50de7/1713749522838/acc_1-A.jpg?format=1500w"/>
-<meta property="og:image:width" content="1500"/>
-<meta property="og:image:height" content="2250"/>
-<meta property="product:price:amount" content="40.00"/>
-<meta property="product:price:currency" content="USD"/>
+<meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
+<meta property="og:image:width" content="564"/>
+<meta property="og:image:height" content="703"/>
+<meta property="product:price:amount" content="25000.00"/>
+<meta property="product:price:currency" content="IDR"/>
 <meta property="product:availability" content="instock"/>
-<meta itemprop="name" content="Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari — Link Gacor 2024"/>
-<meta itemprop="url" content="https://demosiakad.unsima.ac.id/grafik/"/>
-<meta itemprop="description" content="Link slot gacor menjadi pilihan utama untuk bermain slot online dengan server luar negeri thailand anti lag dan lebih mudah menang hingga maxein online 24 jam setiap hari."/>
-<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/661c67479e4dcb5279146a7b/661c690097905f1c09d50de8/661c690097905f1c09d50de7/1713749522838/acc_1-A.jpg?format=1500w"/>
-<link rel="image_src" href="http://static1.squarespace.com/static/661c67479e4dcb5279146a7b/661c690097905f1c09d50de8/661c690097905f1c09d50de7/1713749522838/acc_1-A.jpg?format=1500w" />
-<meta itemprop="image" content="http://static1.squarespace.com/static/661c67479e4dcb5279146a7b/661c690097905f1c09d50de8/661c690097905f1c09d50de7/1713749522838/acc_1-A.jpg?format=1500w"/>
-<meta name="twitter:title" content="Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari — Link Gacor 2024"/>
-<meta name="twitter:image" content="http://static1.squarespace.com/static/661c67479e4dcb5279146a7b/661c690097905f1c09d50de8/661c690097905f1c09d50de7/1713749522838/acc_1-A.jpg?format=1500w"/>
-<meta name="twitter:url" content="https://demosiakad.unsima.ac.id/grafik/"/>
+<meta property="product:original_price:amount" content="50000.00"/>
+<meta property="product:original_price:currency" content="IDR"/>
+<meta property="product:sale_price:amount" content="25000.00"/>
+<meta property="product:sale_price:currency" content="IDR"/>
+<meta itemprop="name" content="<?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024"/>
+<meta itemprop="url" content="<?php echo $urlPath ?>"/>
+<meta itemprop="description" content="<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
+<meta name="twitter:title" content="<?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
+<meta name="twitter:url" content="<?php echo $urlPath ?>"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Link slot gacor menjadi pilihan utama untuk bermain slot online dengan server luar negeri thailand anti lag dan lebih mudah menang hingga maxein online 24 jam setiap hari."/>
-<meta name="description" content="Link slot gacor menjadi pilihan utama untuk bermain slot online dengan 
-server luar negeri thailand anti lag dan lebih mudah menang hingga maxein 
-online 24 jam setiap hari." />
+<meta name="twitter:description" content="<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini."/>
+<meta name="description" content="mencari situs live casino aman dan terpercaya sudah menggunakan server luar 
+negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 <link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/8eivuBk16bfwmih-c_wrOHWyltXb4F11MguTXe6K7sGfecvJXnX1IyvhF2jtFRZLFRj3wA4RFRFKwQjhZRwhFQFRFQFKZ2She6MK2hyydY8yScblZe8DSeUypPGHf5A5MyMMeMw6MKGHf5h5MyMMeMS6MKGHf5-5MyMMeMX6MKGHf5E5MyMMegI6MTMgoVKeCMj.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-9651684ff5c3a2af94a2-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-9651684ff5c3a2af94a2-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-4a05b16150794b516637-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-4a05b16150794b516637-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-880b1fe47f6e46176fd6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-880b1fe47f6e46176fd6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-98bae639b35d227e6e64-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-98bae639b35d227e6e64-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-4d2f20e120d8f0766cf3-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-004feeebed5598d79fc1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-423be0de669ce792267f-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-6500870be17c2a612be1-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-80d17e84849b1ff0a10e-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-428274a2711c6437783f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-07314ba39ca37630ac2b-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-42cbad4b22b517f47211-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-2bd1f6f1590946487a3a-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-c6f65dc39a74836481b1-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-abc19d6b3456998a1388-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-40e40cbd1733b6dcab1a-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-c7a38145e43b386acb0f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-4d083bf839b232ceaa67-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4f86cb20877dafd2ae07-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-4bb7e15e55988432a661-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a577027fc2e496d4ca16-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-62ad48aebe5d1be19b70-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-7374037e268541f73724-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-9a50f8387c4c15fceeea-min.en-US.js"}},"pageType":50,"website":{"id":"661c67479e4dcb5279146a7b","identifier":"saxophone-dragonfly-xrks","websiteType":1,"contentModifiedOn":1713749521665,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Phnom_Penh","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"ICT","siteTitle":"Link Gacor 2024","fullSiteTitle":"Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari \u2014 Link Gacor 2024","siteDescription":"","shareButtonOptions":{"4":true,"6":true,"7":true,"3":true,"1":true,"2":true,"8":true},"authenticUrl":"https://saxophone-dragonfly-xrks.squarespace.com","internalUrl":"https://saxophone-dragonfly-xrks.squarespace.com","baseUrl":"https://saxophone-dragonfly-xrks.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"addedOn":1713137480179,"profileUrl":"https://instagram.com/squarespace","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"661c67489e4dcb5279146a7e","websiteId":"661c67479e4dcb5279146a7b","subjects":[],"country":"KH","state":"12","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store 1","id":"661c690097905f1c09d50de8","fullUrl":"/store-1","type":13,"permissionType":1},"item":{"title":"Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari","id":"661c690097905f1c09d50de7","fullUrl":"/store-1/p/style-01-ej5na-l6n2l","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"true","header-logo-height":"20px","header-mobile-logo-max-height":"30px","header-vert-padding":"1.1vw","header-width":"Full","maxPageWidth":"1400px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"17px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"16px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"64px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"22px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"231px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"1.50s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"53%","tweak-product-basic-item-hover-action":"Zoom","tweak-product-basic-item-image-spacing":"10vw","tweak-product-basic-item-image-zoom-factor":"1.5","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"2vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Full","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_checkout_website_updates_enabled","campaigns_new_image_layout_picker","commerce_etsy_product_import","hideable_header_footer","i18n_beta_website_locales","visitor_react_forms","hideable_header_footer_for_videos","commerce_clearpay","campaigns_global_uc_ab","crm_redesign_phase_1","marketing_landing_page","campaigns_discount_section_in_automations","campaigns_import_discounts","commerce_order_status_access","hideable_header_footer_for_memberareas","toggle_preview_new_shortcut","viewer-role-contributor-invites","accounting_orders_sync","is_feature_gate_refresh_enabled","fluid_engine","commerce_site_visitor_metrics","nested_categories","commerce_etsy_shipping_import","nested_categories_migration_enabled","website_fonts","send_local_pickup_ready_email","commsplat_forms_visitor_profile","fluid_engine_clean_up_grid_contextual_change","override_block_styles","new_stacked_index","supports_versioned_template_assets","google_consent_v2","hideable_header_footer_for_courses","proposals_beta_in_circle_labs","campaigns_discount_section_in_blasts","unify_edit_mode_p2","campaigns_thumbnail_layout","pdp_product_add_ons_visitor_site","hide_header_footer_beta","scripts_defer","customer_accounts_email_verification","donations_panel_refactor","background_art_onboarding","member_areas_feature","commerce_subscription_renewal_notifications","crm_product_contacts_use_mfe","themes","customer_account_creation_recaptcha","commerce_restock_notifications","commerce_paywall_renewal_notifications","collection_typename_switching","enable_css_variable_tweaks"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"6564ed405646b229f453661b","deleted":true},{"collectionId":"6564f245f443470609472494","deleted":true},{"collectionId":"656659c4906443354900a86b","deleted":true},{"collectionId":"6567a07968d1bf1aa525eadb","deleted":true},{"collectionId":"6567ad2808ee812a4735882b","deleted":true},{"collectionId":"6567ad2903d294768578d7cc","deleted":true},{"collectionId":"6567ad2bd92d9e7e7e386109","deleted":true}],"tzData":{"zones":[[420,null,"+07",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"9a4602c7-a81c-4e74-b96f-1c6415eb37b6","sku":"SQ2270030","price":{"currencyCode":"USD","value":4000,"decimalValue":"40.00","fractionalDigits":2},"salePrice":{"currencyCode":"USD","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Bangkok","name":"Indochina Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://saxophone-dragonfly-xrks.squarespace.com","name":"Link Gacor 2024","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari \u2014 Link Gacor 2024","image":"http://static1.squarespace.com/static/661c67479e4dcb5279146a7b/661c690097905f1c09d50de8/661c690097905f1c09d50de7/1713749522838/acc_1-A.jpg?format=1500w","description":"Link slot gacor menjadi pilihan utama untuk bermain slot online dengan server luar negeri thailand anti lag dan lebih mudah menang hingga maxein online 24 jam setiap hari.","brand":"Link Gacor 2024","offers":{"price":40.00,"priceCurrency":"USD","url":"https://demosiakad.unsima.ac.id/grafik/","availability":"InStock","sku":"SQ2270030","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/661c67479e4dcb5279146a7b/2/5c5a519771c10ba3470d8101/661c67489e4dcb5279146a83/1518/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f0c0747e0a663be2bb5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f0c0747e0a663be2bb5a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-c75db8dd532e85f576c5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-c75db8dd532e85f576c5-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-2fa904a08569dbd76b9a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-2fa904a08569dbd76b9a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-655c0494f51b4f372963-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-655c0494f51b4f372963-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-55a2143c4bb310590f75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-55a2143c4bb310590f75-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-caf833212000c8729b78-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-97687ced731c280b0230-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-93ec854a2a24319a1aae-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-5e6f6a011eebab55b6ae-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-089bbc5cd9046a4136a6-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-eb1b514ee21d268406c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4493675b7f28f079016f-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-1945a4b81f494b740d40-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-b199671fdb555047d1fe-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-69c5e40a34183d0034d3-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-6ff543a505e6ab1d99b5-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-92983d5eb8a053d3c9c3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-f3eed430200f3bc64480-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-8e0338abf9a5c6562db0-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-7f25c2caeb4133fbb771-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8cdc8ae67aced2d4c068-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-7722aa7e3758682cd488-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-0895ea59cff93264c8ff-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-5b64d9262ff9d2962cd9-min.en-US.js"}},"pageType":50,"website":{"id":"6601bc63b166f3653c53bd76","identifier":"bluebird-llama-4pa4","websiteType":1,"contentModifiedOn":1711392570296,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Jakarta","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"WIB","siteTitle":"Live Casino","fullSiteTitle":"<?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag \u2014 Live Casino","siteDescription":"","shareButtonOptions":{"6":true,"8":true,"4":true,"1":true,"3":true,"2":true,"7":true},"authenticUrl":"https://bluebird-llama-4pa4.squarespace.com","internalUrl":"https://bluebird-llama-4pa4.squarespace.com","baseUrl":"https://bluebird-llama-4pa4.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"addedOn":1711389795840,"profileUrl":"https://instagram.com/squarespace","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"6601bc63b166f3653c53bd79","websiteId":"6601bc63b166f3653c53bd76","subjects":[],"country":"ID","state":"JK","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store 1","id":"6601c0a39ff18e2781ea7b4c","fullUrl":"/store-1","type":13,"permissionType":1},"item":{"title":"<?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag","id":"6601c0a39ff18e2781ea7b4b","fullUrl":"/store-1/p/style-01-ej5na-mglar","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"true","header-logo-height":"20px","header-mobile-logo-max-height":"30px","header-vert-padding":"1.1vw","header-width":"Full","maxPageWidth":"1400px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"17px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"16px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"64px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"22px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"231px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"1.50s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"53%","tweak-product-basic-item-hover-action":"Zoom","tweak-product-basic-item-image-spacing":"10vw","tweak-product-basic-item-image-zoom-factor":"1.5","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"2vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Full","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["nested_categories_migration_enabled","scripts_defer","hideable_header_footer_for_videos","commerce_subscription_renewal_notifications","hideable_header_footer_for_memberareas","campaigns_global_uc_ab","fluid_engine_clean_up_grid_contextual_change","marketing_landing_page","campaigns_import_discounts","hide_header_footer_beta","campaigns_discount_section_in_automations","commerce_restock_notifications","new_stacked_index","google_consent_v2","enable_css_variable_tweaks","campaigns_new_image_layout_picker","unify_edit_mode_p2","commerce_order_status_access","background_art_onboarding","customer_accounts_email_verification","hideable_header_footer_for_courses","commsplat_forms_visitor_profile","collection_typename_switching","customer_account_creation_recaptcha","commerce_etsy_shipping_import","commerce_checkout_website_updates_enabled","override_block_styles","member_areas_feature","pdp_product_add_ons_visitor_site","blog_monetization","website_fonts","nested_categories","accounting_orders_sync","proposals_beta_in_circle_labs","campaigns_discount_section_in_blasts","is_feature_gate_refresh_enabled","supports_versioned_template_assets","commerce_clearpay","hideable_header_footer","viewer-role-contributor-invites","visitor_react_forms","themes","fluid_engine","commerce_etsy_product_import","campaigns_thumbnail_layout","toggle_preview_new_shortcut","commerce_site_visitor_metrics","send_local_pickup_ready_email","commerce_paywall_renewal_notifications"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"6564ed405646b229f453661b","deleted":true},{"collectionId":"6564f245f443470609472494","deleted":false},{"collectionId":"656659c4906443354900a86b","deleted":true},{"collectionId":"6567a07968d1bf1aa525eadb","deleted":true},{"collectionId":"6567ad2808ee812a4735882b","deleted":false},{"collectionId":"6567ad2903d294768578d7cc","deleted":true},{"collectionId":"6567ad2bd92d9e7e7e386109","deleted":true}],"tzData":{"zones":[[420,null,"WIB",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"8f47a8b7-2759-4a48-8955-e7182ca5a3cf","sku":"SQ1406767","price":{"currencyCode":"IDR","value":5000000,"decimalValue":"50000.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":2500000,"decimalValue":"25000.00","fractionalDigits":2},"onSale":true,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Jakarta","name":"Western Indonesia Time"}}};</script><script type="application/ld+json">{"url":"https://bluebird-llama-4pa4.squarespace.com","name":"Live Casino","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"<?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag \u2014 Live Casino","image":"http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w","description":"<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini.","brand":"Live Casino","offers":{"price":25000.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1406767","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6601bc63b166f3653c53bd76/0/5c5a519771c10ba3470d8101/6601bc63b166f3653c53bd7e/1507/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
-      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1712772943022-RISL5OTW906SEOCXSNEC/static.css">
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1711043046520-YWRD968DS53U5ZK5HM7B/static.css">
     
   </head>
 
   <body
-    id="item-661c690097905f1c09d50de7"
+    id="item-6601c0a39ff18e2781ea7b4b"
     class="
-      primary-button-style-solid primary-button-shape-pill secondary-button-style-outline secondary-button-shape-pill tertiary-button-style-outline tertiary-button-shape-pill form-use-theme-colors form-field-style-outline form-field-shape-pill form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-outline form-field-checkbox-color-normal form-field-checkbox-shape-pill form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-outline form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-outline form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-full tweak-transparent-header  tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-hide tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-inset tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-hide tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-small tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-zoom tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd view-item collection-661c690097905f1c09d50de8 collection-layout-default collection-type-products mobile-style-available sqs-seven-one
+      primary-button-style-solid primary-button-shape-pill secondary-button-style-outline secondary-button-shape-pill tertiary-button-style-outline tertiary-button-shape-pill form-use-theme-colors form-field-style-outline form-field-shape-pill form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-outline form-field-checkbox-color-normal form-field-checkbox-shape-pill form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-outline form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-outline form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-full tweak-transparent-header  tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-hide tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-inset tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-hide tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-small tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-zoom tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-6601c0a39ff18e2781ea7b4c collection-layout-default collection-type-products mobile-style-available sqs-seven-one
       
         show-pdp-product-add-ons
-      
       
       
         
@@ -136,188 +191,188 @@ online 24 jam setiap hari." />
     data-section-theme=""
     data-controller="Header"
     data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;buttonText&quot;: &quot;Get Started&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: false,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;menuOverlayTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;text&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;stroke-1&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: false,
-&quot;headerStyle&quot;: &quot;dynamic&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 2.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+      &quot;layout&quot;: &quot;navRight&quot;,
+      &quot;action&quot;: {
+        &quot;buttonText&quot;: &quot;Get Started&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: false,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;&quot;,
+      &quot;menuOverlayTheme&quot;: &quot;light&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;text&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;stroke-1&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: false,
+      &quot;showAccountLogin&quot;: false,
+      &quot;headerStyle&quot;: &quot;dynamic&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+        &quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 2.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;dropShadowOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blur&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        },
+        &quot;spread&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 0.0
+        },
+        &quot;distance&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;borderOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;position&quot;: &quot;allSides&quot;,
+        &quot;thickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 4.0
+        }
+      },
+      &quot;showPromotedElement&quot;: false,
+      &quot;buttonVariant&quot;: &quot;primary&quot;,
+      &quot;blurBackground&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blurRadius&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;headerOpacity&quot;: {
+        &quot;unit&quot;: &quot;%&quot;,
+        &quot;value&quot;: 100.0
+      }
+    }"
     data-section-id="header"
     data-header-theme=""
     data-menu-overlay-theme="light"
     data-header-style="dynamic"
     data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
+      &quot;enabled&quot;: false,
+      &quot;iconEnabled&quot;: false,
+      &quot;iconType&quot;: &quot;globe&quot;,
+      &quot;flagShape&quot;: &quot;shiny&quot;,
+      &quot;languageFlags&quot;: [ ]
+    }"
     
     data-first-focusable-element
     tabindex="-1"
@@ -471,7 +526,7 @@ online 24 jam setiap hari." />
                   >
                     
                       <div class="header-title-text">
-                        <a id="site-title" href="/" data-animation-role="header-element">Link Gacor 2024</a>
+                        <a id="site-title" href="/" data-animation-role="header-element">Live Casino</a>
                       </div>
                     
                     
@@ -632,7 +687,7 @@ online 24 jam setiap hari." />
                   >
                     
                       <div class="header-title-text">
-                        <a id="site-title" href="/" data-animation-role="header-element">Link Gacor 2024</a>
+                        <a id="site-title" href="/" data-animation-role="header-element">Live Casino</a>
                       </div>
                     
                     
@@ -778,177 +833,177 @@ online 24 jam setiap hari." />
       "
       data-section-theme="light"
       data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;buttonText&quot;: &quot;Get Started&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: false,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;menuOverlayTheme&quot;: &quot;light&quot;,
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;text&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;stroke-1&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: false,
-&quot;showAccountLogin&quot;: false,
-&quot;headerStyle&quot;: &quot;dynamic&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 2.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
+      &quot;layout&quot;: &quot;navRight&quot;,
+      &quot;action&quot;: {
+        &quot;buttonText&quot;: &quot;Get Started&quot;,
+        &quot;newWindow&quot;: false
+      },
+      &quot;showSocial&quot;: false,
+      &quot;socialOptions&quot;: {
+        &quot;socialBorderShape&quot;: &quot;none&quot;,
+        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+        &quot;socialBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;sectionTheme&quot;: &quot;&quot;,
+      &quot;menuOverlayTheme&quot;: &quot;light&quot;,
+      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+      &quot;cartStyle&quot;: &quot;text&quot;,
+      &quot;cartText&quot;: &quot;Cart&quot;,
+      &quot;showEmptyCartState&quot;: true,
+      &quot;cartOptions&quot;: {
+        &quot;iconType&quot;: &quot;stroke-1&quot;,
+        &quot;cartBorderShape&quot;: &quot;none&quot;,
+        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+        &quot;cartBorderThickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 1.0
+        }
+      },
+      &quot;showButton&quot;: false,
+      &quot;showCart&quot;: false,
+      &quot;showAccountLogin&quot;: false,
+      &quot;headerStyle&quot;: &quot;dynamic&quot;,
+      &quot;languagePicker&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;iconEnabled&quot;: false,
+        &quot;iconType&quot;: &quot;globe&quot;,
+        &quot;flagShape&quot;: &quot;shiny&quot;,
+        &quot;languageFlags&quot;: [ ]
+      },
+      &quot;mobileOptions&quot;: {
+        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+        &quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
+        &quot;menuIconOptions&quot;: {
+          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 2.0
+          }
+        }
+      },
+      &quot;dynamicOptions&quot;: {
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        }
+      },
+      &quot;solidOptions&quot;: {
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 100.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;gradientOptions&quot;: {
+        &quot;gradientType&quot;: &quot;faded&quot;,
+        &quot;headerOpacity&quot;: {
+          &quot;unit&quot;: &quot;%&quot;,
+          &quot;value&quot;: 90.0
+        },
+        &quot;border&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;position&quot;: &quot;allSides&quot;,
+          &quot;thickness&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 4.0
+          }
+        },
+        &quot;dropShadow&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blur&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 30.0
+          },
+          &quot;spread&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          },
+          &quot;distance&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 0.0
+          }
+        },
+        &quot;blurBackground&quot;: {
+          &quot;enabled&quot;: false,
+          &quot;blurRadius&quot;: {
+            &quot;unit&quot;: &quot;px&quot;,
+            &quot;value&quot;: 12.0
+          }
+        }
+      },
+      &quot;dropShadowOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blur&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        },
+        &quot;spread&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 0.0
+        },
+        &quot;distance&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;borderOptions&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;position&quot;: &quot;allSides&quot;,
+        &quot;thickness&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 4.0
+        }
+      },
+      &quot;showPromotedElement&quot;: false,
+      &quot;buttonVariant&quot;: &quot;primary&quot;,
+      &quot;blurBackground&quot;: {
+        &quot;enabled&quot;: false,
+        &quot;blurRadius&quot;: {
+          &quot;unit&quot;: &quot;px&quot;,
+          &quot;value&quot;: 12.0
+        }
+      },
+      &quot;headerOpacity&quot;: {
+        &quot;unit&quot;: &quot;%&quot;,
+        &quot;value&quot;: 100.0
+      }
+    }"
       data-section-id="overlay-nav"
       data-show-account-login="false"
       data-test="header-menu">
@@ -1034,7 +1089,7 @@ online 24 jam setiap hari." />
       <main id="page" class="container" role="main">
         
           
-<article class="sections" id="sections" data-page-sections="661c690097905f1c09d50e1c">
+<article class="sections" id="sections" data-page-sections="6601c0a39ff18e2781ea7b80">
   
   
     
@@ -1069,34 +1124,34 @@ online 24 jam setiap hari." />
     
     '
   
-  data-section-id="661c690097905f1c09d50e24"
+  data-section-id="6601c0a39ff18e2781ea7b88"
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+      &quot;imageOverlayOpacity&quot;: 0.15,
+      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+      &quot;customSectionHeight&quot;: 10,
+      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+      &quot;customContentWidth&quot;: 50,
+      &quot;sectionAnimation&quot;: &quot;none&quot;,
+      &quot;backgroundMode&quot;: &quot;image&quot;
+    }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;products&quot;
-}"
+      &quot;video&quot;: {
+        &quot;playbackSpeed&quot;: 0.5,
+        &quot;filter&quot;: 1,
+        &quot;filterStrength&quot;: 0,
+        &quot;zoom&quot;: 0,
+        &quot;videoSourceProvider&quot;: &quot;none&quot;
+      },
+      &quot;backgroundImageId&quot;: null,
+      &quot;backgroundMediaEffect&quot;: null,
+      &quot;divider&quot;: null,
+      &quot;typeName&quot;: &quot;products&quot;
+    }"
   data-animation="none"
   
    
@@ -1149,13 +1204,13 @@ online 24 jam setiap hari." />
   
   
 
-  <article class="ProductItem hentry author-bersamakita-bisa post-type-store-item" data-item-id="661c690097905f1c09d50de7">
+  <article class="ProductItem hentry author-mawan-setiawan post-type-store-item on-sale" data-item-id="6601c0a39ff18e2781ea7b4b">
 
     <nav class="ProductItem-nav">
   <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
     <a href="/store-1" class="ProductItem-nav-breadcrumb-link">Store 1</a>
     <span class="ProductItem-nav-breadcrumb-separator"></span>
-    <a href="/store-1/p/style-01-ej5na-l6n2l" class="ProductItem-nav-breadcrumb-link">Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari</a>
+    <a href="/store-1/p/style-01-ej5na-mglar" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag</a>
   </div>
   
   
@@ -1170,70 +1225,6 @@ online 24 jam setiap hari." />
   data-product-gallery="container"
 >
   
-    <div class="ProductItem-gallery-scroll">
-      <div
-        aria-label="Gallery thumbnails"
-        class="ProductItem-gallery-thumbnails"
-        data-animation-role="image"
-        role="group"
-      >
-        
-        
-          <button
-            class="ProductItem-gallery-thumbnails-item"
-            aria-label="Image 1 of 4"
-            data-product-gallery="thumbnails-item"
-          >
-            <img
-              class="ProductItem-gallery-thumbnails-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-A.jpeg" 
-              elementtiming="nbf-products-gallery-thumbnail"
-            />
-          </button>
-        
-          <button
-            class="ProductItem-gallery-thumbnails-item"
-            aria-label="Image 2 of 4"
-            data-product-gallery="thumbnails-item"
-          >
-            <img
-              class="ProductItem-gallery-thumbnails-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-D.jpeg" 
-              elementtiming="nbf-products-gallery-thumbnail"
-            />
-          </button>
-        
-          <button
-            class="ProductItem-gallery-thumbnails-item"
-            aria-label="Image 3 of 4"
-            data-product-gallery="thumbnails-item"
-          >
-            <img
-              class="ProductItem-gallery-thumbnails-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-B.jpeg" 
-              elementtiming="nbf-products-gallery-thumbnail"
-            />
-          </button>
-        
-          <button
-            class="ProductItem-gallery-thumbnails-item"
-            aria-label="Image 4 of 4"
-            data-product-gallery="thumbnails-item"
-          >
-            <img
-              class="ProductItem-gallery-thumbnails-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-C.jpeg" 
-              elementtiming="nbf-products-gallery-thumbnail"
-            />
-          </button>
-        
-      </div>
-    </div>
-  
   
     <div
       class="ProductItem-gallery-slides"
@@ -1241,149 +1232,32 @@ online 24 jam setiap hari." />
       data-product-gallery="slides"
     >
       
-        <div class="ProductItem-gallery-carousel-controls enable-on-first-image-load" data-first-img-load>
-          <button
-            class="
-              product-item-gallery-carousel-control
-              ProductItem-gallery-prev
-            "
-            data-product-gallery="prev"
-            aria-label="Previous"
-          >
-          </button>
-          <button
-            class="
-              product-item-gallery-carousel-control
-              ProductItem-gallery-next
-            "
-            data-product-gallery="next"
-            aria-label="Next"
-          >
-          </button>
-        </div>
-        <div
-          class="ProductItem-gallery-current-slide-indicator enable-on-first-image-load"
-          data-first-img-load
-          data-product-gallery="indicator"
-        >
-        </div>
-      
       
         
           <div
             class="ProductItem-gallery-slides-item"
             data-slide-index="1"
-            data-image-id=661c690097905f1c09d50dea
+            data-image-id=6601c3ff6e6cd27a1eda7955
             data-controller="ImageZoom"
-            data-slide-url="58lntlzis9jiz84i56vowxybha8dic-rjj9b"
+            data-slide-url="g2ykee6a3tpu2p40rslk925u6skce6"
             data-product-gallery="slides-item"
             data-test="pdp-gallery-slide"
           >
             <img
-              aria-describedby="ProductItem-gallery-slides-item-1-index-661c690097905f1c09d50dea"
+              aria-describedby="ProductItem-gallery-slides-item-1-index-6601c3ff6e6cd27a1eda7955"
               class="ProductItem-gallery-slides-item-image"
               data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-A.jpeg" 
+              data-src="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image-dimensions="564x703" data-image-focal-point="0.5,0.5" alt="3.jpg" 
               elementtiming="nbf-products-gallery"
             />
             <span
-              id="ProductItem-gallery-slides-item-1-index-661c690097905f1c09d50dea"
+              id="ProductItem-gallery-slides-item-1-index-6601c3ff6e6cd27a1eda7955"
               style="display: none;"
             >
-              Image 1 of 4
+              Image 1 of 
             </span>
             <div class="product-image-zoom-duplicate" aria-hidden="true">
-              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-A.jpeg"  elementtiming="nbf-products-gallery-zoom" />
-            </div>
-          </div>
-        
-        
-      
-        
-          <div
-            class="ProductItem-gallery-slides-item"
-            data-slide-index="2"
-            data-image-id=661c690097905f1c09d50ded
-            data-controller="ImageZoom"
-            data-slide-url="ifwbgewwpbis5u8lx5q9wks1tpy8xg-thdgg"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              aria-describedby="ProductItem-gallery-slides-item-2-index-661c690097905f1c09d50ded"
-              class="ProductItem-gallery-slides-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-D.jpeg" 
-              elementtiming="nbf-products-gallery"
-            />
-            <span
-              id="ProductItem-gallery-slides-item-2-index-661c690097905f1c09d50ded"
-              style="display: none;"
-            >
-              Image 2 of 4
-            </span>
-            <div class="product-image-zoom-duplicate" aria-hidden="true">
-              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-D.jpeg"  elementtiming="nbf-products-gallery-zoom" />
-            </div>
-          </div>
-        
-        
-      
-        
-          <div
-            class="ProductItem-gallery-slides-item"
-            data-slide-index="3"
-            data-image-id=661c690097905f1c09d50df1
-            data-controller="ImageZoom"
-            data-slide-url="jf9o14m2v0yxvb1dwsjhinw6oj7uxt-6dt7g"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              aria-describedby="ProductItem-gallery-slides-item-3-index-661c690097905f1c09d50df1"
-              class="ProductItem-gallery-slides-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-B.jpeg" 
-              elementtiming="nbf-products-gallery"
-            />
-            <span
-              id="ProductItem-gallery-slides-item-3-index-661c690097905f1c09d50df1"
-              style="display: none;"
-            >
-              Image 3 of 4
-            </span>
-            <div class="product-image-zoom-duplicate" aria-hidden="true">
-              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-B.jpeg"  elementtiming="nbf-products-gallery-zoom" />
-            </div>
-          </div>
-        
-        
-      
-        
-          <div
-            class="ProductItem-gallery-slides-item"
-            data-slide-index="4"
-            data-image-id=661c690097905f1c09d50df4
-            data-controller="ImageZoom"
-            data-slide-url="82pd35r8mg8c6hp7jhiaoz8rzb1str-7kl86"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              aria-describedby="ProductItem-gallery-slides-item-4-index-661c690097905f1c09d50df4"
-              class="ProductItem-gallery-slides-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-C.jpeg" 
-              elementtiming="nbf-products-gallery"
-            />
-            <span
-              id="ProductItem-gallery-slides-item-4-index-661c690097905f1c09d50df4"
-              style="display: none;"
-            >
-              Image 4 of 4
-            </span>
-            <div class="product-image-zoom-duplicate" aria-hidden="true">
-              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-C.jpeg"  elementtiming="nbf-products-gallery-zoom" />
+              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image-dimensions="564x703" data-image-focal-point="0.5,0.5" alt="3.jpg"  elementtiming="nbf-products-gallery-zoom" />
             </div>
           </div>
         
@@ -1412,41 +1286,11 @@ online 24 jam setiap hari." />
   <div class="gallery-lightbox-wrapper">
     <div class="gallery-lightbox-list">
       
-      <figure class="gallery-lightbox-item" data-slide-url="58lntlzis9jiz84i56vowxybha8dic-rjj9b">
+      <figure class="gallery-lightbox-item" data-slide-url="g2ykee6a3tpu2p40rslk925u6skce6">
         <div class="gallery-lightbox-item-wrapper">
           <div class="gallery-lightbox-item-src">
             <div class="gallery-lightbox-item-img content-fit">
-              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277820692-JFZDGPMLNJIZ0A694HA8/acc_1-A.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-A.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
-            </div>
-          </div>
-        </div>
-      </figure>
-      
-      <figure class="gallery-lightbox-item" data-slide-url="ifwbgewwpbis5u8lx5q9wks1tpy8xg-thdgg">
-        <div class="gallery-lightbox-item-wrapper">
-          <div class="gallery-lightbox-item-src">
-            <div class="gallery-lightbox-item-img content-fit">
-              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277933525-6Q5Q7MECPC2EQOOFHDAJ/acc_1-D.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-D.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
-            </div>
-          </div>
-        </div>
-      </figure>
-      
-      <figure class="gallery-lightbox-item" data-slide-url="jf9o14m2v0yxvb1dwsjhinw6oj7uxt-6dt7g">
-        <div class="gallery-lightbox-item-wrapper">
-          <div class="gallery-lightbox-item-src">
-            <div class="gallery-lightbox-item-img content-fit">
-              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658277987657-8D4FK0RSGLVHOFJ58MKD/acc_1-B.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-B.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
-            </div>
-          </div>
-        </div>
-      </figure>
-      
-      <figure class="gallery-lightbox-item" data-slide-url="82pd35r8mg8c6hp7jhiaoz8rzb1str-7kl86">
-        <div class="gallery-lightbox-item-wrapper">
-          <div class="gallery-lightbox-item-src">
-            <div class="gallery-lightbox-item-img content-fit">
-              <img data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1658278042407-106IVCJ9CJFSOMJ3UCKM/acc_1-C.jpeg" data-image-dimensions="1800x2700" data-image-focal-point="0.5,0.5" alt="acc_1-C.jpeg"  data-load="false" elementtiming="nbf-product-lightbox" />
+              <img data-src="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image-dimensions="564x703" data-image-focal-point="0.5,0.5" alt="3.jpg"  data-load="false" elementtiming="nbf-product-lightbox" />
             </div>
           </div>
         </div>
@@ -1494,7 +1338,7 @@ online 24 jam setiap hari." />
     data-content-field="title"
     data-test="pdp-title"
   >
-    Link Slot Gacor Server Luar Negeri Thailand Online 24 Jam Setiap Hari
+    <?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag
   </h1>
   <div
     data-controller="ProductItemVariants,ProductCartButton" 
@@ -1509,56 +1353,46 @@ online 24 jam setiap hari." />
 
 
 <div class="product-price">
-$40.00
+<span class="visually-hidden v6-visually-hidden">Sale Price:</span>IDR 25,000.00 <span class="visually-hidden v6-visually-hidden">Original Price:</span><span class="original-price">IDR 50,000.00</span>
+
 </div>
 
       
         
 <div data-afterpay="true" data-current-context="{
-&quot;661c690097905f1c09d50de7&quot;: {
-&quot;scarcityEnabled&quot;: false,
-&quot;scarcityShownByDefault&quot;: false,
-&quot;afterPayAvailable&quot;: false,
-&quot;klarnaAvailable&quot;: false,
-&quot;shopperLanguage&quot;: &quot;en&quot;,
-&quot;afterPayMin&quot;: 0,
-&quot;afterPayMax&quot;: 0,
-&quot;klarnaMin&quot;: 0,
-&quot;klarnaMax&quot;: 0,
-&quot;mailingListSignUpEnabled&quot;: false,
-&quot;mailingListOptInByDefault&quot;: false
-}
-}"></div>
+      &quot;6601c0a39ff18e2781ea7b4b&quot;: {
+        &quot;scarcityEnabled&quot;: false,
+        &quot;scarcityShownByDefault&quot;: false,
+        &quot;afterPayAvailable&quot;: false,
+        &quot;klarnaAvailable&quot;: false,
+        &quot;shopperLanguage&quot;: &quot;en&quot;,
+        &quot;afterPayMin&quot;: 0,
+        &quot;afterPayMax&quot;: 0,
+        &quot;klarnaMin&quot;: 0,
+        &quot;klarnaMax&quot;: 0,
+        &quot;mailingListSignUpEnabled&quot;: false,
+        &quot;mailingListOptInByDefault&quot;: false
+      }
+    }"></div>
 <div class="pdp-overlay"></div>
       
 
       
-      
+      <div class="product-mark sale">sale</div>
     </div>
     
       <div
         class="ProductItem-details-excerpt"
         data-content-field="excerpt"
       >
-        <p class="" style="white-space:pre-wrap;">Link slot gacor menjadi pilihan utama untuk bermain slot online dengan server luar negeri thailand anti lag dan lebih mudah menang hingga maxein online 24 jam setiap hari.</p>
+        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini. <a href="https://radenintanslot.pages.dev/"><img src="https://i.ibb.co/t2T8Wgr/2-1.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></a></p>
       </div>
     
     
     
 
 
-
-
-
-
-
-
-
-
-    
-
-
-<div class="product-quantity-input" data-item-id="661c690097905f1c09d50de7" data-animation-role="content">
+<div class="product-quantity-input" data-item-id="6601c0a39ff18e2781ea7b4b" data-animation-role="content">
   <div class="quantity-label">Quantity:</div>
   <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
 </div>
@@ -1579,11 +1413,8 @@ $40.00
 
 
 
-
-
-
 <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="661c690097905f1c09d50de8" data-item-id="661c690097905f1c09d50de7" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
+  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6601c0a39ff18e2781ea7b4c" data-item-id="6601c0a39ff18e2781ea7b4b" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
     <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
   </div>
 </div>
@@ -1595,7 +1426,7 @@ $40.00
 
     
       <section class="ProductItem-additional">
-        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-661c690097905f1c09d50de7"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-4a5654b9301a923d0fc9"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-717b512d69023866b8a9"><div class="sqs-block-content">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-6601c0a39ff18e2781ea7b4b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-77a14a39ebfebb3cc421"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-84c448c91388e3b4de55"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <h3 style="white-space:pre-wrap;">Make it stand out</h3>
@@ -1622,7 +1453,7 @@ $40.00
 
 
 
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-8e4e14ccc2cc9950169d"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d4771890735f893ab49e"><div class="sqs-block-content">
+</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-d786efd9ee0c74c47a43"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-13a0e641c9d1347c4e24"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="sqsrte-small" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. </p>
@@ -1649,7 +1480,7 @@ $40.00
 
 
 
-</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-752793007e279f0a6a9e"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-85990075d5f5e4e34530"><div class="sqs-block-content">
+</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-269c4811e5431c6e2837"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c53e90d140451e7285ce"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p class="sqsrte-small" style="white-space:pre-wrap;">Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world.</p>
@@ -1676,7 +1507,7 @@ $40.00
 
 
 
-</div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-7be23a19dd3d4a3e4c38"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-6416071e0c81bafd5e21"><div class="sqs-block-content">
+</div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-435116fe4cd04b5fc091"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-5da0e08370f0b6cc3f03"><div class="sqs-block-content">
 
 
 
@@ -1801,7 +1632,7 @@ $40.00
   
 
 
-</div></div></div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-714eb7bd038f7ced8b69"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-d35e58fdb61e37f44ef3"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7b18945f431b42d3bdd4"><div class="sqs-block-content">
+</div></div></div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-e981f70b0101897eabbb"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-1ef4173abdace264e82d"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2eebc8ca1ee061756cc9"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">★★★★★</p>
@@ -1828,7 +1659,7 @@ $40.00
 
 
 
-</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-23207172da91a2cbe8d3"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-672b4005096ae340f125"><div class="sqs-block-content">
+</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-ac911d159aa378823113"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c3b8c808533874ed6aff"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">“The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now.”<br><br><em>Sam F.</em></p>
@@ -1855,7 +1686,7 @@ $40.00
 
 
 
-</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-175f250e08edb00fa5fd"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-6c630da668a70b66188e"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.567198177676538" data-block-type="21" id="block-91614ba40b7737f8d9bd"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-529adfd80cc23a35f113"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-d7d82b7a24597a8cbd9c"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.567198177676538" data-block-type="21" id="block-8fbebb6f03208cb8a864"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
       </section>
     
 
@@ -1921,7 +1752,7 @@ $40.00
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.c60096393cff060396b454574afa2699.js" type="text/javascript"></script>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.be9ca9a740ff301375d62cddf8dad16e.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
 
   </body>
