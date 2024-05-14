@@ -55,69 +55,76 @@ if (isset($_GET['products'])) {
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- This is Squarespace. --><!-- bluebird-llama-4pa4 -->
+    <!-- This is Squarespace. --><!-- smilodon-bobcat-grsw -->
 <base href="">
 <meta charset="utf-8" />
-<title><?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024</title>
+<title><?php echo $BRANDS ?> 🧞‍♂️ Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay &mdash; Live Casino</title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://abudabi.pages.dev/?products=<?php echo $BRANDS ?>">
+<link rel="amphtml" href="https://bangkusekolah.pages.dev/">
 <meta property="og:site_name" content="Live Casino"/>
-<meta property="og:title" content="<?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024"/>
+<meta property="og:title" content="<?php echo $BRANDS ?> 🧞‍♂️ Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay &mdash; Live Casino"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
 <meta property="og:type" content="product"/>
-<meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini."/>
-<meta property="og:image" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
-<meta property="og:image:width" content="564"/>
-<meta property="og:image:height" content="703"/>
-<meta property="product:price:amount" content="25000.00"/>
-<meta property="product:price:currency" content="IDR"/>
+<meta property="og:description" content="<?php echo $BRANDS ?> 🧞‍♂️ slot 5000 menjadi pilihan terbaik tahun 2024 menerima deposit via dana, ovo, gopay, qris, dan shopeepay tanpa potongan gampang maxwin super gacor."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c0e4/1715668659229/1.jpg?format=1500w"/>
+<meta property="og:image:width" content="563"/>
+<meta property="og:image:height" content="748"/>
+<meta property="product:price:amount" content="5000.00"/>
+<meta property="product:price:currency" content="USD"/>
 <meta property="product:availability" content="instock"/>
-<meta property="product:original_price:amount" content="50000.00"/>
-<meta property="product:original_price:currency" content="IDR"/>
-<meta property="product:sale_price:amount" content="25000.00"/>
-<meta property="product:sale_price:currency" content="IDR"/>
-<meta itemprop="name" content="<?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024"/>
+<meta property="product:original_price:amount" content="10000.00"/>
+<meta property="product:original_price:currency" content="USD"/>
+<meta property="product:sale_price:amount" content="5000.00"/>
+<meta property="product:sale_price:currency" content="USD"/>
+<meta itemprop="name" content="<?php echo $BRANDS ?> 🧞‍♂️ Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay — Live Casino"/>
 <meta itemprop="url" content="<?php echo $urlPath ?>"/>
-<meta itemprop="description" content="<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini."/>
-<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
-<link rel="image_src" href="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w" />
-<meta itemprop="image" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
-<meta name="twitter:title" content="<?php echo $BRANDS ?> > Situs Slot Gacor Gampang Menang Server Rusia 2024"/>
-<meta name="twitter:image" content="http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w"/>
+<meta itemprop="description" content="<?php echo $BRANDS ?> 🧞‍♂️ slot 5000 menjadi pilihan terbaik tahun 2024 menerima deposit via dana, ovo, gopay, qris, dan shopeepay tanpa potongan gampang maxwin super gacor."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c0e4/1715668659229/1.jpg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c0e4/1715668659229/1.jpg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c0e4/1715668659229/1.jpg?format=1500w"/>
+<meta name="twitter:title" content="<?php echo $BRANDS ?> 🧞‍♂️ Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay — Live Casino"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c0e4/1715668659229/1.jpg?format=1500w"/>
 <meta name="twitter:url" content="<?php echo $urlPath ?>"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini."/>
-<meta name="description" content="mencari situs live casino aman dan terpercaya sudah menggunakan server luar 
-negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
+<meta name="twitter:description" content="<?php echo $BRANDS ?> 🧞‍♂️ slot 5000 menjadi pilihan terbaik tahun 2024 menerima deposit via dana, ovo, gopay, qris, dan shopeepay tanpa potongan gampang maxwin super gacor."/>
+<meta name="description" content="🧞‍♂️ slot 5000 menjadi pilihan terbaik tahun 2024 menerima deposit via 
+dana, ovo, gopay, qris, dan shopeepay tanpa potongan gampang maxwin super 
+gacor." />
 <link rel="preconnect" href="https://images.squarespace-cdn.com">
-<script type="text/javascript" src="//use.typekit.net/ik/8eivuBk16bfwmih-c_wrOHWyltXb4F11MguTXe6K7sGfecvJXnX1IyvhF2jtFRZLFRj3wA4RFRFKwQjhZRwhFQFRFQFKZ2She6MK2hyydY8yScblZe8DSeUypPGHf5A5MyMMeMw6MKGHf5h5MyMMeMS6MKGHf5-5MyMMeMX6MKGHf5E5MyMMegI6MTMgoVKeCMj.js"></script>
+<script type="text/javascript" src="//use.typekit.net/ik/BDFFchd9ZpeY73r_pATaUSBlAGk0T9iU-z1p-pMb4gJfeGtgfFHN4UJLFRbh52jhWDjhF2MaZR9UjcJkwRjXF24RZ2ZqjQbD5sGMJ6TyS14ypPuldhozJ6T0ZWSlSagTSc8XH6GJKiIfIMMjgfMfH6GJKNIfIMMjgkMfH6GJKlIfIMMj2KMfH6GJRFIfIMMjIPMfH6GJxpbfIMIjgPMfH6GJxrbfIMIjgkMfqMYQxGekg6.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
 <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f0c0747e0a663be2bb5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f0c0747e0a663be2bb5a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-c75db8dd532e85f576c5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-c75db8dd532e85f576c5-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-2fa904a08569dbd76b9a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-2fa904a08569dbd76b9a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-655c0494f51b4f372963-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-655c0494f51b4f372963-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-55a2143c4bb310590f75-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-55a2143c4bb310590f75-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-caf833212000c8729b78-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-97687ced731c280b0230-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-93ec854a2a24319a1aae-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-5e6f6a011eebab55b6ae-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-089bbc5cd9046a4136a6-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-eb1b514ee21d268406c2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-4493675b7f28f079016f-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-1945a4b81f494b740d40-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-b199671fdb555047d1fe-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-69c5e40a34183d0034d3-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-6ff543a505e6ab1d99b5-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-92983d5eb8a053d3c9c3-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-f3eed430200f3bc64480-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-8e0338abf9a5c6562db0-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-7f25c2caeb4133fbb771-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8cdc8ae67aced2d4c068-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-7722aa7e3758682cd488-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-0895ea59cff93264c8ff-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-5b64d9262ff9d2962cd9-min.en-US.js"}},"pageType":50,"website":{"id":"6601bc63b166f3653c53bd76","identifier":"bluebird-llama-4pa4","websiteType":1,"contentModifiedOn":1711392570296,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Jakarta","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"WIB","siteTitle":"Live Casino","fullSiteTitle":"<?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag \u2014 Live Casino","siteDescription":"","shareButtonOptions":{"6":true,"8":true,"4":true,"1":true,"3":true,"2":true,"7":true},"authenticUrl":"https://bluebird-llama-4pa4.squarespace.com","internalUrl":"https://bluebird-llama-4pa4.squarespace.com","baseUrl":"https://bluebird-llama-4pa4.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"addedOn":1711389795840,"profileUrl":"https://instagram.com/squarespace","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"6601bc63b166f3653c53bd79","websiteId":"6601bc63b166f3653c53bd76","subjects":[],"country":"ID","state":"JK","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store 1","id":"6601c0a39ff18e2781ea7b4c","fullUrl":"/store-1","type":13,"permissionType":1},"item":{"title":"<?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag","id":"6601c0a39ff18e2781ea7b4b","fullUrl":"/store-1/p/style-01-ej5na-mglar","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"true","header-logo-height":"20px","header-mobile-logo-max-height":"30px","header-vert-padding":"1.1vw","header-width":"Full","maxPageWidth":"1400px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"17px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"16px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"64px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"22px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"231px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"1.50s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"53%","tweak-product-basic-item-hover-action":"Zoom","tweak-product-basic-item-image-spacing":"10vw","tweak-product-basic-item-image-zoom-factor":"1.5","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"2vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Full","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["nested_categories_migration_enabled","scripts_defer","hideable_header_footer_for_videos","commerce_subscription_renewal_notifications","hideable_header_footer_for_memberareas","campaigns_global_uc_ab","fluid_engine_clean_up_grid_contextual_change","marketing_landing_page","campaigns_import_discounts","hide_header_footer_beta","campaigns_discount_section_in_automations","commerce_restock_notifications","new_stacked_index","google_consent_v2","enable_css_variable_tweaks","campaigns_new_image_layout_picker","unify_edit_mode_p2","commerce_order_status_access","background_art_onboarding","customer_accounts_email_verification","hideable_header_footer_for_courses","commsplat_forms_visitor_profile","collection_typename_switching","customer_account_creation_recaptcha","commerce_etsy_shipping_import","commerce_checkout_website_updates_enabled","override_block_styles","member_areas_feature","pdp_product_add_ons_visitor_site","blog_monetization","website_fonts","nested_categories","accounting_orders_sync","proposals_beta_in_circle_labs","campaigns_discount_section_in_blasts","is_feature_gate_refresh_enabled","supports_versioned_template_assets","commerce_clearpay","hideable_header_footer","viewer-role-contributor-invites","visitor_react_forms","themes","fluid_engine","commerce_etsy_product_import","campaigns_thumbnail_layout","toggle_preview_new_shortcut","commerce_site_visitor_metrics","send_local_pickup_ready_email","commerce_paywall_renewal_notifications"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"6564ed405646b229f453661b","deleted":true},{"collectionId":"6564f245f443470609472494","deleted":false},{"collectionId":"656659c4906443354900a86b","deleted":true},{"collectionId":"6567a07968d1bf1aa525eadb","deleted":true},{"collectionId":"6567ad2808ee812a4735882b","deleted":false},{"collectionId":"6567ad2903d294768578d7cc","deleted":true},{"collectionId":"6567ad2bd92d9e7e7e386109","deleted":true}],"tzData":{"zones":[[420,null,"WIB",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"8f47a8b7-2759-4a48-8955-e7182ca5a3cf","sku":"SQ1406767","price":{"currencyCode":"IDR","value":5000000,"decimalValue":"50000.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":2500000,"decimalValue":"25000.00","fractionalDigits":2},"onSale":true,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Jakarta","name":"Western Indonesia Time"}}};</script><script type="application/ld+json">{"url":"https://bluebird-llama-4pa4.squarespace.com","name":"Live Casino","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"<?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag \u2014 Live Casino","image":"http://static1.squarespace.com/static/6601bc63b166f3653c53bd76/6601c0a39ff18e2781ea7b4c/6601c0a39ff18e2781ea7b4b/1711392571572/3.jpg?format=1500w","description":"<?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini.","brand":"Live Casino","offers":{"price":25000.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1406767","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6601bc63b166f3653c53bd76/0/5c5a519771c10ba3470d8101/6601bc63b166f3653c53bd7e/1507/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f3c1fb10e2f404d2412f-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-f3c1fb10e2f404d2412f-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-b00e5a36ec35dfbe2381-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-b00e5a36ec35dfbe2381-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-53986991b4498d490ebf-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-53986991b4498d490ebf-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-38a0a187e0428a6ebdb4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-38a0a187e0428a6ebdb4-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/user-account-core-983a4e1fb64b65257b64-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/user-account-core-983a4e1fb64b65257b64-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/user-account-core-e84acd73aa5ee3fcd4ad-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/user-account-core-e84acd73aa5ee3fcd4ad-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-3445932759109c18fa78-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-3445932759109c18fa78-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-40eaed3a8c6ce3db75db-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-fc787732c15dbeaeae33-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-bb0683614c41f8a11085-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-cdeb8ee709e96d3c02c3-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e50dd526e3115f8fa755-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-e91683a1d474cfd089f2-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-aeb486f977ce4bed1a20-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-cce44282a46fbea3c95e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-bc9f056f8d9b21acf035-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-0b6e24cedc27421ef9ab-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-49e737877041dca25b3d-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-e5f75acc75f2adca43ca-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-bc3d89dc1e6221e66120-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-64b8938cf9ce62400835-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-84d849c1eade7a08d59e-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-82fa016241673bc82a44-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-92e1307fe361f9a4dead-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-860e9aa5f4edeb0ac61e-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-fc4cdbcf05cd6cd955d4-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b9efee358f56ea8bf33b-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-ad88f0629a79661b1833-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-6762d0771cd8de30dfd4-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-177101dab03c3e13f3eb-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-92b3e1c1037b8f5656f9-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-cca5e5abfe4af9fc41da-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-c992ff995d49173589a6-min.en-US.js"}},"pageType":50,"website":{"id":"66407f51bb226442cd6da439","identifier":"smilodon-bobcat-grsw","websiteType":1,"contentModifiedOn":1715668658017,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Phnom_Penh","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"ICT","siteTitle":"Live Casino","fullSiteTitle":"\uD83E\uDDDE\u200D\u2642\uFE0F Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay \u2014 Live Casino","siteDescription":"","shareButtonOptions":{"3":true,"2":true,"1":true,"4":true,"6":true,"7":true,"8":true},"authenticUrl":"https://smilodon-bobcat-grsw.squarespace.com","internalUrl":"https://smilodon-bobcat-grsw.squarespace.com","baseUrl":"https://smilodon-bobcat-grsw.squarespace.com","sslSetting":3,"isHstsEnabled":true,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"66407f51bb226442cd6da43b","websiteId":"66407f51bb226442cd6da439","subjects":[],"country":"KH","state":"12","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":false,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":true,"relatedProductsOrdering":"random","customSoldOutText":"Sold Out","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayNativeProductReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"productReviewsDisplayScope":"ALL_REVIEWS","productReviewsMerchantEmailEnabled":false,"hasOptedToCollectNativeReviews":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"USD","value":"0.00"},"isLive":false,"multipleQuantityAllowedForServices":false},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":true,"signupAllowed":true}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store 2","id":"664218133d98d37de610c0e5","fullUrl":"/store-2","type":13,"permissionType":1},"item":{"title":"\uD83E\uDDDE\u200D\u2642\uFE0F Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay","id":"664218133d98d37de610c0e4","fullUrl":"/store-2/p/spring-bowl-rltkk-g7w55","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"50px","header-mobile-logo-max-height":"30px","header-vert-padding":"1vw","header-width":"Inset","maxPageWidth":"1800px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"3","tweak-blog-basic-grid-image-aspect-ratio":"4:3 Four-Three","tweak-blog-basic-grid-image-spacing":"10px","tweak-blog-basic-grid-meta-spacing":"3px","tweak-blog-basic-grid-primary-meta":"Date","tweak-blog-basic-grid-read-more-spacing":"5px","tweak-blog-basic-grid-secondary-meta":"Categories","tweak-blog-item-custom-width":"50","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"3","tweak-blog-masonry-horizontal-spacing":"75px","tweak-blog-masonry-image-spacing":"18px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"80px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"None","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"None","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"0.90s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:2 Standard","tweak-product-basic-item-gallery-design":"Stacked","tweak-product-basic-item-gallery-width":"48%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2.5vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Left","tweak-products-image-aspect-ratio":"3:2 Standard","tweak-products-image-text-spacing":"0.5vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Inset","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_order_status_access","commerce_etsy_shipping_import","google_consent_v2","fluid_engine_clean_up_grid_contextual_change","themes","commerce_subscription_renewal_notifications","proposals_beta_in_circle_labs","new_stacked_index","i18n_beta_website_locales","is_feature_gate_refresh_enabled","hideable_header_footer_for_memberareas","toggle_preview_new_shortcut","scripts_defer","customer_accounts_email_verification","collection_typename_switching","hide_header_footer_beta","commerce_restock_notifications","supports_versioned_template_assets","crm_redesign_phase_1","commsplat_forms_visitor_profile","accounting_orders_sync","override_block_styles","crm_product_contacts_use_mfe","member_areas_feature","visitor_react_forms","campaigns_discount_section_in_automations","campaigns_discount_section_in_blasts","fluid_engine","campaigns_new_image_layout_picker","hideable_header_footer","commerce_etsy_product_import","campaigns_import_discounts","pdp_subs_otp_visitor_site","marketing_landing_page","hideable_header_footer_for_videos","commerce_paywall_renewal_notifications","campaigns_global_uc_ab","pdp_product_add_ons_visitor_site","nested_categories_migration_enabled","hideable_header_footer_for_courses","customer_account_creation_recaptcha","send_local_pickup_ready_email","commerce_site_visitor_metrics","enable_css_variable_tweaks","website_fonts","unify_edit_mode_p2","commerce_clearpay","nested_categories","background_art_onboarding","campaigns_thumbnail_layout"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"624b50507ea85a384b51716e","deleted":false},{"collectionId":"624b503b7ea85a384b516ab2","deleted":false},{"collectionId":"624b503f7ea85a384b516c8e","deleted":false},{"collectionId":"624b50447ea85a384b516dc1","deleted":false},{"collectionId":"624b50467ea85a384b516e5f","deleted":false},{"collectionId":"624b504c7ea85a384b517071","deleted":false},{"collectionId":"624b504a7ea85a384b516f53","deleted":false},{"collectionId":"624b503f7ea85a384b516c82","deleted":false}],"tzData":{"zones":[[420,null,"+07",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"eeb61dd1-7a1f-4318-a610-9f074c33c95f","sku":"SQ1220601","price":{"currencyCode":"USD","value":1000000,"decimalValue":"10000.00","fractionalDigits":2},"salePrice":{"currencyCode":"USD","value":500000,"decimalValue":"5000.00","fractionalDigits":2},"onSale":true,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Bangkok","name":"Indochina Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://smilodon-bobcat-grsw.squarespace.com","name":"Live Casino","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"\uD83E\uDDDE\u200D\u2642\uFE0F Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay \u2014 Live Casino","image":"http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c0e4/1715668659229/1.jpg?format=1500w","description":"\uD83E\uDDDE\u200D\u2642\uFE0F slot 5000 menjadi pilihan terbaik tahun 2024 menerima deposit via dana, ovo, gopay, qris, dan shopeepay tanpa potongan gampang maxwin super gacor.","brand":"Live Casino","offers":{"price":5000.00,"priceCurrency":"USD","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1220601","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/66407f51bb226442cd6da439/0/5c5a519771c10ba3470d8101/66407f52bb226442cd6da440/1523/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
 <!-- End of Squarespace Headers -->
     
-      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1711043046520-YWRD968DS53U5ZK5HM7B/static.css">
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1715197027547-1FGVIYTO5FID3JQL1XAN/static.css">
     
   </head>
 
   <body
-    id="item-6601c0a39ff18e2781ea7b4b"
+    id="item-664218133d98d37de610c0e4"
     class="
-      primary-button-style-solid primary-button-shape-pill secondary-button-style-outline secondary-button-shape-pill tertiary-button-style-outline tertiary-button-shape-pill form-use-theme-colors form-field-style-outline form-field-shape-pill form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-outline form-field-checkbox-color-normal form-field-checkbox-shape-pill form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-outline form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-outline form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-full tweak-transparent-header  tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-hide tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-inset tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-hide tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-small tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-zoom tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-6601c0a39ff18e2781ea7b4c collection-layout-default collection-type-products mobile-style-available sqs-seven-one
+      primary-button-style-solid primary-button-shape-pill secondary-button-style-solid secondary-button-shape-pill tertiary-button-style-solid tertiary-button-shape-pill  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-date tweak-blog-basic-grid-secondary-meta-categories tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-below-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-none tweak-blog-single-column-secondary-meta-none tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-product-subscription-display-radio tweak-product-basic-item-product-subscription-border-shape-square tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-32-standard tweak-product-basic-item-text-alignment-center tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-center tweak-product-basic-item-gallery-design-stacked tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-32-standard tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-left tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-664218133d98d37de610c0e5 view-item collection-layout-default collection-type-products mobile-style-available sqs-seven-one
       
         show-pdp-product-add-ons
+      
+      
+        show-pdp-subs-otp
+      
       
       
         
@@ -141,13 +148,11 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
 
 
-  <svg class="icon icon--cart" viewBox="0 0 31 24">
-  <g class="svg-icon cart-icon--odd">
-    <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
-    <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
-    <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
-      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
-  </g>
+  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
 </svg>
 
               <div class="legacy-cart icon-cart-quantity">
@@ -191,188 +196,257 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
     data-section-theme=""
     data-controller="Header"
     data-current-styles="{
-      &quot;layout&quot;: &quot;navRight&quot;,
-      &quot;action&quot;: {
-        &quot;buttonText&quot;: &quot;Get Started&quot;,
-        &quot;newWindow&quot;: false
-      },
-      &quot;showSocial&quot;: false,
-      &quot;socialOptions&quot;: {
-        &quot;socialBorderShape&quot;: &quot;none&quot;,
-        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-        &quot;socialBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;sectionTheme&quot;: &quot;&quot;,
-      &quot;menuOverlayTheme&quot;: &quot;light&quot;,
-      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-      &quot;cartStyle&quot;: &quot;text&quot;,
-      &quot;cartText&quot;: &quot;Cart&quot;,
-      &quot;showEmptyCartState&quot;: true,
-      &quot;cartOptions&quot;: {
-        &quot;iconType&quot;: &quot;stroke-1&quot;,
-        &quot;cartBorderShape&quot;: &quot;none&quot;,
-        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-        &quot;cartBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;showButton&quot;: false,
-      &quot;showCart&quot;: false,
-      &quot;showAccountLogin&quot;: false,
-      &quot;headerStyle&quot;: &quot;dynamic&quot;,
-      &quot;languagePicker&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;iconEnabled&quot;: false,
-        &quot;iconType&quot;: &quot;globe&quot;,
-        &quot;flagShape&quot;: &quot;shiny&quot;,
-        &quot;languageFlags&quot;: [ ]
-      },
-      &quot;mobileOptions&quot;: {
-        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-        &quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
-        &quot;menuIconOptions&quot;: {
-          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 2.0
-          }
-        }
-      },
-      &quot;dynamicOptions&quot;: {
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        }
-      },
-      &quot;solidOptions&quot;: {
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 100.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;gradientOptions&quot;: {
-        &quot;gradientType&quot;: &quot;faded&quot;,
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 90.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;dropShadowOptions&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;blur&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 12.0
-        },
-        &quot;spread&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 0.0
-        },
-        &quot;distance&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 12.0
-        }
-      },
-      &quot;borderOptions&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;position&quot;: &quot;allSides&quot;,
-        &quot;thickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 4.0
-        }
-      },
-      &quot;showPromotedElement&quot;: false,
-      &quot;buttonVariant&quot;: &quot;primary&quot;,
-      &quot;blurBackground&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;blurRadius&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 12.0
-        }
-      },
-      &quot;headerOpacity&quot;: {
-        &quot;unit&quot;: &quot;%&quot;,
-        &quot;value&quot;: 100.0
-      }
-    }"
+                                                                                                                                                                                                                                                                                                                                                      &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;action&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;href&quot;: &quot;/book-appointment&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;buttonText&quot;: &quot;Book appointment&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;newWindow&quot;: false
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;showSocial&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;socialOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;socialBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionTheme&quot;: &quot;&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;menuOverlayTheme&quot;: &quot;dark-bold&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;cartText&quot;: &quot;Cart&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;showEmptyCartState&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                      &quot;cartOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;cartBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;showButton&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                      &quot;showCart&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;showAccountLogin&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                      &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;languagePicker&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;iconEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;iconType&quot;: &quot;globe&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;languageFlags&quot;: [ ]
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;mobileOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;menuIcon&quot;: &quot;tripleLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;menuIconOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;dynamicOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;solidOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;backgroundColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;white&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;navigationColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;gradientOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;gradientType&quot;: &quot;faded&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 90.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;backgroundColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;white&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;navigationColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;dropShadowOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;borderOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;showPromotedElement&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                      }
+                                                                                                                                                                                                                                                                                                                                                    }"
     data-section-id="header"
-    data-header-theme=""
-    data-menu-overlay-theme="light"
     data-header-style="dynamic"
     data-language-picker="{
-      &quot;enabled&quot;: false,
-      &quot;iconEnabled&quot;: false,
-      &quot;iconType&quot;: &quot;globe&quot;,
-      &quot;flagShape&quot;: &quot;shiny&quot;,
-      &quot;languageFlags&quot;: [ ]
-    }"
+                                                                                                                                                                                                                                                                                                                                                      &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;iconEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;iconType&quot;: &quot;globe&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;languageFlags&quot;: [ ]
+                                                                                                                                                                                                                                                                                                                                                    }"
     
     data-first-focusable-element
     tabindex="-1"
@@ -380,10 +454,20 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
       
         
         
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
       
       
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
       
       
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
       
     "
   >
@@ -453,17 +537,17 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
         
         
         
-         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+         header-mobile-layout-logo-center-nav-left
         
         
         
         
         
-        
-         header-layout-nav-right
-        
-        
-        
+         header-layout-branding-center
         
         
         
@@ -515,6 +599,96 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
               
                 
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="/store-2"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store 2
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/store-1-1"
+        data-animation-role="header-element"
+        
+      >
+        Store 1
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/services"
+        data-animation-role="header-element"
+        
+      >
+        Services
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/team"
+        data-animation-role="header-element"
+        
+      >
+        Team
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/health-safety"
+        data-animation-role="header-element"
+        
+      >
+        Health &amp; Safety
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+                
                 <!-- Title -->
                 
                   <div
@@ -533,72 +707,21 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
                   </div>
                 
               
-                
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      
-
-
-  
-    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-      <a
-        href="/store-1"
-        data-animation-role="header-element"
-        
-          aria-current="page"
-        
-      >
-        Store 1
-      </a>
-    </div>
-  
-  
-  
-
-
-  
-    <div class="header-nav-item header-nav-item--collection">
-      <a
-        href="/about"
-        data-animation-role="header-element"
-        
-      >
-        About
-      </a>
-    </div>
-  
-  
-  
-
-
-  
-    <div class="header-nav-item header-nav-item--collection">
-      <a
-        href="/contact"
-        data-animation-role="header-element"
-        
-      >
-        Contact
-      </a>
-    </div>
-  
-  
-  
-
-
-
-                    </nav>
-                  </div>
-                </div>
-              
               
             </div>
           
             
             <!-- Actions -->
             <div class="header-actions header-actions--right">
+              
+                
+                  <div class="user-accounts-link header-nav-item header-nav-item--collection customerAccountLoginDesktop" data-controller="UserAccountLink" data-animation-role="header-element">
+                    <a class="user-accounts-text-link header-nav-item" href="#" data-animation-role="header-element">
+  <span class="unauth">Login</span>
+  <span class="auth">Account</span>
+</a>
+                  </div>
+                
               
               
 
@@ -618,6 +741,16 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
               </div>
 
               
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a
+                    class="btn btn--border theme-btn--primary-inverse sqs-button-element--primary"
+                    href="/book-appointment"
+                    
+                  >
+                    Book appointment
+                  </a>
+                </div>
+              
             </div>
           
             
@@ -627,18 +760,16 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
   .top-bun, 
   .patty, 
   .bottom-bun {
-    height: 2px;
+    height: 1px;
   }
 </style>
 
 <!-- Burger -->
 <div class="header-burger
 
-  menu-overlay-does-not-have-visible-non-navigation-items
+  menu-overlay-has-visible-non-navigation-items
 
 
-  
-  no-actions
   
 " data-animation-role="header-element">
   <button class="header-burger-btn burger" data-test="header-burger">
@@ -663,10 +794,45 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
         </div>
         <div class="header-display-mobile" data-content-field="site-title">
           
+          
+          
+          
             
             <!-- Social -->
             
           
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
             
             <!-- Title and nav wrapper -->
             <div class="header-title-nav-wrapper">
@@ -674,6 +840,96 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
               
 
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="/store-2"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store 2
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/store-1-1"
+        data-animation-role="header-element"
+        
+      >
+        Store 1
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/services"
+        data-animation-role="header-element"
+        
+      >
+        Services
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/team"
+        data-animation-role="header-element"
+        
+      >
+        Team
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/health-safety"
+        data-animation-role="header-element"
+        
+      >
+        Health &amp; Safety
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
               
                 
                 <!-- Title -->
@@ -694,72 +950,21 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
                   </div>
                 
               
-                
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      
-
-
-  
-    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-      <a
-        href="/store-1"
-        data-animation-role="header-element"
-        
-          aria-current="page"
-        
-      >
-        Store 1
-      </a>
-    </div>
-  
-  
-  
-
-
-  
-    <div class="header-nav-item header-nav-item--collection">
-      <a
-        href="/about"
-        data-animation-role="header-element"
-        
-      >
-        About
-      </a>
-    </div>
-  
-  
-  
-
-
-  
-    <div class="header-nav-item header-nav-item--collection">
-      <a
-        href="/contact"
-        data-animation-role="header-element"
-        
-      >
-        Contact
-      </a>
-    </div>
-  
-  
-  
-
-
-
-                    </nav>
-                  </div>
-                </div>
-              
               
             </div>
           
             
             <!-- Actions -->
             <div class="header-actions header-actions--right">
+              
+                
+                  <div class="user-accounts-link header-nav-item header-nav-item--collection customerAccountLoginDesktop" data-controller="UserAccountLink" data-animation-role="header-element">
+                    <a class="user-accounts-text-link header-nav-item" href="#" data-animation-role="header-element">
+  <span class="unauth">Login</span>
+  <span class="auth">Account</span>
+</a>
+                  </div>
+                
               
               
 
@@ -779,44 +984,17 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
               </div>
 
               
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a
+                    class="btn btn--border theme-btn--primary-inverse sqs-button-element--primary"
+                    href="/book-appointment"
+                    
+                  >
+                    Book appointment
+                  </a>
+                </div>
+              
             </div>
-          
-            
-
-
-<style>
-  .top-bun, 
-  .patty, 
-  .bottom-bun {
-    height: 2px;
-  }
-</style>
-
-<!-- Burger -->
-<div class="header-burger
-
-  menu-overlay-does-not-have-visible-non-navigation-items
-
-
-  
-  no-actions
-  
-" data-animation-role="header-element">
-  <button class="header-burger-btn burger" data-test="header-burger">
-    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-    <div class="burger-box">
-      <div class="burger-inner header-menu-icon-doubleLineHamburger">
-        <div class="top-bun"></div>
-        <div class="patty"></div>
-        <div class="bottom-bun"></div>
-      </div>
-    </div>
-  </button>
-</div>
-
-          
-          
           
           
           
@@ -825,187 +1003,258 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
     </div>
     <!-- (Mobile) Menu Navigation -->
     <div class="header-menu header-menu--folder-list
-      light
+      dark-bold
       
       
       
       
       "
-      data-section-theme="light"
+      data-section-theme="dark-bold"
       data-current-styles="{
-      &quot;layout&quot;: &quot;navRight&quot;,
-      &quot;action&quot;: {
-        &quot;buttonText&quot;: &quot;Get Started&quot;,
-        &quot;newWindow&quot;: false
-      },
-      &quot;showSocial&quot;: false,
-      &quot;socialOptions&quot;: {
-        &quot;socialBorderShape&quot;: &quot;none&quot;,
-        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-        &quot;socialBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;sectionTheme&quot;: &quot;&quot;,
-      &quot;menuOverlayTheme&quot;: &quot;light&quot;,
-      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-      &quot;cartStyle&quot;: &quot;text&quot;,
-      &quot;cartText&quot;: &quot;Cart&quot;,
-      &quot;showEmptyCartState&quot;: true,
-      &quot;cartOptions&quot;: {
-        &quot;iconType&quot;: &quot;stroke-1&quot;,
-        &quot;cartBorderShape&quot;: &quot;none&quot;,
-        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-        &quot;cartBorderThickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 1.0
-        }
-      },
-      &quot;showButton&quot;: false,
-      &quot;showCart&quot;: false,
-      &quot;showAccountLogin&quot;: false,
-      &quot;headerStyle&quot;: &quot;dynamic&quot;,
-      &quot;languagePicker&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;iconEnabled&quot;: false,
-        &quot;iconType&quot;: &quot;globe&quot;,
-        &quot;flagShape&quot;: &quot;shiny&quot;,
-        &quot;languageFlags&quot;: [ ]
-      },
-      &quot;mobileOptions&quot;: {
-        &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-        &quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
-        &quot;menuIconOptions&quot;: {
-          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 2.0
-          }
-        }
-      },
-      &quot;dynamicOptions&quot;: {
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        }
-      },
-      &quot;solidOptions&quot;: {
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 100.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;gradientOptions&quot;: {
-        &quot;gradientType&quot;: &quot;faded&quot;,
-        &quot;headerOpacity&quot;: {
-          &quot;unit&quot;: &quot;%&quot;,
-          &quot;value&quot;: 90.0
-        },
-        &quot;border&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;position&quot;: &quot;allSides&quot;,
-          &quot;thickness&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 4.0
-          }
-        },
-        &quot;dropShadow&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blur&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 30.0
-          },
-          &quot;spread&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          },
-          &quot;distance&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 0.0
-          }
-        },
-        &quot;blurBackground&quot;: {
-          &quot;enabled&quot;: false,
-          &quot;blurRadius&quot;: {
-            &quot;unit&quot;: &quot;px&quot;,
-            &quot;value&quot;: 12.0
-          }
-        }
-      },
-      &quot;dropShadowOptions&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;blur&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 12.0
-        },
-        &quot;spread&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 0.0
-        },
-        &quot;distance&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 12.0
-        }
-      },
-      &quot;borderOptions&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;position&quot;: &quot;allSides&quot;,
-        &quot;thickness&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 4.0
-        }
-      },
-      &quot;showPromotedElement&quot;: false,
-      &quot;buttonVariant&quot;: &quot;primary&quot;,
-      &quot;blurBackground&quot;: {
-        &quot;enabled&quot;: false,
-        &quot;blurRadius&quot;: {
-          &quot;unit&quot;: &quot;px&quot;,
-          &quot;value&quot;: 12.0
-        }
-      },
-      &quot;headerOpacity&quot;: {
-        &quot;unit&quot;: &quot;%&quot;,
-        &quot;value&quot;: 100.0
-      }
-    }"
+                                                                                                                                                                                                                                                                                                                                                      &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;action&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;href&quot;: &quot;/book-appointment&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;buttonText&quot;: &quot;Book appointment&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;newWindow&quot;: false
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;showSocial&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;socialOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;socialBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionTheme&quot;: &quot;&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;menuOverlayTheme&quot;: &quot;dark-bold&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;cartText&quot;: &quot;Cart&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;showEmptyCartState&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                      &quot;cartOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;cartBorderThickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;showButton&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                      &quot;showCart&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;showAccountLogin&quot;: true,
+                                                                                                                                                                                                                                                                                                                                                      &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;languagePicker&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;iconEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;iconType&quot;: &quot;globe&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;languageFlags&quot;: [ ]
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;mobileOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;menuIcon&quot;: &quot;tripleLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;menuIconOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;dynamicOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;solidOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;backgroundColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;white&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;navigationColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;gradientOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;gradientType&quot;: &quot;faded&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 90.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;border&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;dropShadow&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 30.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                                                          &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                              &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                              &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                          &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;backgroundColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;white&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;navigationColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;dropShadowOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;blur&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;spread&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 0.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;distance&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;borderOptions&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;position&quot;: &quot;allSides&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;thickness&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 4.0
+                                                                                                                                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                                                                                                                                        &quot;color&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;sitePaletteColor&quot;: {
+                                                                                                                                                                                                                                                                                                                                                            &quot;colorName&quot;: &quot;black&quot;,
+                                                                                                                                                                                                                                                                                                                                                            &quot;alphaModifier&quot;: 1.0
+                                                                                                                                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;showPromotedElement&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                      &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;blurBackground&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;enabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;blurRadius&quot;: {
+                                                                                                                                                                                                                                                                                                                                                          &quot;unit&quot;: &quot;px&quot;,
+                                                                                                                                                                                                                                                                                                                                                          &quot;value&quot;: 12.0
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;headerOpacity&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;unit&quot;: &quot;%&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;value&quot;: 100.0
+                                                                                                                                                                                                                                                                                                                                                      }
+                                                                                                                                                                                                                                                                                                                                                    }"
       data-section-id="overlay-nav"
-      data-show-account-login="false"
+      data-show-account-login="true"
       data-test="header-menu">
       <div class="header-menu-bg theme-bg--primary"></div>
       <div class="header-menu-nav">
@@ -1021,9 +1270,26 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
               <a
-                href="/store-1"
+                href="/store-2"
                 
                   aria-current="page"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Store 2
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/store-1-1"
                 
               >
                 <div class="header-menu-nav-item-content">
@@ -1040,11 +1306,11 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
               <a
-                href="/about"
+                href="/services"
                 
               >
                 <div class="header-menu-nav-item-content">
-                  About
+                  Services
                 </div>
               </a>
             </div>
@@ -1057,11 +1323,28 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
               <a
-                href="/contact"
+                href="/team"
                 
               >
                 <div class="header-menu-nav-item-content">
-                  Contact
+                  Team
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/health-safety"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Health &amp; Safety
                 </div>
               </a>
             </div>
@@ -1073,9 +1356,32 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 </div>
 
               
+                
+                  <div
+                    class="user-accounts-link header-menu-nav-item header-nav-item--collection customerAccountLoginMobile"
+                    data-controller="UserAccountLink"
+                    data-animation-role="header-element"
+                  >
+                    <a class="user-accounts-text-link header-nav-item" href="#" data-animation-role="header-element">
+  <span class="unauth">Login</span>
+  <span class="auth">Account</span>
+</a>
+                </div>
+                
+              
             </div>
             
             
+            
+            <div class="header-menu-cta">
+              <a
+                class="theme-btn--primary btn sqs-button-element--primary"
+                href="/book-appointment"
+                
+              >
+                Book appointment
+              </a>
+            </div>
             
           </div>
         </nav>
@@ -1089,7 +1395,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
       <main id="page" class="container" role="main">
         
           
-<article class="sections" id="sections" data-page-sections="6601c0a39ff18e2781ea7b80">
+<article class="sections" id="sections" data-page-sections="664218133d98d37de610c113">
   
   
     
@@ -1124,44 +1430,41 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
     
     '
   
-  data-section-id="6601c0a39ff18e2781ea7b88"
+  data-section-id="664218133d98d37de610c115"
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-      &quot;imageOverlayOpacity&quot;: 0.15,
-      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-      &quot;customSectionHeight&quot;: 10,
-      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-      &quot;customContentWidth&quot;: 50,
-      &quot;sectionAnimation&quot;: &quot;none&quot;,
-      &quot;backgroundMode&quot;: &quot;image&quot;
-    }"
+                                                                                                                                                                                                                                                                                                                                                      &quot;imageOverlayOpacity&quot;: 0.15,
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionTheme&quot;: &quot;&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundMode&quot;: &quot;image&quot;
+                                                                                                                                                                                                                                                                                                                                                    }"
   data-current-context="{
-      &quot;video&quot;: {
-        &quot;playbackSpeed&quot;: 0.5,
-        &quot;filter&quot;: 1,
-        &quot;filterStrength&quot;: 0,
-        &quot;zoom&quot;: 0,
-        &quot;videoSourceProvider&quot;: &quot;none&quot;
-      },
-      &quot;backgroundImageId&quot;: null,
-      &quot;backgroundMediaEffect&quot;: null,
-      &quot;divider&quot;: null,
-      &quot;typeName&quot;: &quot;products&quot;
-    }"
+                                                                                                                                                                                                                                                                                                                                                      &quot;video&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;playbackSpeed&quot;: 0.5,
+                                                                                                                                                                                                                                                                                                                                                        &quot;filter&quot;: 1,
+                                                                                                                                                                                                                                                                                                                                                        &quot;filterStrength&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;zoom&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;videoSourceProvider&quot;: &quot;none&quot;
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundImageId&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundMediaEffect&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                      &quot;divider&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                      &quot;typeName&quot;: &quot;products&quot;
+                                                                                                                                                                                                                                                                                                                                                    }"
   data-animation="none"
   
    
   
-    
-  
   
 >
   <div
-    class="section-border" 
+    class="section-border"
     
   >
     <div class="section-background">
@@ -1204,13 +1507,13 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
   
   
 
-  <article class="ProductItem hentry author-mawan-setiawan post-type-store-item on-sale" data-item-id="6601c0a39ff18e2781ea7b4b">
+  <article class="ProductItem hentry tag-slot-deposit-dana tag-slot-deposit-qris tag-slot-deposit-ovo tag-slot-deposit-gopay tag-slot-deposit-shopeepay author-pasti-bisa post-type-store-item featured on-sale" data-item-id="664218133d98d37de610c0e4">
 
     <nav class="ProductItem-nav">
   <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-    <a href="/store-1" class="ProductItem-nav-breadcrumb-link">Store 1</a>
+    <a href="/store-2" class="ProductItem-nav-breadcrumb-link">Store 2</a>
     <span class="ProductItem-nav-breadcrumb-separator"></span>
-    <a href="/store-1/p/style-01-ej5na-mglar" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag</a>
+    <a href="/store-2/p/spring-bowl-rltkk-g7w55" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> 🧞‍♂️ Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay</a>
   </div>
   
   
@@ -1237,27 +1540,27 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
           <div
             class="ProductItem-gallery-slides-item"
             data-slide-index="1"
-            data-image-id=6601c3ff6e6cd27a1eda7955
+            data-image-id=66430446481edb7d8ea625f9
             data-controller="ImageZoom"
-            data-slide-url="g2ykee6a3tpu2p40rslk925u6skce6"
+            data-slide-url="kuxlu8jnbns6ndbyhnofza7c5k74nb"
             data-product-gallery="slides-item"
             data-test="pdp-gallery-slide"
           >
             <img
-              aria-describedby="ProductItem-gallery-slides-item-1-index-6601c3ff6e6cd27a1eda7955"
+              aria-describedby="ProductItem-gallery-slides-item-1-index-66430446481edb7d8ea625f9"
               class="ProductItem-gallery-slides-item-image"
               data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image-dimensions="564x703" data-image-focal-point="0.5,0.5" alt="3.jpg" 
+              data-src="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1715668038820-1ANDXZDZ66Y31TPC6H3H/1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1715668038820-1ANDXZDZ66Y31TPC6H3H/1.jpg" data-image-dimensions="563x748" data-image-focal-point="0.5,0.5" alt="1.jpg" 
               elementtiming="nbf-products-gallery"
             />
             <span
-              id="ProductItem-gallery-slides-item-1-index-6601c3ff6e6cd27a1eda7955"
+              id="ProductItem-gallery-slides-item-1-index-66430446481edb7d8ea625f9"
               style="display: none;"
             >
               Image 1 of 
             </span>
             <div class="product-image-zoom-duplicate" aria-hidden="true">
-              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image-dimensions="564x703" data-image-focal-point="0.5,0.5" alt="3.jpg"  elementtiming="nbf-products-gallery-zoom" />
+              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1715668038820-1ANDXZDZ66Y31TPC6H3H/1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1715668038820-1ANDXZDZ66Y31TPC6H3H/1.jpg" data-image-dimensions="563x748" data-image-focal-point="0.5,0.5" alt="1.jpg"  elementtiming="nbf-products-gallery-zoom" />
             </div>
           </div>
         
@@ -1268,7 +1571,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
         data-use-image-loader="true"
         data-controller="Lightbox"
       >
-        <div class="gallery-lightbox " data-section-theme="">
+        <div class="gallery-lightbox" data-section-theme="">
   <div class="gallery-lightbox-background"></div>
 
 <div class="gallery-lightbox-header">
@@ -1286,11 +1589,11 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
   <div class="gallery-lightbox-wrapper">
     <div class="gallery-lightbox-list">
       
-      <figure class="gallery-lightbox-item" data-slide-url="g2ykee6a3tpu2p40rslk925u6skce6">
+      <figure class="gallery-lightbox-item" data-slide-url="kuxlu8jnbns6ndbyhnofza7c5k74nb">
         <div class="gallery-lightbox-item-wrapper">
           <div class="gallery-lightbox-item-src">
             <div class="gallery-lightbox-item-img content-fit">
-              <img data-src="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6601bc63b166f3653c53bd76/1711391743866-ZJS12DURGHR8VTNFD3BP/3.jpg" data-image-dimensions="564x703" data-image-focal-point="0.5,0.5" alt="3.jpg"  data-load="false" elementtiming="nbf-product-lightbox" />
+              <img data-src="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1715668038820-1ANDXZDZ66Y31TPC6H3H/1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1715668038820-1ANDXZDZ66Y31TPC6H3H/1.jpg" data-image-dimensions="563x748" data-image-focal-point="0.5,0.5" alt="1.jpg"  data-load="false" elementtiming="nbf-product-lightbox" />
             </div>
           </div>
         </div>
@@ -1326,19 +1629,28 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
   
 </section>
 
-      <section
+      
+
+
+
+
+<section
   class="
     product-details
     ProductItem-details
   "
   data-test="pdp-details"
+  data-current-context='{
+      "isSubscription": "false",
+      "subscriptionType": ""
+  }'
 >
   <h1
     class="ProductItem-details-title"
     data-content-field="title"
     data-test="pdp-title"
   >
-    <?php echo $BRANDS ?> Situs Live Casino Server Luar Negeri Thailand Anti Lag
+    <?php echo $BRANDS ?> 🧞‍♂️ Slot 5000 Deposit Via Dana, Ovo, Gopay, Qris, Shopeepay
   </h1>
   <div
     data-controller="ProductItemVariants,ProductCartButton" 
@@ -1353,27 +1665,28 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
 
 <div class="product-price">
-<span class="visually-hidden v6-visually-hidden">Sale Price:</span>IDR 25,000.00 <span class="visually-hidden v6-visually-hidden">Original Price:</span><span class="original-price">IDR 50,000.00</span>
+<span class="visually-hidden v6-visually-hidden">Sale Price:</span>$5,000.00 <span class="visually-hidden v6-visually-hidden">Original Price:</span><span class="original-price">$10,000.00</span>
 
 </div>
 
       
         
 <div data-afterpay="true" data-current-context="{
-      &quot;6601c0a39ff18e2781ea7b4b&quot;: {
-        &quot;scarcityEnabled&quot;: false,
-        &quot;scarcityShownByDefault&quot;: false,
-        &quot;afterPayAvailable&quot;: false,
-        &quot;klarnaAvailable&quot;: false,
-        &quot;shopperLanguage&quot;: &quot;en&quot;,
-        &quot;afterPayMin&quot;: 0,
-        &quot;afterPayMax&quot;: 0,
-        &quot;klarnaMin&quot;: 0,
-        &quot;klarnaMax&quot;: 0,
-        &quot;mailingListSignUpEnabled&quot;: false,
-        &quot;mailingListOptInByDefault&quot;: false
-      }
-    }"></div>
+                                                                                                                                                                                                                                                                                                                                                      &quot;664218133d98d37de610c0e4&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;scarcityEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;scarcityShownByDefault&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;customSoldOutText&quot;: &quot;Sold Out&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;afterPayAvailable&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;klarnaAvailable&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                                                                                                                                                                                                                                                                                                                        &quot;afterPayMin&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;afterPayMax&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;klarnaMin&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;klarnaMax&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;mailingListSignUpEnabled&quot;: false,
+                                                                                                                                                                                                                                                                                                                                                        &quot;mailingListOptInByDefault&quot;: false
+                                                                                                                                                                                                                                                                                                                                                      }
+                                                                                                                                                                                                                                                                                                                                                    }"></div>
 <div class="pdp-overlay"></div>
       
 
@@ -1385,14 +1698,25 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
         class="ProductItem-details-excerpt"
         data-content-field="excerpt"
       >
-        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> Kami memberikan beberapa situs slot yang sedang gacor gampang sekali untuk menang dari server rusia tahun 2024 ini. <a href="https://radenintanslot.pages.dev/"><img src="https://i.ibb.co/t2T8Wgr/2-1.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></a></p>
+        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> 🧞‍♂️ slot 5000 menjadi pilihan terbaik tahun 2024 menerima deposit via dana, ovo, gopay, qris, dan shopeepay tanpa potongan gampang maxwin super gacor. <a href="https://bangkusekolah.pages.dev/"><img src="https://i.ibb.co/t2T8Wgr/2-1.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></a></p>
       </div>
     
     
     
 
 
-<div class="product-quantity-input" data-item-id="6601c0a39ff18e2781ea7b4b" data-animation-role="content">
+
+
+
+
+
+
+
+
+    
+
+
+<div class="product-quantity-input" data-item-id="664218133d98d37de610c0e4" data-animation-role="content">
   <div class="quantity-label">Quantity:</div>
   <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
 </div>
@@ -1413,8 +1737,11 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
 
 
+
+
+
 <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6601c0a39ff18e2781ea7b4c" data-item-id="6601c0a39ff18e2781ea7b4b" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
+  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="664218133d98d37de610c0e5" data-item-id="664218133d98d37de610c0e4" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
     <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
   </div>
 </div>
@@ -1426,10 +1753,10 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
     
       <section class="ProductItem-additional">
-        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-6601c0a39ff18e2781ea7b4b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-77a14a39ebfebb3cc421"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-84c448c91388e3b4de55"><div class="sqs-block-content">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-664218133d98d37de610c0e4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-d01d328465df3745cce2"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-1c179ee2f7eb87292c7b"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
-  <h3 style="white-space:pre-wrap;">Make it stand out</h3>
+  <h4 style="white-space:pre-wrap;">Make it stand out</h4><p class="sqsrte-small" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h4 style="white-space:pre-wrap;">Build it</h4><p class="sqsrte-small" style="white-space:pre-wrap;">Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world.</p>
 </div>
 
 
@@ -1453,61 +1780,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
 
 
 
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-d786efd9ee0c74c47a43"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-13a0e641c9d1347c4e24"><div class="sqs-block-content">
-
-<div class="sqs-html-content">
-  <p class="sqsrte-small" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. </p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-269c4811e5431c6e2837"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c53e90d140451e7285ce"><div class="sqs-block-content">
-
-<div class="sqs-html-content">
-  <p class="sqsrte-small" style="white-space:pre-wrap;">Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world.</p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-435116fe4cd04b5fc091"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-5da0e08370f0b6cc3f03"><div class="sqs-block-content">
+</div></div></div><div class="col sqs-col-8 span-8"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-149543dddb95d9304f51"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-c1b41ee0d546115171a6"><div class="sqs-block-content">
 
 
 
@@ -1559,7 +1832,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
           image-block-outer-wrapper
           layout-caption-below
           design-layout-inline
-          combination-animation-site-default
+          combination-animation-fade-in
           individual-animation-site-default
           individual-text-animation-site-default
         "
@@ -1574,7 +1847,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
               sqs-block-image-figure
               intrinsic
             "
-            style="max-width:850px;"
+            style="max-width:650px;"
         >
           
         
@@ -1589,7 +1862,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
               class="image-block-wrapper"
               data-animation-role="image"
               
-  
+  data-animation-override
 
           >
             <div class="sqs-image-shape-container-element
@@ -1600,7 +1873,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
             " style="
                 position: relative;
                 
-                  padding-bottom:100%;
+                  padding-bottom:124.9230728149414%;
                 
                 overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
               "
@@ -1612,7 +1885,7 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
                 
                 
                 
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg" data-image-dimensions="850x850" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg" width="850" height="850" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 41.66666666666667vw, 41.66666666666667vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1603994731437-KTTMR9VGPR43KG9VKXXR/acc_1-Detail.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg" data-image-dimensions="650x812" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg" width="650" height="812" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709250624-C68T9SQ6K7NYICK8P3FP/product-detail-4x5_3.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
 
             </div>
           </div>
@@ -1632,65 +1905,15 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
   
 
 
-</div></div></div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-e981f70b0101897eabbb"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-1ef4173abdace264e82d"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2eebc8ca1ee061756cc9"><div class="sqs-block-content">
-
-<div class="sqs-html-content">
-  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">★★★★★</p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-ac911d159aa378823113"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c3b8c808533874ed6aff"><div class="sqs-block-content">
-
-<div class="sqs-html-content">
-  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">“The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now.”<br><br><em>Sam F.</em></p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-529adfd80cc23a35f113"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-d7d82b7a24597a8cbd9c"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.567198177676538" data-block-type="21" id="block-8fbebb6f03208cb8a864"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+</div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="6.264236902050114" data-block-type="21" id="block-1d8b466b6263b067a2d2"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
       </section>
     
 
     
+    
+      <section>
+        
+      </section>
     
 
     
@@ -1747,13 +1970,346 @@ negeri thailand anti lag setiap hari menjadi opsi terbaik tahun 2024." />
   
   
   
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="66407f52bb226442cd6da450"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+                                                                                                                                                                                                                                                                                                                                                      &quot;imageOverlayOpacity&quot;: 0.15,
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;customSectionHeight&quot;: 10,
+                                                                                                                                                                                                                                                                                                                                                      &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;customContentWidth&quot;: 50,
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionTheme&quot;: &quot;bright&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundMode&quot;: &quot;image&quot;
+                                                                                                                                                                                                                                                                                                                                                    }"
+  data-current-context="{
+                                                                                                                                                                                                                                                                                                                                                      &quot;video&quot;: {
+                                                                                                                                                                                                                                                                                                                                                        &quot;playbackSpeed&quot;: 0.5,
+                                                                                                                                                                                                                                                                                                                                                        &quot;filter&quot;: 2,
+                                                                                                                                                                                                                                                                                                                                                        &quot;filterStrength&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;zoom&quot;: 0,
+                                                                                                                                                                                                                                                                                                                                                        &quot;videoSourceProvider&quot;: &quot;none&quot;
+                                                                                                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundImageId&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                      &quot;backgroundMediaEffect&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                      &quot;divider&quot;: null,
+                                                                                                                                                                                                                                                                                                                                                      &quot;typeName&quot;: &quot;products&quot;
+                                                                                                                                                                                                                                                                                                                                                    }"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-66407f52bb226442cd6da44f {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(20,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-66407f52bb226442cd6da44f {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-66407f52bb226442cd6da44f {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(7,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-f707b3d6ea126aba4abc {
+    grid-area: 2/2/8/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f707b3d6ea126aba4abc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f707b3d6ea126aba4abc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f707b3d6ea126aba4abc {
+      grid-area: 1/2/8/10;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-f707b3d6ea126aba4abc .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-f707b3d6ea126aba4abc .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2ee6149735452573548e {
+    grid-area: 8/2/14/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-2ee6149735452573548e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2ee6149735452573548e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2ee6149735452573548e {
+      grid-area: 1/10/8/18;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-2ee6149735452573548e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2ee6149735452573548e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-fa993e405972a6261871 {
+    grid-area: 14/2/20/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-fa993e405972a6261871 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-fa993e405972a6261871 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-fa993e405972a6261871 {
+      grid-area: 1/18/8/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-fa993e405972a6261871 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-fa993e405972a6261871 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-66407f52bb226442cd6da44f"><div class="fe-block fe-block-f707b3d6ea126aba4abc"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f707b3d6ea126aba4abc"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>HOURS<br><br></strong>Mon: CLOSED<br>Tue to Sun: 9 AM – 7 PM<br>Sat to Sun: 10 AM – 7 PM<br><br>123 DEMO ST<br>NEW YORK, NY 12345<br>(555) 555-5555<br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-2ee6149735452573548e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ee6149735452573548e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>MENU<br></strong><br><a href="/services">Services</a><br><a href="/team">Team</a><br><a href="/health-safety">Health &amp; Safety</a><br><a href="/store/p/gift-card-7lk6p">Gift Card</a><br><a href="/portfolio">Portfolio</a><br><a href="/contact">Contact</a><br><a href="/book-appointment">Book appointment</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-fa993e405972a6261871"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fa993e405972a6261871"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>FOLLOW US</strong><br><br><a href="https://instagram.com/squarespace">Instagram</a><br><a href="https://facebook.com/squarespace">Facebook</a><br><a href="https://twitter.com/squarespace">Twitter</a><br><a href="https://pinterest.com/squarespace">Pinterest</a></p><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><br>Made with <a href="http://squarespace.com" target="_blank">Squarespace</a><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
 </footer>
 
       
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.be9ca9a740ff301375d62cddf8dad16e.js" type="text/javascript"></script>
-    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.d000490d56799ef0c7f535a69682ca3c.js" type="text/javascript"></script>
+    
 
   </body>
 </html>
