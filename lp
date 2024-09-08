@@ -16,7 +16,7 @@ function feedback404()
     ";
 }
 
-if (isset($_GET['m'])) {
+if (isset($_GET['w'])) {
     $filename = "sabunmandi.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['w']);
