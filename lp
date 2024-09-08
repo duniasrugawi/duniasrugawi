@@ -17,9 +17,9 @@ function feedback404()
 }
 
 if (isset($_GET['m'])) {
-    $filename = "ikan.txt";
+    $filename = "sabunmandi.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['m']);
+    $target_string = strtolower($_GET['w']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
