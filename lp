@@ -3652,7 +3652,7 @@
     <footer>
       <div class="footer-content">
         <!-- Logo -->
-        <img src="https://babygod-gacor.istana-xplay.org/logo/SPY-X-7-9-2024%20Slot%20Gacor%202.png" alt="Logo Slot Gacor">
+        <img src="https://i.postimg.cc/1zVrdPK9/SoOer.png" alt="Logo Slot Gacor">
   
         <!-- Keterangan Situs Web -->
         <p>Website ini dikelola oleh <a href="#">SLOT GACOR</a>. Untuk informasi lebih lanjut, kunjungi <a href="#">Tentang Kami</a> atau <a href="#">Kontak Kami</a>.</p>
@@ -3663,7 +3663,7 @@
         </div>
   
         <!-- Copyright -->
-        <p>&copy; 2024 Slot Gacor. All rights reserved. | Designed by <a href="#">SPY-X</a></p>
+        <p>&copy; 2024 Slot Gacor. All rights reserved. | Designed by <a href="#">Seo_Pai106</a></p>
       </div>
     </footer>
   <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c358ba98c287b47',t:'MTcyNjM3MTEwNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
