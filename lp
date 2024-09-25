@@ -8,7 +8,7 @@
 
 
 <url>
-  <loc>https://lamkependidikan.org/mimpi/</loc>
+  <loc>https://sdteladan.sch.id/thailand/</loc>
   <lastmod>2024-09-10T14:55:29+00:00</lastmod>
 </url>
 
