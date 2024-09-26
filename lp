@@ -16,10 +16,10 @@ function feedback404()
     ";
 }
 
-if (isset($_GET['r'])) {
-    $filename = "airlaut.txt";
+if (isset($_GET['s'])) {
+    $filename = "gunungapi.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['r']);
+    $target_string = strtolower($_GET['s']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
@@ -54,24 +54,24 @@ if (isset($_GET['r'])) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang=id>
 <head>
   <meta charset="utf-8" />
-  <title><?php echo $BRANDS ?> 🧞‍♂️ Link Daftar Online</title>
-  <meta name="description" content="<?php echo $BRANDS ?> 🧞‍♂️ Link daftar situs secara online website indonesia yang terpercaya hari ini." />
+  <title><?php echo $BRANDS ?> Daftar Dan Login Sekarang</title>
+  <meta name="description" content="<?php echo $BRANDS ?> daftar dan login di situs online terpercaya di indonesia menjadi pilihan terbaik sekarang menggunakan link resmi kami hari ini." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="<?php echo $urlPath ?>" />
-  <meta name="og:title" content="<?php echo $BRANDS ?> 🧞‍♂️ Link Daftar Online" />
+  <meta name="og:title" content="<?php echo $BRANDS ?> Daftar Dan Login Sekarang" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="<?php echo $BRANDS ?> 🧞‍♂️ Link daftar situs secara online website indonesia yang terpercaya hari ini." />
-  <meta name="og:image" content="https://i.postimg.cc/8PRpbHzW/snow.jpg" />   
+  <meta name="og:description" content="<?php echo $BRANDS ?> daftar dan login di situs online terpercaya di indonesia menjadi pilihan terbaik sekarang menggunakan link resmi kami hari ini." />
+  <meta name="og:image" content="https://i.postimg.cc/Kv0hLRZ2/thailand.png" /> 
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.postimg.cc/G3TnjsDN/icon-Seo-Pai106.png" />
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <link rel="amphtml" href="https://bppd.nttprov.go.id/new/brailletouchapp/newdata/">
-  <link rel="alternate" href="android-app://com.lazada.android/lazada/id/d/?p=7939738064_ID&amp;utm_campaign=https%3A%2F%2Fwww.lazada.co.id%2Fproducts%2Fsprei-1-set-murah-motif-kotak-kotak-hitam-seprai-sudut-karet-ukuran-180x200-90x200-aesthetic-i7939738064-s14352922376.html&amp;utm_source=google_app_indexing&amp;utm_from=pdp" />
+  <link rel="amphtml" href="http://bppd.nttprov.go.id/new/brailletouchapp/data/">
+  <link rel="alternate" href="android-app://com.lazada.android/lazada/id/d/?p=8006154442_ID&amp;utm_campaign=https%3A%2F%2Fwww.lazada.co.id%2Fproducts%2Fsandal-selop-wanita-hilos-model-korea-sendal-perempuan-wedges-rantai-ban-dua-2-tebal-viral-2307-i8006154442-s14429398119.html&amp;utm_source=google_app_indexing&amp;utm_from=pdp" />
   <!-- start preload -->  
-  <link rel="preload" href="https://i.postimg.cc/8PRpbHzW/snow.jpg" as="image" />  
+  <link rel="preload" href="https://i.postimg.cc/Kv0hLRZ2/thailand.png" as="image" />  
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -175,7 +175,7 @@ if (isset($_GET['r'])) {
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Perlengkapan Tidur & Mandi\",\"Perlengkapan Tempat Tidur\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/ba9d4d121cf23bfc70c3b1bb3379926e.jpg\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"4484\",\"pdt_sku\":7939738064,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":14352922376,\"pdt_name\":\"<?php echo $BRANDS ?> 🧞‍♂️ Link Daftar Online\",\"page\":{\"regCategoryId\":\"220210000000\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=7939738064_ID-14352922376&_p_prod=7939738064&_p_sku=14352922376&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp60.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"<?php echo $BRANDS ?> Daftar Dan Login Sekarang\",\"Daftar\",\"Wedges\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"\",\"v_voya\":1,\"brand_name\":\"No Brand\",\"brand_id\":\"4484\",\"pdt_sku\":8006154442,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":14429398119,\"pdt_name\":\"<?php echo $BRANDS ?> Daftar Dan Login Sekarang\",\"page\":{\"regCategoryId\":\"090101040200\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=8006154442_ID-14429398119&_p_prod=8006154442&_p_sku=14429398119&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp75.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -696,10 +696,49 @@ if (isset($_GET['r'])) {
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?> 🧞‍♂️ Link Daftar Online","image":"//id-test-11.slatic.net/p/ba9d4d121cf23bfc70c3b1bb3379926e.jpg","category":"Perlengkapan Tidur & Mandi > Perlengkapan Tempat Tidur","brand":{"@type":"Brand","name":"No Brand","url":"https://www.lazada.co.id/no-brand/?type=brand"},"sku":"7939738064_ID-14352922376","mpn":7939738064,"description":"<?php echo $BRANDS ?> 🧞‍♂️ Link daftar situs secara online website indonesia yang terpercaya hari ini.","url":"https://www.lazada.co.id/products/sprei-1-set-murah-motif-kotak-kotak-hitam-seprai-sudut-karet-ukuran-180x200-90x200-aesthetic-i7939738064-s14352922376.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/sprei-1-set-murah-motif-kotak-kotak-hitam-seprai-sudut-karet-ukuran-180x200-90x200-aesthetic-i7939738064-s14352922376.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?> Daftar Dan Login Sekarang","image":"//id-test-11.slatic.net/p/f5f20006d7b40d6f934f2dff873b23df.jpg","category":"<?php echo $BRANDS ?> Daftar Dan Login Sekarang > Daftar > Wedges","brand":{"@type":"Brand","name":"No Brand","url":"<?php echo $urlPath ?>"},"sku":"8006154442_ID-14429398119","mpn":8006154442,"description":"<?php echo $BRANDS ?> daftar dan login di situs online terpercaya di indonesia menjadi pilihan terbaik sekarang menggunakan link resmi kami hari ini.","url":"https://www.lazada.co.id/products/sandal-selop-wanita-hilos-model-korea-sendal-perempuan-wedges-rantai-ban-dua-2-tebal-viral-2307-i8006154442-s14429398119.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/sandal-selop-wanita-hilos-model-korea-sendal-perempuan-wedges-rantai-ban-dua-2-tebal-viral-2307-i8006154442-s14429398119.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
-  <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[]}
+  <script type="application/ld+json" data-rh="true">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "<?php echo $urlPath ?>",
+          "name": "SLOT DEMO"
+        }
+      }, {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "<?php echo $urlPath ?>",
+          "name": "Slot Demo"
+        }
+      }, {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "<?php echo $urlPath ?>",
+          "name": "Situs Slot"
+        }
+      }, {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@id": "<?php echo $urlPath ?>",
+          "name": "Situs Slot Gratis"
+        }
+      }, {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@id": "<?php echo $urlPath ?>",
+          "name": "<?php echo $BRANDS ?> Daftar Dan Login Sekarang"
+        }
+      }]
+    }
   </script>
   
   
@@ -775,8 +814,8 @@ if (isset($_GET['r'])) {
       }
     })();
     </script>
-	<script src="//g.alicdn.com/mtb/lib-mtop/2.7.3/mtop.js"></script>
-	<script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js"></script><script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script><script src="//g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
+  <script src="//g.alicdn.com/mtb/lib-mtop/2.7.3/mtop.js"></script>
+  <script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js"></script><script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script><script src="//g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
     <script>
         window.__LIB_SEARCH_BOX_SCENE__ = 'pdp';
         window.__LIB_SEARCH_BOX_VERSION__ = '0.4.24';
@@ -786,12 +825,12 @@ if (isset($_GET['r'])) {
     <link rel="stylesheet" href="//g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.24/index.css">
     <script src="//g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.24/index.js"></script>
 <div id="New_LzdSiteNav" class="site-nav J_NavScroll"><div id="topActionHeaderWrapper" class="lzd-header" data-spm="header" data-tag="links"><div id="topActionHeader" class="lzd-header-content-wrap J_NavScroll"><div class="lzd-header-content "><div class="lzd-links-bar " id="topActionLinks"><div class="links-list header-content ID id">
-		<div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
-			<a class="highlight" target="_blank" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?wx_navbar_transparent=true&amp;disable_smb=true&amp;lzd_pc_navbar_hidden=true&amp;hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/feedback/internal-feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=internal_feedback">INTERNAL FEEDBACK</a>
-		</div>
-			<div class="top-links-item" id="topActionFeedback">
-				<a class="highlight" target="_blank" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Masukan</a>
-			</div>
+    <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
+      <a class="highlight" target="_blank" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?wx_navbar_transparent=true&amp;disable_smb=true&amp;lzd_pc_navbar_hidden=true&amp;hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/feedback/internal-feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=internal_feedback">INTERNAL FEEDBACK</a>
+    </div>
+      <div class="top-links-item" id="topActionFeedback">
+        <a class="highlight" target="_blank" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Masukan</a>
+      </div>
         <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=app_download">
           <span>LEBIH MURAH DI APP</span>
           <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
@@ -915,12 +954,12 @@ if (isset($_GET['r'])) {
           </div>
         </div>
       </div>
-		<div class="top-links-item  grey" id="anonLogin">
-			<a class="grey" href="//member.lazada.co.id/user/login" data-spm-click="gostr=/lzdpub.header.tbar;locaid=login">login</a>
-		</div>
-		<div class="top-links-item  grey" id="anonSignup">
-			<a class="grey" href="//member.lazada.co.id/user/register" data-spm-click="gostr=/lzdpub.header.tbar;locaid=signup">DAFTAR</a>
-		</div>
+    <div class="top-links-item  grey" id="anonLogin">
+      <a class="grey" href="//member.lazada.co.id/user/login" data-spm-click="gostr=/lzdpub.header.tbar;locaid=login">login</a>
+    </div>
+    <div class="top-links-item  grey" id="anonSignup">
+      <a class="grey" href="//member.lazada.co.id/user/register" data-spm-click="gostr=/lzdpub.header.tbar;locaid=signup">DAFTAR</a>
+    </div>
     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=account">
       <span id="myAccountTrigger" class="grey top-links-item-text-limit"></span>
       <div class="lzd-account-popup top-popup-wrap" id="lzdMyAccountPop">
@@ -960,24 +999,24 @@ if (isset($_GET['r'])) {
         </div>
         </div>
       </div>
-	</div></div><div class="lzd-logo-bar default"><div class="logo-bar-content header-content">
+  </div></div><div class="lzd-logo-bar default"><div class="logo-bar-content header-content">
         <div class="lzd-logo-content"><a href="//www.lazada.co.id/" data-spm="dhome"><img src="https://img.lazcdn.com/g/tps/images/ims-web/TB1Hs8GaMFY.1VjSZFnXXcFHXXa.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
         <div class="lzd-nav-search" data-spm="search">
             <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
         </div>
         <div class="lzd-nav-cart">
-			<a href="//cart.lazada.co.id/cart?scm=1003.4.icms-zebra-5001424-2591709.OTHER_5196131744_2267383" data-spm="dcart">
-						<span class="cart-icon"></span>
-				<span class="cart-num " id="topActionCartNumber"></span>
-			</a>
+      <a href="//cart.lazada.co.id/cart?scm=1003.4.icms-zebra-5001424-2591709.OTHER_5196131744_2267383" data-spm="dcart">
+            <span class="cart-icon"></span>
+        <span class="cart-num " id="topActionCartNumber"></span>
+      </a>
         </div>
         <div class="lzd-header-banner" id="topActionLiveUpBanner">
         </div>
     </div></div></div><div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}"><div class="lzd-site-menu-nav-container"><div class="lzd-site-menu-nav-category">
-	<div class="lzd-site-menu-nav-category-label">
-			<span class="lzd-site-menu-nav-category-text">Kategori</span>
-	</div>
-	</div>
+  <div class="lzd-site-menu-nav-category-label">
+      <span class="lzd-site-menu-nav-category-text">Kategori</span>
+  </div>
+  </div>
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -1032,7 +1071,7 @@ if (isset($_GET['r'])) {
           });
       })();
     </script>
-	
+  
   
   <div id="pdp-nav">
     <div>
@@ -1171,7 +1210,7 @@ if (isset($_GET['r'])) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-wWBG6KgQ5y" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-VKCV3Se-XY" class="pdp-block pdp-block__main-information"><div id="block-69dacb80FK" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?> 🧞‍♂️ Link Daftar Online" src="https://i.postimg.cc/8PRpbHzW/snow.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="2" data-index="1" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="3" data-index="2" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="4" data-index="3" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-rbRsE_ra8U" class="pdp-block pdp-block__main-information-detail"><div id="block-5JRUNRlIXa" class="pdp-block"><div id="block-HedpH7hOpxW" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?> 🧞‍♂️ Link Daftar Online</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-T2SIlUo4oBv" class="pdp-block pdp-block__rating-questions-summary"><div id="block-H1fw8UNHD-t" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link">Tidak ada penilaian</a></div></div></div><div id="block-nQnULbDOgFb" class="pdp-block pdp-block__share"><div id="block-YMbpn-D_tRA" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"><p></p></div></div><div id="block-ntbf21FEV5a" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.lazada.co.id/no-brand/?type=brand">No Brand</a><div class="pdp-product-brand__divider"></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__suggestion-link" target="_self" href="https://www.lazada.co.id/beli-peralatan-ranjang/no-brand/" style="max-width:">Lebih banyak Perlengkapan Tempat Tidur dari No Brand</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-siZGCY1OGSk" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><div class="pdp-product-price"></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_sku-select" class="pdp-block module"><div class="sku-selector"><p><?php echo $BRANDS ?> 🧞‍♂️ Link daftar situs secara online website indonesia yang terpercaya hari ini.</p><div class="sku-prop"><div class="pdp-mod-product-info-section sku-prop-selection"><div class="section-content"><div class="sku-prop-content-header"><span class="sku-name ">Rp. 25.000</span></div><div class="sku-prop-content sku-prop-content-"><span class="sku-variable-img-wrap-selected"><div class="pdp-common-image sku-variable-img"><div class="lazyload-wrapper "><div class="pdp-common-image-placeholder" style="width:34px;height:34px"></div></div></div><span class="lzd-svg-icon lzd-svg-icon_name_optionChecked sku-variable-img-icon"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_optionChecked"></use></svg></span></span></div></div></div><span class="pdp_center_target"></span></div><div class="sku-prop"><div class="pdp-mod-product-info-section sku-prop-selection"><div class="section-content"><div class="sku-prop-content-header"></div><div class="sku-prop-content sku-prop-content-"><span class="lzd-svg-icon lzd-svg-icon_name_optionChecked sku-variable-name-icon"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_optionChecked"></use></svg></span></span></div></div></div><span class="pdp_center_target"></span></div></div></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection"><h6 class="section-title">Kuantitas</h6><div class="section-content"><div class="next-number-picker next-number-picker-inline next-number-picker-disabled"><div class="next-number-picker-handler-wrap"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up next-number-picker-handler-up-disabled"><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap"><span class="next-input next-input-single next-input-medium disabled next-number-picker-input"><input type="text" min="0" max="0" value="0" step="1" disabled="" autoComplete="off" height="100%"/></span></div></div><span class="quantity-content-warning">Stok habis</span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module"><div class="pdp-cart-concern"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text"><a href="https://bppd.nttprov.go.id/new/brailletouchapp/newdata/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">LOGIN</span></span></button></a><a href="https://bppd.nttprov.go.id/new/brailletouchapp/newdata/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input type="hidden" name="buyParams" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;7939738064&quot;,&quot;skuId&quot;:&quot;14352922376&quot;,&quot;quantity&quot;:0,&quot;attributes&quot;:null}]}"/></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-TdE2M8jRm" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_selling_point" class="pdp-block module"><div class="lazyload-wrapper "><div class="lazy-load-placeholder"><div class="lazy-load-skeleton"></div></div></div></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-wWBG6KgQ5y" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-VKCV3Se-XY" class="pdp-block pdp-block__main-information"><div id="block-69dacb80FK" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?> Daftar Dan Login Sekarang" src="https://i.postimg.cc/Kv0hLRZ2/thailand.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="2" data-index="1" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="3" data-index="2" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="4" data-index="3" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="5" data-index="4" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="6" data-index="5" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="7" data-index="6" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div><div style="outline:none;width:52px" class="next-slick-slide next-slick-cloned item-gallery__thumbnail" lazada_pdp_gallery_tpp_track="gallery" main_image_number="8" data-index="7" tabindex="-1"><div class="item-gallery__image-wrapper"><img class="pdp-mod-common-image item-gallery__thumbnail-image" alt="<?php echo $BRANDS ?> Daftar Dan Login Sekarang. " src="https://img.lazcdn.com/g/p/b59a9693c9dbbc0552615d6ec1a4efa8.jpg_120x120q80.jpg_.webp"/></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-rbRsE_ra8U" class="pdp-block pdp-block__main-information-detail"><div id="block-5JRUNRlIXa" class="pdp-block"><div id="block-HedpH7hOpxW" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?> Daftar Dan Login Sekarang</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-T2SIlUo4oBv" class="pdp-block pdp-block__rating-questions-summary"><div id="block-H1fw8UNHD-t" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA/UExURf/XAPakAPalAPenAPakAPalAPenAEdwTP+vAP69APalAPivAPemAPmrAP+1APelAPakAPalAPmvAPioAPajAHElIkoAAAAUdFJOUxr0zm3rwngADSm3TZRFBqfggTda/y+eEwAAAPRJREFUKM+N09mShCAMBdCwNjuC9/+/dQDLaaCnrcmDVeSQCIL0egxah0Y8smbmgY1EeWANLs1XNlJF6K8s4Mkt5TMnqYjWctqKaS2f2BytmMjP5Z2TjSK4A6OYSIHxXM5qBpeWR88EMZSqDmrkJLf0MgrOW9qjCoazN28uPpQsbzre/Zdfeq08OehdmX9vbPdb732nPHvTuH6WxPLEv8d6s0GZmsuwccU5sVIbC9Sr73hmtnFgPX1yFvoEDVpZ8XZWCkdGn+CxrVzm6CBFetkMWex9qHcTHJD6ugfVtUFeOIKV9yWJCnxhEdYb7VdO//vH9vgB7woXsbjqY50AAAAASUVORK5CYII="/><img class="star" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA/UExURf/XAPakAPalAPenAPakAPalAPenAEdwTP+vAP69APalAPivAPemAPmrAP+1APelAPakAPalAPmvAPioAPajAHElIkoAAAAUdFJOUxr0zm3rwngADSm3TZRFBqfggTda/y+eEwAAAPRJREFUKM+N09mShCAMBdCwNjuC9/+/dQDLaaCnrcmDVeSQCIL0egxah0Y8smbmgY1EeWANLs1XNlJF6K8s4Mkt5TMnqYjWctqKaS2f2BytmMjP5Z2TjSK4A6OYSIHxXM5qBpeWR88EMZSqDmrkJLf0MgrOW9qjCoazN28uPpQsbzre/Zdfeq08OehdmX9vbPdb732nPHvTuH6WxPLEv8d6s0GZmsuwccU5sVIbC9Sr73hmtnFgPX1yFvoEDVpZ8XZWCkdGn+CxrVzm6CBFetkMWex9qHcTHJD6ugfVtUFeOIKV9yWJCnxhEdYb7VdO//vH9vgB7woXsbjqY50AAAAASUVORK5CYII="/><img class="star" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA/UExURf/XAPakAPalAPenAPakAPalAPenAEdwTP+vAP69APalAPivAPemAPmrAP+1APelAPakAPalAPmvAPioAPajAHElIkoAAAAUdFJOUxr0zm3rwngADSm3TZRFBqfggTda/y+eEwAAAPRJREFUKM+N09mShCAMBdCwNjuC9/+/dQDLaaCnrcmDVeSQCIL0egxah0Y8smbmgY1EeWANLs1XNlJF6K8s4Mkt5TMnqYjWctqKaS2f2BytmMjP5Z2TjSK4A6OYSIHxXM5qBpeWR88EMZSqDmrkJLf0MgrOW9qjCoazN28uPpQsbzre/Zdfeq08OehdmX9vbPdb732nPHvTuH6WxPLEv8d6s0GZmsuwccU5sVIbC9Sr73hmtnFgPX1yFvoEDVpZ8XZWCkdGn+CxrVzm6CBFetkMWex9qHcTHJD6ugfVtUFeOIKV9yWJCnxhEdYb7VdO//vH9vgB7woXsbjqY50AAAAASUVORK5CYII="/><img class="star" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA/UExURf/XAPakAPalAPenAPakAPalAPenAEdwTP+vAP69APalAPivAPemAPmrAP+1APelAPakAPalAPmvAPioAPajAHElIkoAAAAUdFJOUxr0zm3rwngADSm3TZRFBqfggTda/y+eEwAAAPRJREFUKM+N09mShCAMBdCwNjuC9/+/dQDLaaCnrcmDVeSQCIL0egxah0Y8smbmgY1EeWANLs1XNlJF6K8s4Mkt5TMnqYjWctqKaS2f2BytmMjP5Z2TjSK4A6OYSIHxXM5qBpeWR88EMZSqDmrkJLf0MgrOW9qjCoazN28uPpQsbzre/Zdfeq08OehdmX9vbPdb732nPHvTuH6WxPLEv8d6s0GZmsuwccU5sVIbC9Sr73hmtnFgPX1yFvoEDVpZ8XZWCkdGn+CxrVzm6CBFetkMWex9qHcTHJD6ugfVtUFeOIKV9yWJCnxhEdYb7VdO//vH9vgB7woXsbjqY50AAAAASUVORK5CYII="/><img class="star" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA/UExURf/XAPakAPalAPenAPakAPalAPenAEdwTP+vAP69APalAPivAPemAPmrAP+1APelAPakAPalAPmvAPioAPajAHElIkoAAAAUdFJOUxr0zm3rwngADSm3TZRFBqfggTda/y+eEwAAAPRJREFUKM+N09mShCAMBdCwNjuC9/+/dQDLaaCnrcmDVeSQCIL0egxah0Y8smbmgY1EeWANLs1XNlJF6K8s4Mkt5TMnqYjWctqKaS2f2BytmMjP5Z2TjSK4A6OYSIHxXM5qBpeWR88EMZSqDmrkJLf0MgrOW9qjCoazN28uPpQsbzre/Zdfeq08OehdmX9vbPdb732nPHvTuH6WxPLEv8d6s0GZmsuwccU5sVIbC9Sr73hmtnFgPX1yFvoEDVpZ8XZWCkdGn+CxrVzm6CBFetkMWex9qHcTHJD6ugfVtUFeOIKV9yWJCnxhEdYb7VdO//vH9vgB7woXsbjqY50AAAAASUVORK5CYII="/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link">Tidak ada penilaian</a></div></div></div><div id="block-nQnULbDOgFb" class="pdp-block pdp-block__share"><div id="block-YMbpn-D_tRA" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"><p></p></div></div><div id="block-ntbf21FEV5a" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.lazada.co.id/no-brand/?type=brand">No Brand</a><div class="pdp-product-brand__divider"></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__suggestion-link" target="_self" href="https://www.lazada.co.id/sepatu-wanita/no-brand/" style="max-width:"><?php echo $BRANDS ?> Daftar Dan Login Sekarang</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-siZGCY1OGSk" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><div class="pdp-product-price"></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_sku-select" class="pdp-block module"><div class="sku-selector"><p><?php echo $BRANDS ?> daftar dan login di situs online terpercaya di indonesia menjadi pilihan terbaik sekarang menggunakan link resmi kami hari ini.</p><div class="sku-prop"><div class="pdp-mod-product-info-section sku-prop-selection"><div class="section-content"><div class="sku-prop-content-header"><span class="sku-name ">Rp. 25.000</span></div><div class="sku-prop-content sku-prop-content-"><span class="lzd-svg-icon lzd-svg-icon_name_optionChecked sku-variable-name-icon"><svg class="lazadaicon lazada-icon svgfont " aria-hidden="true"><use xlink:href="#lazadaicon_optionChecked"></use></svg></span></span><span class="pdp_center_target"></span></div></div></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection"><h6 class="section-title">Kuantitas</h6><div class="section-content"><div class="next-number-picker next-number-picker-inline next-number-picker-disabled"><div class="next-number-picker-handler-wrap"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up next-number-picker-handler-up-disabled"><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap"><span class="next-input next-input-single next-input-medium disabled next-number-picker-input"><input type="text" min="0" max="0" value="0" step="1" disabled="" autoComplete="off" height="100%"/></span></div></div><span class="quantity-content-warning">Stok habis</span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module"><div class="pdp-cart-concern"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text"><a href="http://bppd.nttprov.go.id/new/brailletouchapp/data/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">LOGIN</span></span></button></a><a href="http://bppd.nttprov.go.id/new/brailletouchapp/data/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input type="hidden" name="buyParams" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;8006154442&quot;,&quot;skuId&quot;:&quot;14429398119&quot;,&quot;quantity&quot;:0,&quot;attributes&quot;:null}]}"/></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-TdE2M8jRm" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_selling_point" class="pdp-block module"><div class="lazyload-wrapper "><div class="lazy-load-placeholder"><div class="lazy-load-skeleton"></div></div></div></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>
